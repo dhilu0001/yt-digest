@@ -1,0 +1,73 @@
+{
+  "video_id": "ra7nYJe86GI",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Disposable Software: The Trend 90% of People are Getting Wrong--The Hidden Costs We Need to Consider",
+  "published_at": "2026-01-20T15:01:28Z",
+  "thumbnail": "https://i.ytimg.com/vi/ra7nYJe86GI/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=ra7nYJe86GI",
+  "duration": "25m 21s",
+  "view_count": "45065",
+  "like_count": "1540",
+  "has_transcript": false,
+  "executive_summary": "The video discusses the complexities of disposable software and AI-native development, highlighting that while software costs have plummeted, the costs of attention have not. It emphasizes that companies like Cursor can rapidly deploy software because their users are developers, while enterprise clients prioritize reliability, which requires a different approach to AI integration.",
+  "bullets": [
+    "Software costs have collapsed, but attention costs remain high. This means that while creating software may be cheaper, getting users to focus on it is still a challenge. Think of it like a buffet where food is free, but people are still too busy chatting to eat.",
+    "Cursor can ship multiple updates each day because their customers are developers who can handle some unpredictability. In contrast, companies like Salesforce must provide reliability, as their customers expect software that works flawlessly without constant changes. It's like a restaurant that serves gourmet meals versus a fast-food joint; one can experiment, but the other must deliver consistent quality.",
+    "The philosophy of Cursor works well for developers but fails for Chief Information Officers (CIOs). Developers are accustomed to dealing with variations and bugs, while CIOs need stability and predictability in their software. Imagine a chef who loves experimenting with new recipes versus a diner who just wants their favorite dish served perfectly every time.",
+    "Enterprise customers prioritize reliability over software novelty. They are not looking for the latest trends but rather for solutions that consistently perform without issues. Think of it like a car buyer who values a reliable vehicle over a flashy new model that might break down.",
+    "The fatal flaw in the disposable software narrative is that attention is still the primary constraint. Even if software is cheap and easy to produce, capturing and maintaining user attention is a significant hurdle. It's like trying to sell ice cream on a cold day; no matter how cheap it is, people just aren't interested.",
+    "Proactive AI is different from simply adding a chatbot to existing systems. Proactive AI anticipates user needs and creates value that customers may not even realize they want. It's like having a personal assistant who knows your schedule and reminds you of tasks before you forget, rather than just answering questions when asked.",
+    "Cursor's approach to software development is not universally applicable; it only works for developers. This is because developers are more tolerant of changes and variances in their tools, while enterprise users expect stability. Think of it like a playground where kids can play freely, but adults need a safe and structured environment.",
+    "The current conversation around disposable software often overlooks the need for a different strategy for 95% of the market. Most businesses require a more structured approach to software deployment that emphasizes reliability and user trust. It's like a construction project where most buildings need a solid foundation rather than just quick, temporary structures.",
+    "Simpler interfaces can better absorb constant changes in software. When software is easy to use, users can adapt more quickly to updates and new features. Imagine a smartphone with a user-friendly interface versus a complex one; the simpler phone allows users to navigate changes without frustration.",
+    "There are four common misconceptions about disposable software that need to be addressed. These include the belief that all software can be treated the same way, that speed is always better, that all users are developers, and that attention costs are irrelevant. It's like assuming every car can be driven at high speed; some need to be handled with care to avoid accidents.",
+    "To earn the right to deploy proactive AI, companies must first establish trust with their users. This involves demonstrating reliability and understanding user needs before introducing advanced features. Think of it like a friendship; you need to build trust before asking someone for a favor.",
+    "Knowing which game you're playing is crucial for success in the software market. Companies must understand their target audience and the specific needs of their users to create effective solutions. It's like a sports team that needs to know the rules of the game to strategize effectively."
+  ],
+  "key_takeaways": [
+    "Establish a rule that at least 50% of your evaluation tests must check for code hygiene, not just functionality. This is critical because many teams currently focus too much on whether the code works rather than its quality. If you skip this, you risk creating messy code that becomes harder to maintain.",
+    "By the end of the year, aim to implement a proactive AI strategy that anticipates user needs rather than just reacting to them. This approach will help you stand out in a crowded market and provide real value to your customers. If you don't, you may fall behind competitors who are already adopting these strategies.",
+    "Focus on building trust with your users before deploying advanced AI features. This means delivering reliable software consistently and understanding user needs. Without this trust, your innovative features may not be well received."
+  ],
+  "technical_terms": {
+    "Disposable Software": "Software that is designed to be temporary or short-lived, often used for quick tasks or projects. Think of it like a paper plate; it's useful for a single meal but not meant for long-term use.",
+    "Proactive AI": "Artificial intelligence that anticipates user needs and provides solutions before they are explicitly requested. Like a smart thermostat that adjusts the temperature based on your habits without you having to set it.",
+    "Cursor": "A software development company known for its rapid deployment capabilities, allowing multiple updates each day. Think of it like a fast-paced kitchen where chefs can whip up new dishes quickly based on customer feedback.",
+    "CIO (Chief Information Officer)": "An executive responsible for managing and implementing information technology strategies in a company. Like the captain of a ship, they steer the organization through the waters of technology.",
+    "Enterprise SaaS (Software as a Service)": "Cloud-based software solutions designed for businesses that require reliable and scalable services. It's like renting a fully furnished apartment instead of buying a house; you get what you need without the long-term commitment.",
+    "Attention Cost": "The effort and focus required from users to engage with software or content. Think of it like a toll booth on a highway; every time you want to pass, you have to stop and pay attention.",
+    "Reliability": "The consistency and dependability of software to perform as expected without failures. Like a well-built bridge that can safely carry traffic without collapsing.",
+    "User Interface": "The means by which a user interacts with a computer program or device. It's like the dashboard of a car; a clear and intuitive design makes it easier to drive.",
+    "Market Strategy": "A plan to reach and serve customers effectively in a competitive environment. Think of it like a game plan for a sports team; it outlines how to win against opponents.",
+    "Code Hygiene": "The practice of maintaining clean, organized, and efficient code to ensure long-term software quality. Like keeping a kitchen clean and organized to make cooking easier and more enjoyable.",
+    "Vibe Coding": "A casual approach to coding that prioritizes speed and creativity over strict adherence to best practices. It's like painting a mural without worrying about the details; the focus is on the overall vibe rather than precision.",
+    "Software Deployment": "The process of delivering and installing software for use by end-users. Think of it like launching a new product; it involves planning and execution to ensure a successful introduction."
+  },
+  "topics": [
+    "Disposable Software",
+    "AI Development",
+    "Enterprise Software",
+    "Proactive AI",
+    "Market Strategy"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/the-disposable-software-era-requires?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/the-disposable-software-era-requires?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:29:25.068287+00:00"
+}

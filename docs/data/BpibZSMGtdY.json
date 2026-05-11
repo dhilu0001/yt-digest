@@ -1,0 +1,70 @@
+{
+  "video_id": "BpibZSMGtdY",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "'Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.",
+  "published_at": "2026-02-27T15:00:20Z",
+  "thumbnail": "https://i.ytimg.com/vi/BpibZSMGtdY/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=BpibZSMGtdY",
+  "duration": "41m 12s",
+  "view_count": "122020",
+  "like_count": "4480",
+  "has_transcript": false,
+  "executive_summary": "Prompting has evolved into four distinct disciplines that are crucial for effective communication with AI models, as highlighted by Nate B Jones. These disciplines include prompt craft, context engineering, intent engineering, and specification engineering, each playing a vital role in maximizing the output quality of AI systems. By 2026, understanding all four layers will be essential for knowledge workers to compete effectively in an AI-driven landscape.",
+  "bullets": [
+    "The concept of prompting is now considered obsolete as of last month, indicating that the field is rapidly evolving. This means that what worked yesterday may not yield results today, similar to how outdated technology can hinder progress. Think of it like using a flip phone in a world of smartphones; you’ll miss out on essential features.",
+    "The 10x gap exists between individuals who understand all four layers of prompting and those who only practice one. This gap can lead to vastly different outcomes when using the same AI model, akin to two chefs using the same ingredients but one creating a gourmet meal while the other serves a bland dish. The difference lies in their understanding of the recipe.",
+    "Toby Lutke’s context engineering discipline helps him write tighter emails and better memos. This means that by crafting the right context, communication becomes clearer and more effective, just like how a well-framed photograph captures the subject beautifully while a poorly framed one leaves viewers confused.",
+    "Prompt craft is now seen as table stakes, meaning it’s the basic requirement for engaging with AI. However, it’s not enough on its own; think of it like knowing how to drive a car but not understanding how to navigate traffic—without that knowledge, you’ll struggle to reach your destination.",
+    "Specification engineering is what determines the quality ceiling of AI outputs. This discipline involves creating precise guidelines and requirements, much like an architect drafting blueprints that ensure a building stands strong and meets safety codes.",
+    "The five primitives of specification engineering include self-contained problem statements, acceptance criteria, constraint architecture, task decomposition, and evaluation design. Each of these primitives acts like a building block, where missing one can lead to structural weaknesses in your project, similar to how a house without a solid foundation will eventually crumble.",
+    "Self-contained problem statements define the issue clearly and concisely. This is crucial because if the problem isn’t understood, the solution will be misguided, much like trying to fix a car without knowing what’s wrong with it.",
+    "Acceptance criteria outline the conditions that must be met for a solution to be considered successful. This is like setting the finish line in a race; without it, runners won’t know when they’ve crossed it, leading to confusion and frustration.",
+    "Constraint architecture involves setting boundaries within which the AI operates. This is essential because, without constraints, the AI could take actions that are inappropriate or irrelevant, similar to letting a child run wild in a candy store without supervision.",
+    "Task decomposition breaks down larger tasks into manageable parts. This is important because tackling a massive project all at once can be overwhelming, like trying to eat a whole cake in one bite instead of slicing it into pieces.",
+    "Evaluation design focuses on how to assess the performance of the AI against the specifications. This is vital because without a clear evaluation method, you won’t know if your AI is performing well, akin to a student not knowing their grades without a grading system.",
+    "The speaker emphasizes that knowledge workers must encode everything they relied on in conversation before the AI starts running. This means that if you don’t prepare your instructions thoroughly, it’s like sending a ship to sea without a map; it may drift aimlessly without reaching its destination."
+  ],
+  "key_takeaways": [
+    "Start learning about all four disciplines of prompting: prompt craft, context engineering, intent engineering, and specification engineering. This will prepare you for the future job market in 2026, where understanding these layers will be essential for success. If you only focus on one, you risk falling behind your peers.",
+    "Implement a rule that at least 50% of your evaluation tests must check for specification quality, including self-contained problem statements and acceptance criteria. This ensures that your projects are built on a solid foundation, preventing costly mistakes later. Most teams currently have this split backwards at 80/20, which can lead to project failures.",
+    "By the end of this year, focus on mastering context engineering to improve your communication skills. This will enhance your ability to convey ideas clearly, making you a more effective collaborator. Without this skill, your messages may be misunderstood, leading to confusion and wasted time."
+  ],
+  "technical_terms": {
+    "Prompt Craft": "The basic skill of creating effective prompts for AI models. Think of it like learning to give clear directions to a driver; if your instructions are vague, they may not reach the right destination.",
+    "Context Engineering": "The discipline of providing the right background information to improve communication and understanding. Like setting the scene in a story, it helps the audience grasp the main points more easily.",
+    "Intent Engineering": "The process of clarifying the purpose behind a prompt to ensure the AI understands what you want. Think of it like a coach explaining game strategies to players; without clear intent, the team may not perform well.",
+    "Specification Engineering": "The practice of creating detailed guidelines and requirements for AI tasks. Like an architect's blueprints, it ensures that the final output meets the desired standards.",
+    "Self-Contained Problem Statements": "Clear and concise definitions of the issues to be solved. Think of it like a doctor diagnosing a patient; if the diagnosis is unclear, the treatment will likely be ineffective.",
+    "Acceptance Criteria": "The specific conditions that must be met for a solution to be deemed successful. Like a finish line in a race, it provides a clear goal for completion.",
+    "Constraint Architecture": "The boundaries set for AI operations to ensure appropriate actions. Think of it like a fence around a yard; it keeps the dog safe while allowing it to play.",
+    "Task Decomposition": "Breaking down larger tasks into smaller, manageable parts. Like slicing a pizza into pieces, it makes it easier to handle and enjoy.",
+    "Evaluation Design": "The method of assessing AI performance against specifications. Think of it like a grading system in school; it helps determine how well a student has learned the material."
+  },
+  "topics": [
+    "AI",
+    "Prompting",
+    "Specification Engineering",
+    "Context Engineering",
+    "Career Development"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/prompting-just-split-into-4-different?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/prompting-just-split-into-4-different?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:57:33.503710+00:00"
+}

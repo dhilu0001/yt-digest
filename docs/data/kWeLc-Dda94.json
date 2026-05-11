@@ -1,0 +1,73 @@
+{
+  "video_id": "kWeLc-Dda94",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles",
+  "published_at": "2025-09-23T13:01:29Z",
+  "thumbnail": "https://i.ytimg.com/vi/kWeLc-Dda94/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=kWeLc-Dda94",
+  "duration": "11m 37s",
+  "view_count": "13015",
+  "like_count": "645",
+  "has_transcript": false,
+  "executive_summary": "Nate B Jones shares six crucial principles for building reliable AI systems, emphasizing that traditional engineering practices often fail in the AI landscape. He highlights the importance of stateful intelligence, deterministic wrappers around large language models (LLMs), and capability-based routing to ensure predictable performance. By implementing these strategies, teams can avoid common pitfalls and enhance their AI strategies effectively.",
+  "bullets": [
+    "Stateful intelligence and context preservation are critical for AI systems, as they outperform stateless patterns. This means that keeping track of previous interactions helps the AI make better decisions, similar to how a teacher remembers a student's past performance to tailor their lessons.",
+    "Bounding uncertainty with deterministic wrappers around LLMs is essential for reliability. This approach ensures that the AI operates within defined limits, much like a safety net that prevents a tightrope walker from falling if they lose their balance.",
+    "Capability-based routing changes how load and token budgets are managed in AI systems. By directing tasks based on the AI's strengths, teams can optimize performance, just like a sports coach assigns players to positions where they excel, maximizing the team's chances of winning.",
+    "Post-launch QA shifts to focus on monitoring reasoning quality rather than just functionality. This means teams need to evaluate how well the AI thinks and reasons, similar to how a chef tastes a dish to ensure it’s not just cooked but also flavorful.",
+    "To achieve predictable performance from large language models and AI agents, teams must combine stateful context, deterministic wrappers, capability-based routing, and continuous input validation. This combination is like a well-orchestrated symphony, where each musician plays their part in harmony to create beautiful music.",
+    "Continuous input validation is necessary to catch subtle failures in AI systems. Without it, small mistakes can snowball into major issues, much like ignoring a tiny leak in a roof that eventually leads to a flooded basement.",
+    "Rigorous auditability is crucial for monitoring AI performance over time. This means keeping detailed records of how the AI operates, similar to how a pilot logs every flight to ensure safety and accountability.",
+    "Many traditional engineering best practices do not apply to AI development and may need to be reversed. This is akin to using a map designed for cars when you’re trying to navigate a hiking trail — the rules change based on the terrain.",
+    "The video emphasizes that only 1% of builders know these six principles, highlighting a significant knowledge gap in the industry. This is like a secret recipe that only a few chefs possess, giving them an edge in the culinary world.",
+    "Nate B Jones has built over 100 agentic systems, providing him with extensive experience in what works and what doesn't in AI development. His insights are like a seasoned sailor sharing tips on navigating treacherous waters after years of experience.",
+    "The importance of context in AI cannot be overstated, as it allows for more nuanced responses. Think of it like a conversation where understanding the background of a topic leads to deeper and more meaningful discussions.",
+    "AI systems require a shift in mindset from traditional engineering practices to accommodate their unique challenges. This shift is like learning to ride a bike — you can’t just apply the same rules as walking; you need to adapt to balance and momentum."
+  ],
+  "key_takeaways": [
+    "Implement stateful intelligence in your AI systems to enhance decision-making. This approach helps the AI remember past interactions, improving its responses. Without this, your AI may struggle to provide relevant answers, much like a forgetful friend who can't recall your previous conversations.",
+    "Set up deterministic wrappers around your LLMs to manage uncertainty effectively. This will help ensure that your AI operates within safe limits, preventing unexpected behaviors. If you skip this, you risk your AI making unpredictable decisions, like a car without brakes speeding down a hill.",
+    "Adopt capability-based routing to optimize your AI's performance. By directing tasks to the AI's strengths, you can improve efficiency and outcomes. Ignoring this could lead to wasted resources, similar to a team of athletes not playing to their individual strengths and losing a game.",
+    "Shift your post-launch QA focus to reasoning quality rather than just functionality. This will help you catch deeper issues in AI performance, ensuring that the AI not only works but also thinks well. If you neglect this, you may end up with an AI that functions but lacks insight, like a clock that tells time but has no understanding of its purpose.",
+    "By the end of the year, aim to integrate continuous input validation into your AI systems. This will help you catch subtle failures before they escalate, maintaining system reliability. Without this, minor issues could lead to major system failures, much like ignoring a small crack in a dam that could eventually lead to a catastrophic flood."
+  ],
+  "technical_terms": {
+    "Stateful Intelligence": "This refers to an AI's ability to remember past interactions and use that information to inform future decisions. Think of it like a librarian who recalls which books you've borrowed before to recommend new ones.",
+    "Context Preservation": "This is the practice of maintaining relevant information from previous interactions to improve AI responses. Like a detective who keeps notes on a case to solve it more effectively.",
+    "Deterministic Wrappers": "These are structures that limit the range of outputs from an AI, ensuring it behaves predictably. Think of it like a safety harness that keeps a child secure while they play on a swing.",
+    "Large Language Models (LLMs)": "These are advanced AI systems designed to understand and generate human-like text. Like a highly skilled translator who can interpret and convey complex ideas across languages.",
+    "Capability-Based Routing": "This involves directing tasks to the AI based on its specific strengths or capabilities. Like a restaurant that assigns chefs to dishes they excel at, ensuring the best possible meal.",
+    "Post-Launch QA": "Quality assurance processes that occur after an AI system is launched, focusing on its performance and reasoning. Think of it like a car mechanic who checks a vehicle's performance after it leaves the showroom.",
+    "Continuous Input Validation": "This is the ongoing process of checking the inputs to an AI system to ensure they are accurate and relevant. Like a quality inspector who checks ingredients before they are used in a recipe.",
+    "Auditability": "This refers to the ability to track and verify the performance and decisions of an AI system over time. Think of it like a financial audit that reviews a company's transactions to ensure accuracy.",
+    "Agentic Systems": "These are AI systems designed to operate autonomously and make decisions based on their programming. Like a robot vacuum that navigates a room and cleans without human intervention.",
+    "Uncertainty Management": "This involves strategies to handle unpredictable outcomes in AI systems. Like a weather forecast that prepares you for possible rain, even if it’s not certain."
+  },
+  "topics": [
+    "AI Development",
+    "Engineering Practices",
+    "Machine Learning",
+    "Quality Assurance",
+    "Performance Optimization"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/why-your-ai-breaks-in-production?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/why-your-ai-breaks-in-production?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T17:39:08.166058+00:00"
+}

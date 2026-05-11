@@ -1,0 +1,82 @@
+{
+  "video_id": "HDVG8RKYX9s",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "AI Certifications Focus on Tools NOT Skills—Here's a Better Way",
+  "published_at": "2025-11-26T15:00:35Z",
+  "thumbnail": "https://i.ytimg.com/vi/HDVG8RKYX9s/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=HDVG8RKYX9s",
+  "duration": "35m 12s",
+  "view_count": "11418",
+  "like_count": "458",
+  "has_transcript": false,
+  "executive_summary": "Nate B Jones discusses how AI certifications often focus on mastering specific tools rather than developing comprehensive skills. He introduces AiCred, which evaluates AI fluency across five key pillars of large language model (LLM) capability, emphasizing the importance of strategy, prompting, and workflow design in real AI work. As AI evolves with models like GPT-5.1 and Claude Opus 4.5, understanding these dimensions becomes crucial for effective decision-making.",
+  "bullets": [
+    "Most people misjudge their AI skills because they equate competency with knowing a single tool. This oversimplification ignores the multi-dimensional nature of AI fluency, which requires a blend of various skills. It's like thinking you can cook just because you know how to boil water; there’s so much more to creating a delicious meal.",
+    "AiCred measures AI capability across five pillars, which include strategy, prompting, workflow design, integration, and critical evaluation. This comprehensive approach helps teams make better decisions faster, as they are not limited to just one aspect of AI. Think of it like a sports team where each player has a unique role; if everyone only focuses on scoring, they’ll miss out on the teamwork that leads to victory.",
+    "The evolution of AI models like GPT-5.1, Claude Opus 4.5, and Gemini 3 demands that professionals adapt to multi-model work. As these models become more sophisticated, understanding how to integrate them into workflows is essential. It's like upgrading from a bicycle to a car; you need to learn new skills to navigate the more complex environment.",
+    "Real AI work requires judgment and critical evaluation, not just technical skills. Teams that measure their capabilities across all five pillars can assess their strengths and weaknesses more accurately. Imagine a ship's crew; if only the captain knows how to navigate, the ship is at risk of running aground.",
+    "Honest evaluation and ethics are crucial for trustworthy AI use. Without these elements, AI applications can lead to harmful consequences, undermining user trust. Think of it like a doctor who doesn’t follow ethical guidelines; the patients’ health is at risk.",
+    "AI fluency is not just about using tools but understanding how they fit into broader workflows. This understanding allows for more effective collaboration and innovation within teams. It's like knowing how to play an instrument in a band; you need to understand the music to harmonize with others.",
+    "The current trend in AI certifications is to focus on specific tools rather than a holistic understanding of AI capabilities. This can lead to a workforce that is technically skilled but lacks the strategic insight needed for real-world applications. Think of it like training a racehorse to run fast without teaching it how to navigate the track.",
+    "By the end of the year, professionals should aim to have a solid grasp of the five pillars of AI fluency to stay competitive. This timeline emphasizes the urgency of adapting to the rapidly changing AI landscape. It's like preparing for a marathon; you need to train consistently to be ready on race day.",
+    "Implementation costs for AI tools are expected to decrease significantly, making it easier for teams to adopt advanced technologies. This reduction in costs can democratize access to AI, allowing more organizations to leverage its capabilities. Think of it like a smartphone that becomes more affordable over time, enabling more people to connect and communicate.",
+    "AI competency is often misrepresented as simply knowing how to use a tool. In reality, it encompasses a broader skill set that includes strategic thinking and ethical considerations. It's like being a chef who knows not just how to cook but also how to source ingredients sustainably.",
+    "The five pillars of AI capability include strategy, prompting, workflow design, integration, and critical evaluation. Mastering these areas is essential for effective AI work and decision-making. Think of it like building a house; you need a solid foundation and a well-thought-out design to ensure it stands strong.",
+    "The demand for ethical AI practices is growing as more organizations recognize the importance of trust in AI applications. Professionals must prioritize ethical considerations in their work to build reliable systems. It's like a bridge engineer who must ensure the structure is safe and sound for all who cross it."
+  ],
+  "key_takeaways": [
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, such as naming conventions and function length, rather than just whether the code works. Most teams currently have this split backwards at 80/20, which can lead to messy and unmaintainable code. If you ignore this, your projects may become difficult to manage and scale over time.",
+    "Aim to understand the five pillars of AI fluency by the end of the year to remain competitive in the evolving job market. This knowledge will allow you to integrate AI tools effectively and make informed decisions. If you don’t prioritize this learning, you risk falling behind as the industry advances.",
+    "Incorporate ethical considerations into your AI projects from the start. This will help build trust with users and ensure that your applications are responsible and reliable. Neglecting ethics can lead to public backlash and damage your reputation."
+  ],
+  "technical_terms": {
+    "AiCred": "A tool designed to measure AI fluency across multiple dimensions, rather than just focusing on single tools. Think of it like a fitness tracker that monitors various aspects of your health, not just your weight.",
+    "LLM (Large Language Model)": "A type of AI model that processes and generates human-like text based on vast amounts of data. Like a well-read librarian who can provide information on any topic you ask about.",
+    "Workflow Design": "The process of organizing tasks and tools to optimize efficiency in completing a project. Think of it like planning a road trip, where you map out the best routes and stops to make the journey enjoyable and efficient.",
+    "Prompting": "The technique of crafting specific inputs to guide AI models in generating desired outputs. Like giving a chef a detailed recipe to ensure the dish turns out exactly as you want.",
+    "Integration": "The ability to combine different AI tools and models into a cohesive system that works together effectively. Think of it like assembling a jigsaw puzzle, where each piece must fit perfectly to create a complete picture.",
+    "Critical Evaluation": "The skill of assessing the effectiveness and reliability of AI outputs. Like a quality control inspector who checks products to ensure they meet safety standards before they reach consumers.",
+    "Strategy": "The overarching plan that guides how AI tools are used to achieve specific goals. Think of it like a game plan in sports, where every player knows their role to win the match.",
+    "Ethics in AI": "The moral principles that guide the responsible use of AI technologies. Like a compass that helps navigate the right path in a complex landscape.",
+    "Multi-model Work": "The practice of using multiple AI models in conjunction to enhance capabilities and performance. Think of it like a symphony orchestra, where different instruments come together to create beautiful music.",
+    "GPT-5.1": "An advanced version of the Generative Pre-trained Transformer model that generates human-like text. Like an upgraded smartphone with better features and capabilities.",
+    "Claude Opus 4.5": "A specific AI model that is part of the evolving landscape of AI technologies. Think of it like a new car model that comes with improved safety and performance features.",
+    "Gemini 3": "Another evolving AI model that represents the latest advancements in artificial intelligence. Like the latest gaming console that offers enhanced graphics and gameplay experiences.",
+    "AI Competency": "The ability to effectively use AI tools and understand their implications in real-world applications. Think of it like being a skilled driver who knows not just how to operate a car but also how to navigate traffic safely.",
+    "Trustworthy AI": "AI systems that are reliable and ethical, ensuring user confidence in their outputs. Like a trusted friend who always gives you honest advice.",
+    "Evaluation Tests": "Assessments designed to measure the effectiveness and quality of AI systems. Think of it like a final exam that checks your knowledge and skills before graduation.",
+    "Implementation Costs": "The expenses associated with adopting and integrating AI technologies into an organization. Like the initial investment needed to set up a new business before it starts generating profit."
+  },
+  "topics": [
+    "AI Fluency",
+    "AI Certifications",
+    "Ethics in AI",
+    "AI Tools",
+    "AI Strategy"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://www.aicred.ai/",
+      "title": "https://www.aicred.ai/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/nobody-could-measure-ai-skills-so?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/nobody-could-measure-ai-skills-so?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:33:25.654834+00:00"
+}

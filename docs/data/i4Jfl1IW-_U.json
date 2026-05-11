@@ -1,0 +1,68 @@
+{
+  "video_id": "i4Jfl1IW-_U",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Stop Burning Tokens: The Contract-First Prompting Blueprint No One Talks About",
+  "published_at": "2025-08-04T13:01:18Z",
+  "thumbnail": "https://i.ytimg.com/vi/i4Jfl1IW-_U/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=i4Jfl1IW-_U",
+  "duration": "9m 28s",
+  "view_count": "19597",
+  "like_count": "1171",
+  "has_transcript": false,
+  "executive_summary": "Nate B. Jones emphasizes that unclear intent is the main reason prompts fail in AI interactions. He introduces 'contract-first prompting' as a structured approach where you define the mission and success criteria before engaging with the AI model. This method ensures that the model understands your needs and can deliver high-quality output, whether summarizing history or creating tools.",
+  "bullets": [
+    "Most prompts fail because they do not clearly communicate intent. Nate B. Jones states, 'Almost every prompt that fails fails because intent wasn’t clearly communicated.' This is like giving someone vague directions to your house; they might end up lost and confused.",
+    "Contract-first prompting treats the language model (LLM) as an engineering partner. By drafting a 'contract' that outlines the mission, success criteria, and guardrails, you ensure clarity before any work begins. Think of it like a construction blueprint that prevents costly mistakes during building.",
+    "The structured clarification loop requires the model to list every unknown before asking questions one at a time. This process continues until the model reaches 95% confidence in its ability to deliver accurately. It’s like a detective piecing together clues until they are almost certain of the suspect's identity.",
+    "An echo check is a single, clear sentence that summarizes the deliverable and constraints. This step confirms that both you and the model are aligned before locking in the project scope. Imagine a coach checking the game plan with players to ensure everyone knows their roles before the match starts.",
+    "Token-efficient precision means you don’t need lengthy prompts to achieve clarity. A clear sequence of steps—like gap listing, targeted Q&A, and contract locking—can align the model with minimal token usage. It’s like using a few precise ingredients to create a gourmet dish instead of overloading it with unnecessary extras.",
+    "The framework is domain-agnostic, meaning it works across various topics. Whether summarizing 365 years of Balkan history or scoping a multi-platform livestream comment tool, the same structured approach can convert vague ideas into actionable tasks. Think of it like a universal remote that can control multiple devices without needing different remotes for each.",
+    "The clarification loop is essential for addressing ambiguity in prompts. Nate emphasizes that allowing the model to ask random clarifying questions is 'an unprofessional way to handle ambiguity.' It’s like a student asking a teacher for help but not being specific about what they don’t understand.",
+    "Listing the gaps to the goal is a critical part of the contract-first approach. This means identifying what information is missing before proceeding. It’s similar to a chef checking their pantry for ingredients before starting to cook to avoid last-minute trips to the store.",
+    "Once the contract is locked, the model builds and self-tests the work. This ensures that the output meets the defined criteria before it’s delivered. Think of it like a car manufacturer testing a vehicle on the road before it goes to market to ensure safety and performance.",
+    "Nate demonstrates the contract-first method on complex tasks, showing its effectiveness. For example, he can create a 500-word overview of Balkan history or develop a tool for aggregating livestream comments. This versatility is like a Swiss Army knife that can handle various tasks efficiently.",
+    "The structured prompting method is designed to convert fuzzy intent into executable work orders. This transformation is crucial for achieving high-quality outputs in AI interactions. It’s like turning a rough draft into a polished final paper through careful editing.",
+    "The contract-first prompting method emphasizes the importance of clarity in AI interactions. Without it, you risk wasting time and resources on poorly aligned outputs. It’s like trying to build a house without a solid foundation; everything else will be unstable."
+  ],
+  "key_takeaways": [
+    "Implement contract-first prompting by defining the mission and success criteria before engaging with the AI model. This clarity is crucial for ensuring that the model understands your needs. Skipping this step can lead to wasted time and misaligned outputs.",
+    "Use the structured clarification loop to address any unknowns before proceeding with the task. This method increases the model's confidence in its responses, ensuring higher accuracy. If you don’t clarify, you risk receiving vague or incorrect information.",
+    "Conduct an echo check to confirm alignment before finalizing the project scope. This simple step can prevent misunderstandings and ensure that both you and the model are on the same page. Without this check, you may end up with unexpected results.",
+    "Aim for token-efficient precision by using a clear sequence of steps in your prompts. This approach minimizes unnecessary token usage while maximizing clarity. If you rely on lengthy prompts, you may waste resources and complicate the process.",
+    "By the end of the year, make it a goal to master the contract-first prompting method. This will enhance your ability to work effectively with AI and improve the quality of your outputs. Delaying this learning could hinder your progress in the competitive AI field."
+  ],
+  "technical_terms": {
+    "contract-first prompting": "A structured approach where you define the mission, success criteria, and guardrails before engaging with an AI model. Think of it like a detailed project plan that outlines every step needed to achieve your goals.",
+    "structured clarification loop": "A method where the AI model lists unknowns and asks targeted questions until it reaches a high level of confidence in its responses. Like a detective gathering evidence step by step to solve a case.",
+    "echo check": "A concise sentence that summarizes the deliverable and constraints to confirm alignment between you and the AI model. Think of it like a coach ensuring all players understand the game plan before the match.",
+    "token-efficient precision": "The practice of using minimal tokens in prompts while still achieving clear communication and alignment with the AI model. Like cooking with just the right amount of spices to enhance flavor without overwhelming the dish.",
+    "domain-agnostic": "A term describing a method or framework that can be applied across various topics or fields. Like a universal remote that can control multiple devices without needing different remotes for each.",
+    "intent gap": "The disconnect that occurs when the user's true intent is not clearly communicated to the AI model. Think of it like giving someone vague directions and expecting them to find your house without getting lost.",
+    "clarifying questions": "Targeted inquiries made by the AI model to gather necessary information and reduce ambiguity. Like a teacher asking specific questions to help a student understand a complex topic.",
+    "gaps to goal": "The missing information or knowledge that needs to be identified before proceeding with a task. Think of it like a chef checking their pantry for ingredients before starting to cook.",
+    "self-tests": "The process by which the AI model evaluates its own output against the defined criteria to ensure quality. Like a car manufacturer testing a vehicle on the road to ensure it meets safety standards.",
+    "work order": "A detailed plan that outlines the tasks and expectations for a project. Like a construction blueprint that guides builders in creating a structure."
+  },
+  "topics": [
+    "AI prompting",
+    "contract-first approach",
+    "clarification techniques",
+    "prompt engineering",
+    "AI alignment"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T12:21:18.537068+00:00"
+}

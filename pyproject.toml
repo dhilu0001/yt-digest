@@ -1,0 +1,14 @@
+[project]
+name = "yt-digest"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "google-api-python-client>=2.131.0",
+    "google-genai>=1.0.0",
+    "groq>=0.11.0",
+    "openai>=1.40.0",
+    "youtube-transcript-api>=0.6.2",
+]
+
+[dependency-groups]
+dev = []

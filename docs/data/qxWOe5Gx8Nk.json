@@ -1,0 +1,73 @@
+{
+  "video_id": "qxWOe5Gx8Nk",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "How Perplexity Research Mode beats Google #workwithai #perplexityai #ai",
+  "published_at": "2025-11-27T04:00:58Z",
+  "thumbnail": "https://i.ytimg.com/vi/qxWOe5Gx8Nk/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=qxWOe5Gx8Nk",
+  "duration": "1m",
+  "view_count": "12588",
+  "like_count": "484",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones explains how Perplexity's RAG (Retrieval-Augmented Generation) and research mode provide a more effective search experience than traditional search engines like Google. He emphasizes the importance of specific prompting strategies and the need for citation checks to manage inaccuracies, or 'hallucinations,' in AI outputs. By focusing on these techniques, users can enhance their research capabilities significantly.",
+  "bullets": [
+    "Perplexity's RAG enables 'agentic search,' meaning it allows users to take control of their search process. This is crucial because it empowers users to refine their queries and get more relevant results, like having a personal assistant who knows exactly what you want and can filter out the noise.",
+    "Prompting in Perplexity is different because it uses short context and avoids few-shot prompting. This matters because it allows users to get precise answers without the clutter of unnecessary examples, similar to asking a librarian for a specific book instead of a vague topic.",
+    "When using Perplexity, users should demand multiple perspectives in their search results. This is important because it ensures a well-rounded understanding of a topic, like consulting different experts before making a big decision rather than relying on just one opinion.",
+    "Citations are essential when using Perplexity, as they provide transparency about where the information comes from. This is like checking the source of a news article to ensure it's credible before sharing it with others.",
+    "Output constraints in Perplexity help users tailor the information they receive. This is similar to setting a budget before shopping, ensuring you only get what you can afford and nothing extraneous.",
+    "Perplexity's focus modes allow users to narrow down their searches based on specific needs. This is like using a filter on a photo to highlight only the colors you want to see, making the final image clearer and more appealing.",
+    "The concept of 'Spaces' in Perplexity refers to different environments for conducting searches. This is important because it allows users to customize their search experience, like choosing between a quiet library or a bustling café to study.",
+    "Labs in Perplexity are experimental features that users can explore. Engaging with these labs is crucial for staying ahead in AI research, much like trying out new recipes in a kitchen to discover innovative dishes.",
+    "Iterative deepening is a technique in Perplexity that encourages users to refine their queries progressively. This matters because it helps users dig deeper into a topic, akin to peeling layers off an onion to uncover its core.",
+    "Perplexity provides recency in information, meaning it pulls in the latest data available. This is vital in the fast-paced world of AI, similar to a news ticker that updates you with the latest headlines as they happen.",
+    "Despite its advantages, users must still perform citation checks and double-LLM cross-checks to manage hallucinations. This is like having a second opinion from a doctor to confirm a diagnosis before proceeding with treatment.",
+    "The video emphasizes the importance of understanding Perplexity in the age of AI. This is crucial because as AI continues to evolve, knowing how to leverage these tools effectively will be key to staying competitive, much like learning new technology to keep your skills relevant in the job market."
+  ],
+  "key_takeaways": [
+    "Implement a rule that at least 50% of your search queries in Perplexity must include demands for multiple perspectives and citations. This ensures a comprehensive view of topics and prevents misinformation, which could lead to poor decision-making.",
+    "Start using Perplexity's focus modes immediately to tailor your search experience. This will help you find relevant information faster, and without it, you risk wasting time sorting through irrelevant data.",
+    "Engage with Perplexity's Labs regularly to experiment with new features and stay ahead in AI research. If you ignore this, you may miss out on innovative tools that could enhance your productivity."
+  ],
+  "technical_terms": {
+    "RAG": "Retrieval-Augmented Generation, a method that combines retrieval of information with generation of text to provide more accurate and relevant search results. Think of it like a chef who not only knows recipes but also has a pantry full of fresh ingredients to create the best dish.",
+    "Agentic search": "A search method that allows users to take control of their queries and refine their results actively. Like being the captain of a ship, steering it in the direction you want to go rather than just drifting along with the current.",
+    "Few-shot prompting": "A technique where the AI is given a few examples to understand the context of a query. Think of it like teaching a child to recognize animals by showing them a few pictures instead of just telling them the names.",
+    "Citations": "References to the sources of information used in search results. Like footnotes in a book that tell you where the author got their facts, ensuring you can trust the information.",
+    "Output constraints": "Limits set on the type or amount of information returned in search results. Like setting a timer when baking to ensure you don’t overcook the cake.",
+    "Focus modes": "Different settings in Perplexity that allow users to narrow their search based on specific needs. Think of it like using a magnifying glass to zoom in on the details that matter most.",
+    "Spaces": "Customizable environments within Perplexity for conducting searches. Like different rooms in a house designed for specific activities, each providing a unique atmosphere for work.",
+    "Labs": "Experimental features in Perplexity that users can try out. Like a science lab where you can test new ideas and see what works best.",
+    "Iterative deepening": "A technique that encourages users to refine their queries progressively for deeper insights. Like digging a well deeper to find more water, ensuring you get the best results.",
+    "Recency": "The quality of providing the most up-to-date information available. Like a fresh newspaper that gives you the latest news instead of last week's headlines.",
+    "Hallucinations": "Inaccurate or fabricated information generated by AI. Think of it like a mirage in the desert, where what you see isn’t real, and you need to be cautious not to get misled.",
+    "Double-LLM cross-check": "A method of verifying information by using two different language models to ensure accuracy. Like getting a second opinion from two doctors to confirm a diagnosis."
+  },
+  "topics": [
+    "AI Search",
+    "Perplexity",
+    "Research Techniques",
+    "Prompt Engineering",
+    "AI Accuracy"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/unlocking-perplexitys-power-proven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/unlocking-perplexitys-power-proven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:31:58.403450+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "AckkntfOvz8",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Why even Andrej Karpathy feels behind with AI! #ai #futureofwork",
+  "published_at": "2026-03-24T03:00:24Z",
+  "thumbnail": "https://i.ytimg.com/vi/AckkntfOvz8/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=AckkntfOvz8",
+  "duration": "1m 59s",
+  "view_count": "10619",
+  "like_count": "373",
+  "has_transcript": false,
+  "executive_summary": "In the evolving landscape of AI, even experts like Andrej Karpathy feel overwhelmed as the focus shifts from coding to orchestrating complex systems. The video outlines a new skill tree that emphasizes the importance of separating generation from decision-making, which is crucial for anyone entering the AI field. Organizations that adapt to these changes by 2026 will see significant advantages, while those that don't will likely fall behind.",
+  "bullets": [
+    "Andrej Karpathy, a leading figure in AI, admits he feels behind in the current landscape. This highlights that even top experts are struggling to keep pace with the rapid advancements in AI technology, indicating a significant shift in the skills required for success. It's like a seasoned chef suddenly needing to learn molecular gastronomy to stay relevant.",
+    "The transition from authorship to orchestration means that simply writing code is no longer enough; you must now manage and direct complex systems. This shift breaks the old assumption that more effort directly translates to better output, similar to how a conductor doesn't play every instrument but ensures the orchestra plays in harmony.",
+    "The new four-level skill tree includes conditioning intent and context, which is essential for effective AI deployment. This means understanding not just what you want to achieve but also the environment in which the AI operates, like a gardener knowing the soil and climate before planting seeds.",
+    "Compounding through evaluations, feedback loops, and governance is a crucial part of the new skill tree. This process ensures continuous improvement and accountability, much like a sports team reviewing game footage to refine their strategies and enhance performance.",
+    "Separating generation from decision-making is vital when you're responsible for the outputs of a language model (LLM). This distinction means you need to be clear about what the AI generates versus the choices you make based on that output, like a director deciding how to edit a film based on raw footage.",
+    "In a world where the abstraction stack has inverted, traditional technical boundaries are becoming less relevant. This means that roles and responsibilities in tech are shifting, similar to how the roles of actors and directors blur in modern filmmaking, requiring everyone to adapt.",
+    "Organizations that create deliberate skill trees focusing on separating generation from decision-making can achieve up to 10X speedups. This is crucial for staying competitive, much like a factory that streamlines its assembly line to produce goods faster and more efficiently.",
+    "Companies that cling to outdated technical versus non-technical hierarchies will likely fall behind. This is akin to a business refusing to adopt new technology and losing market share to more innovative competitors who embrace change.",
+    "By 2026, the landscape of AI will require a new set of skills that prioritize orchestration over traditional coding. Those who fail to adapt will find themselves outpaced, much like a horse-drawn carriage in a world of electric cars.",
+    "The video emphasizes that the leverage in AI has shifted from writing code to orchestrating probabilistic systems. This means that understanding how to manage uncertainty and variability is now more important than just knowing how to code, like a pilot needing to navigate through changing weather conditions rather than just knowing how to fly the plane.",
+    "The speaker notes that the old assumption that effort maps to output is no longer valid. This means that working harder won't necessarily yield better results, similar to how running faster doesn't always lead to winning a race if you don't have a strategy.",
+    "The importance of governance in AI systems is highlighted as a means to ensure accountability and ethical use. This is like having a referee in a game to enforce the rules and maintain fairness, ensuring that everyone plays by the same standards."
+  ],
+  "key_takeaways": [
+    "Develop a skill tree that separates generation from decision-making by the end of 2026. This will help your organization leverage AI effectively and avoid falling behind competitors. If you ignore this shift, you risk becoming obsolete in a rapidly evolving field.",
+    "Ensure that at least 50% of your evaluation tests focus on code hygiene, including naming conventions and structure, rather than just functionality. Most teams currently have this split backwards at 80/20, which can lead to messy, unmanageable code that is hard to maintain.",
+    "Invest time in understanding probabilistic systems and how to orchestrate them rather than just focusing on coding skills. This will prepare you for the future of AI, where managing uncertainty is key, and failing to adapt could leave you behind."
+  ],
+  "technical_terms": {
+    "Orchestration": "The act of managing and coordinating complex systems to achieve desired outcomes. Think of it like a conductor leading an orchestra, ensuring all musicians play together harmoniously.",
+    "Probabilistic Systems": "Systems that operate based on probabilities and uncertainties rather than deterministic outcomes. Like a weather forecast that predicts rain with a 70% chance, indicating uncertainty in the prediction.",
+    "Skill Tree": "A framework that outlines the various skills and competencies needed for a specific field. Think of it like a video game character development system, where you unlock new abilities as you progress.",
+    "Feedback Loops": "Processes where the output of a system is used as input for future actions, allowing for continuous improvement. Like a student who learns from their mistakes on a test to perform better next time.",
+    "Governance": "The framework and policies that guide the ethical use and accountability of AI systems. Like the rules of a game that ensure fair play and prevent cheating.",
+    "Conditioning Intent": "The process of clarifying what you want to achieve with an AI system. Think of it like setting a clear goal before starting a project, ensuring everyone knows the target.",
+    "Context": "The circumstances and environment in which an AI system operates. Like the setting of a story that influences how characters behave and interact.",
+    "Separation of Generation": "The distinction between what an AI generates and the decisions made based on that output. Like a chef preparing a dish while a diner decides how to enjoy it.",
+    "Abstraction Stack": "The layers of complexity in a system that simplify interactions. Think of it like the layers of an onion, where each layer adds complexity but also provides a clearer view of the core.",
+    "Technical Hierarchies": "The traditional structures that separate technical roles from non-technical ones. Like a corporate ladder that keeps departments isolated, which can hinder collaboration."
+  },
+  "topics": [
+    "AI Skills",
+    "Orchestration",
+    "Future of Work",
+    "Technical Skills",
+    "AI Governance"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:35:46.371560+00:00"
+}

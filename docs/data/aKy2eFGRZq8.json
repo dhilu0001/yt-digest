@@ -1,0 +1,76 @@
+{
+  "video_id": "aKy2eFGRZq8",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "How to Find The Exact Right 'Altitude' for Your AI Prompts #ai #promptengineering",
+  "published_at": "2025-12-13T04:00:01Z",
+  "thumbnail": "https://i.ytimg.com/vi/aKy2eFGRZq8/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=aKy2eFGRZq8",
+  "duration": "1m 1s",
+  "view_count": "739",
+  "like_count": "19",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the importance of finding the right 'altitude' for AI prompts, emphasizing that too much detail can stifle creativity while too little can lead to confusion. He introduces the concept of 'Goldilocks prompting' as a balanced approach that enhances the performance of models like Claude, GPT-5, and Gemini. The video highlights the effectiveness of short, reusable prompt 'slugs' over lengthy instructions.",
+  "bullets": [
+    "Over-specifying prompts can 'kill creativity and burn context,' according to Nate B Jones. This means that if you provide too many details, the AI may become constrained and unable to think outside the box. Think of it like a painter who has too many rules about what colors to use; they might end up with a dull painting instead of a vibrant masterpiece.",
+    "Under-prompting forces large language models to guess, which can lead to inaccurate or irrelevant responses. When you don't give enough information, it's like giving someone vague directions to your house; they might end up lost and confused. This highlights the need for a balanced approach to prompting.",
+    "'Goldilocks prompting' unlocks the potential of AI models like Claude, GPT-5, and Gemini by providing just the right amount of detail. This method allows the AI to operate effectively without feeling overwhelmed or under-informed. It's like finding the perfect temperature for a bath—not too hot, not too cold, but just right.",
+    "Short, reusable prompt 'slugs' can outperform long instruction dumps in many scenarios. This means that concise prompts can be more effective than lengthy explanations, making it easier for the AI to understand and respond accurately. Imagine trying to read a long, complicated recipe versus a simple one; the simpler version is often easier to follow and yields better results.",
+    "A balanced prompting strategy gives operators and teams more control over AI outputs without stifling the model's judgment. This balance is crucial for maximizing the effectiveness of AI in various applications. Think of it like a coach who knows when to push their team and when to let them play freely.",
+    "The common belief that more clarity always helps is misleading; the reality is more nuanced. Sometimes, too much clarity can lead to rigidity in responses. It's like a strict teacher who doesn't allow any deviation from the lesson plan, which can hinder students' creativity.",
+    "Nate emphasizes that the right amount of detail in prompts can lead to more innovative and relevant AI outputs. This is essential for staying competitive in the rapidly evolving field of AI. Think of it as tuning a musical instrument; just the right adjustments can create beautiful music.",
+    "The video suggests that prompt engineering is not just about giving instructions but about understanding the model's capabilities and limitations. This understanding is key to crafting effective prompts. It's like knowing the strengths and weaknesses of a sports team to develop the best game strategy.",
+    "Nate points out that the effectiveness of prompts can vary significantly based on their structure and length. This variability means that prompt engineers must be adaptable and willing to experiment. Think of it like a chef who tries different cooking methods to find the best flavor.",
+    "The concept of 'context engineering' is also mentioned, which involves designing prompts that provide the right context for AI models to generate accurate responses. This is crucial for effective communication with AI. It's like setting the stage for a play; the right context helps the actors perform their best.",
+    "The video encourages viewers to subscribe for daily AI strategy and news updates, emphasizing the importance of staying informed in this fast-paced field. Keeping up with developments can give you a competitive edge. Think of it like reading the latest sports news to stay ahead of your competition.",
+    "Nate's insights highlight the need for continuous learning and adaptation in prompt engineering to keep pace with advancements in AI technology. This ongoing education is vital for success in the field. It's like a gardener who must learn about new plant species to keep their garden thriving."
+  ],
+  "key_takeaways": [
+    "Implement a balanced prompting strategy that avoids both over-specifying and under-prompting. This approach enhances creativity and ensures accurate responses from AI models. If you skip this, you risk stifling the model's potential and receiving irrelevant outputs.",
+    "Experiment with short, reusable prompt 'slugs' instead of lengthy instructions. This can lead to more efficient and effective interactions with AI. If you don't try this, you may find your prompts are less impactful and harder to manage.",
+    "By the end of the year, focus on mastering Goldilocks prompting techniques to improve your AI outputs. This will help you stay competitive in the evolving AI landscape. If you neglect this, you might fall behind as others adopt more effective prompting strategies."
+  ],
+  "technical_terms": {
+    "Goldilocks prompting": "A method of crafting prompts that provide just the right amount of detail, avoiding both over-specification and under-prompting. Think of it like finding the perfect fit for a pair of shoes—not too tight, not too loose, but just right.",
+    "prompt engineering": "The practice of designing and refining prompts to effectively communicate with AI models. Like a translator who must choose the right words to convey meaning accurately.",
+    "context engineering": "The process of creating prompts that provide the necessary context for AI models to generate relevant responses. Think of it like setting the scene in a movie to help the audience understand the story.",
+    "AI models": "Algorithms designed to perform tasks that typically require human intelligence, such as understanding language or recognizing patterns. Like a robot that can learn and adapt to complete various tasks.",
+    "reusable prompt slugs": "Concise and effective prompts that can be used multiple times across different queries. Like a catchy slogan that can be applied to various marketing campaigns.",
+    "creativity": "The ability to generate new and original ideas or solutions. Think of it like a fountain that produces fresh water, constantly flowing with new possibilities.",
+    "clarity": "The quality of being clear and easy to understand. Like a well-written instruction manual that guides you step-by-step without confusion.",
+    "detail": "Specific information that adds depth and understanding to a prompt. Think of it like the ingredients in a recipe; the right details make the dish successful.",
+    "structure": "The arrangement or organization of a prompt. Like the framework of a building that supports everything else.",
+    "length": "The number of words or sentences in a prompt. Like the height of a tree; too short might not provide enough shade, while too tall might be unwieldy."
+  },
+  "topics": [
+    "AI prompting",
+    "prompt engineering",
+    "Goldilocks prompting",
+    "AI models",
+    "context engineering"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/goldilocks-prompting-10x-your-prompt?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/goldilocks-prompting-10x-your-prompt?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "title": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:10:46.918048+00:00"
+}

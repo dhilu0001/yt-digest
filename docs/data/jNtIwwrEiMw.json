@@ -1,0 +1,71 @@
+{
+  "video_id": "jNtIwwrEiMw",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "How Gemini 3 is Redefining Software Development #ai #antigravity",
+  "published_at": "2026-01-03T22:00:44Z",
+  "thumbnail": "https://i.ytimg.com/vi/jNtIwwrEiMw/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=jNtIwwrEiMw",
+  "duration": "1m 22s",
+  "view_count": "16179",
+  "like_count": "632",
+  "has_transcript": false,
+  "executive_summary": "Gemini 3 is reshaping how organizations approach AI by emphasizing the importance of routing models to the right workflows, rather than simply relying on the best model. This shift allows teams to integrate AI more effectively into their daily tasks, enhancing productivity and collaboration across product, engineering, and marketing departments.",
+  "bullets": [
+    "The real shift in AI strategy is about routing models to the right workflows, not just finding the best model. This means that organizations need to think strategically about how they apply AI, much like a chef selecting the right ingredients for a specific dish to achieve the best flavor.",
+    "Tasks that require 'eyes-on-glass' are becoming AI-native territory. This means that repetitive monitoring tasks, like watching a pot boil, can now be handled by AI, freeing humans to focus on more complex and creative work.",
+    "Specification and review processes are evolving in AI-driven teams. Instead of just checking if the code works, teams must now ensure that AI outputs align with their goals, similar to how an editor checks if a story not only reads well but also conveys the intended message.",
+    "Product, engineering, and marketing teams are gaining new leverage through Gemini 3. This allows for a more integrated approach, akin to a well-coordinated sports team where each player knows their role and works together to score a goal.",
+    "Gemini 3 emphasizes the importance of articulating intent when using AI. This is like giving a clear map to a driver; without it, they might get lost or take the wrong route.",
+    "Teams that learn to review AI agents' outputs will create a significant advantage over those who only test chat functionalities. This is similar to a student who not only studies for exams but also engages in discussions to deepen their understanding.",
+    "The video suggests that there are three key ways to review AI outputs: checking for accuracy, ensuring alignment with business goals, and validating user experience. Each method is crucial, much like how a chef tastes a dish, checks the recipe, and considers customer feedback before serving it.",
+    "By the end of the year, organizations that adapt to these new workflows will be better positioned to compete. If they fail to adapt, they risk falling behind, much like a company that ignores technological advancements and gets left in the dust.",
+    "Gemini 3 is designed to enhance collaboration across different departments. This is like a symphony orchestra where each musician plays their part in harmony, creating a beautiful piece of music together.",
+    "The concept of 'AI-native territory' means that certain tasks are now inherently suited for AI, which can perform them more efficiently than humans. Think of it like using a washing machine for laundry; it does the job faster and better than hand-washing.",
+    "The video highlights that 80% of AI functionality is now focused on practical applications, while only 20% is about maintaining hygiene in code. This is like a car that runs well but needs regular oil changes; neglecting the latter can lead to bigger problems down the road.",
+    "The emergence of Gemini 3 signifies a major shift in how AI is integrated into workflows. This is akin to the introduction of the internet, which transformed how we communicate and do business."
+  ],
+  "key_takeaways": [
+    "Establish a rule that at least 50% of your evaluation tests must check for code hygiene, including naming, structure, and function length. This is crucial because many teams currently focus too much on functionality, risking long-term maintainability. If you skip this, you may end up with messy code that is hard to manage.",
+    "Make it a priority to articulate intent clearly when deploying AI models. This clarity will guide the AI in producing relevant outputs, much like a clear instruction manual helps assemble furniture correctly. Without this, you risk the AI misinterpreting your goals.",
+    "By the end of the year, ensure your team is trained in the new workflows introduced by Gemini 3. This proactive approach will keep your organization competitive, while those who delay may find themselves struggling to catch up."
+  ],
+  "technical_terms": {
+    "Gemini 3": "A new AI model that reshapes how organizations integrate AI into their workflows. Think of it like a new operating system that improves how your computer runs applications.",
+    "AI-native territory": "Tasks that are inherently suited for AI to perform efficiently. Like a robot vacuum that is designed specifically to clean floors without human intervention.",
+    "eyes-on-glass": "Tasks that require constant human monitoring. Think of it like watching a pot of water boil; it’s tedious and can be automated.",
+    "specification": "The detailed description of what a project or task should achieve. Like a blueprint for a building that outlines every detail before construction begins.",
+    "review process": "The steps taken to evaluate and ensure the quality of AI outputs. Like a quality control check in manufacturing to ensure products meet standards.",
+    "articulating intent": "Clearly defining what you want an AI to accomplish. Think of it like giving a GPS a specific destination to navigate to.",
+    "collaboration": "Working together across different teams or departments. Like a relay race where each runner must pass the baton smoothly to succeed.",
+    "functional applications": "Practical uses of AI that deliver real-world results. Like using a smartphone for navigation, which provides immediate benefits.",
+    "code hygiene": "Practices that ensure code is clean, organized, and maintainable. Like keeping a kitchen tidy to make cooking easier and safer.",
+    "evaluation tests": "Tests designed to assess the performance and quality of AI models. Think of it like a driving test that ensures a driver is ready for the road."
+  },
+  "topics": [
+    "AI strategy",
+    "Gemini 3",
+    "workflow integration",
+    "collaboration",
+    "AI applications"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/how-gemini-3-changes-your-job-a-practical?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/how-gemini-3-changes-your-job-a-practical?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:49:41.376791+00:00"
+}

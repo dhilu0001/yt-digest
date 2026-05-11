@@ -1,0 +1,71 @@
+{
+  "video_id": "UfDy26r84sk",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Humans hesitate — AI agents don't. Now what? #agenticai #agent #futureofwork",
+  "published_at": "2026-03-07T22:00:28Z",
+  "thumbnail": "https://i.ytimg.com/vi/UfDy26r84sk/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=UfDy26r84sk",
+  "duration": "1m 34s",
+  "view_count": "1176",
+  "like_count": "52",
+  "has_transcript": false,
+  "executive_summary": "In the realm of AI agents, trust is the key factor determining their deployment, not just their intelligence. As organizations rethink their processes, they must either create reversible systems or risk confining AI agents to limited tasks. This shift is crucial for leaders looking to leverage AI effectively in business operations.",
+  "bullets": [
+    "Trust, not capability, is what determines how AI agents can operate in businesses. This means that even the smartest AI won't be used effectively if people don't trust it. Think of it like a car: no matter how fast it can go, if the driver doesn't trust the brakes, they won't drive it at full speed.",
+    "Software engineering advanced first due to decades of building reversibility into processes. This means that developers learned to create systems where mistakes could be undone, which is essential for deploying AI agents. It's like learning to ride a bike with training wheels first; you need to feel safe before you can ride freely.",
+    "One-way doors versus two-way doors shape what tasks can be delegated to AI agents. One-way doors are decisions that cannot be reversed, while two-way doors allow for changes and adjustments. Imagine a one-way door as a one-way street: once you go in, you can't turn back without a detour.",
+    "Five key primitives make a business an agent-friendly environment. These primitives include clear processes, data accessibility, and a culture of trust. Think of these primitives as the ingredients needed for a successful recipe; without them, the dish won't turn out right.",
+    "Back office operations are likely to see the first real delegation to AI agents. This is because these tasks are often repetitive and less visible, making them ideal for automation. It's like letting a dishwasher handle the dirty dishes while you focus on cooking a gourmet meal.",
+    "Agents eliminate the human throttle, which includes hesitation and social anxiety. This means that AI can act without the fear of making mistakes that humans often feel. Imagine a race car driver who can push the pedal to the metal without worrying about crashing; that's the freedom AI agents have.",
+    "If businesses do not redesign processes to be reversible, they risk keeping AI agents confined to simple tasks like drafting. This limitation prevents organizations from fully benefiting from AI's capabilities. It's like having a powerful computer but only using it to play solitaire instead of complex games.",
+    "There is no stable middle ground when it comes to deploying AI agents; organizations must either adapt or fall behind. This means that leaders need to be proactive in their approach to AI integration. Think of it like a ship: if you don’t adjust your sails to the wind, you’ll drift off course.",
+    "Leaders have a significant opportunity to leverage AI, but it requires careful auditing of decisions and infrastructure. This groundwork is essential before deploying AI agents effectively. It's like building a strong foundation for a house; without it, the structure will be unstable.",
+    "The implementation costs for deploying AI agents are expected to decrease significantly. This means that businesses can adopt AI solutions without the heavy financial burden they once faced. Think of it like the price of smartphones dropping, making them accessible to more people.",
+    "AI agents can help reduce reputational risk by acting without the social anxieties that humans experience. This allows for faster decision-making and execution in business environments. Imagine a chef who can cook without worrying about how critics will judge their food; that’s the confidence AI can bring.",
+    "The hesitation that humans feel acts as an informal safety system, but it can also slow down progress. By removing this hesitation, AI agents can streamline processes and improve efficiency. It’s like a runner who can sprint without the fear of tripping; they can reach the finish line much faster."
+  ],
+  "key_takeaways": [
+    "Audit your decision-making processes to identify where AI can be effectively deployed. This is crucial because without this audit, you risk misusing AI and missing out on its benefits. If you skip this step, you might end up with AI that doesn't fit your needs, like trying to use a hammer for a screw.",
+    "Redesign your processes to be reversible before implementing AI agents. This is important because it allows for flexibility and adaptation, which are essential for successful AI integration. If you don’t do this, you may find yourself stuck with rigid systems that hinder innovation.",
+    "Aim to implement AI agents in back office operations within the next 4-5 months. This timeline is critical because early adoption in these areas can lead to significant efficiency gains. If you delay, you risk falling behind competitors who are already leveraging AI."
+  ],
+  "technical_terms": {
+    "One-way door": "A decision or action that cannot be reversed once taken. Think of it like a one-way street where you can't turn back once you go in.",
+    "Two-way door": "A decision or action that allows for changes and adjustments after it has been made. Like a roundabout where you can choose to go back if you miss your exit.",
+    "Agent-friendly substrate": "The foundational elements in a business that make it suitable for deploying AI agents. Think of it like the soil in which a plant grows; without good soil, the plant won't thrive.",
+    "Human throttle": "The hesitation and social anxieties that humans experience when making decisions. Like a car's brake system that slows down the vehicle when the driver is unsure.",
+    "Reversibility": "The ability to undo actions or decisions, making it safer to experiment with new processes. Think of it like a safety net that allows you to try new tricks without the fear of falling.",
+    "Back office operations": "The administrative and support tasks in a business that are not customer-facing. Like the backstage crew in a theater who make the show possible but are not seen by the audience.",
+    "Delegation": "The act of assigning tasks or responsibilities to others, including AI agents. Like a manager who assigns different tasks to team members to improve efficiency.",
+    "Implementation costs": "The expenses associated with deploying new technologies or systems. Think of it like the upfront costs of building a new house before you can move in.",
+    "Social anxiety": "The fear of judgment or negative evaluation from others, which can slow decision-making. Like a performer who hesitates to go on stage due to fear of the audience's reaction.",
+    "Trust": "The confidence in the reliability and effectiveness of AI agents to perform tasks. Think of it like trusting a pilot to fly a plane safely; without that trust, you wouldn't board the flight."
+  },
+  "topics": [
+    "AI agents",
+    "trust in AI",
+    "business processes",
+    "automation",
+    "future of work"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-the-human-throttlewhat?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-the-human-throttlewhat?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:50:05.669339+00:00"
+}

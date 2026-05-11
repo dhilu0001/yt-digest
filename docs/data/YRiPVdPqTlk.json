@@ -1,0 +1,61 @@
+{
+  "video_id": "YRiPVdPqTlk",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth",
+  "published_at": "2026-05-03T03:00:36Z",
+  "thumbnail": "https://i.ytimg.com/vi/YRiPVdPqTlk/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=YRiPVdPqTlk",
+  "duration": "27s",
+  "view_count": "8428",
+  "like_count": "125",
+  "has_transcript": true,
+  "executive_summary": "Organizations have successfully demonstrated that AI can perform individual tasks, but they struggle to align AI capabilities with broader organizational goals. This misalignment is termed 'intent engineering,' which is crucial for effective AI deployment. The speaker emphasizes that without addressing intent engineering, AI solutions may not yield the desired results at scale.",
+  "bullets": [
+    "Organizations have solved the question of whether AI can perform individual tasks, but they have failed to address whether AI can do these tasks in a way that aligns with organizational goals. This is critical because just because AI can do something doesn't mean it should be used in that context. It's like having a powerful sports car; it can go fast, but if you drive it in a crowded city, it may cause more harm than good.",
+    "The concept of 'intent engineering' is essential for deploying AI effectively at scale. This means ensuring that AI applications not only perform tasks but also make decisions that align with the organization's strategic objectives. Think of it like a ship's captain needing to steer the vessel in the right direction; without clear intent, the ship may drift off course.",
+    "The speaker notes that many organizations have achieved '80% functional, 20% hygiene' in their AI implementations. This means that while 80% of the AI's capabilities are being utilized effectively, 20% of the necessary checks and balances are neglected. Imagine a car that runs well but has no brakes; it might be functional, but it's not safe.",
+    "Nate B. Jones emphasizes that organizations must ask, 'Can AI do this task in a way that serves our organizational goals at scale with appropriate judgment?' This question is pivotal for ensuring that AI applications are not just effective but also responsible. It's like asking if a chef can cook well; it's not enough if the food is delicious but also needs to be healthy and safe.",
+    "The speaker warns that without addressing intent engineering, organizations risk deploying AI solutions that may not yield the expected results. This could lead to wasted resources and missed opportunities. Think of it like planting seeds without knowing if they will grow; you might end up with a barren garden instead of a fruitful harvest.",
+    "Jones points out that many organizations have focused on individual AI tasks without considering the bigger picture. This narrow focus can lead to mixed results when scaling AI solutions. It's like building a beautiful house but forgetting to lay a solid foundation; the structure may collapse under pressure.",
+    "The speaker highlights that AI deployment should not just be about solving tasks but also about making informed decisions that align with the organization's mission. This requires a thoughtful approach to AI integration. Imagine a puzzle; each piece must fit together to create a complete picture, or the final image will be incomplete.",
+    "The video suggests that organizations need to develop a framework for intent engineering to guide their AI initiatives. This framework should include clear goals and metrics for success. Think of it like a roadmap for a long journey; without it, you may get lost along the way.",
+    "Jones emphasizes that organizations must be proactive in addressing the challenges of intent engineering rather than reactive. This proactive approach can lead to more successful AI implementations. It's like training for a marathon; if you wait until the last minute to prepare, you may not finish the race.",
+    "The speaker mentions that the timeline for addressing these issues is critical, suggesting that organizations should start implementing intent engineering strategies within the next few months. Delaying this process could result in further complications down the line. Think of it like a ticking clock; the longer you wait, the less time you have to prepare.",
+    "The video discusses the importance of aligning AI capabilities with the organization's strategic objectives to avoid wasted resources. This alignment is crucial for maximizing the effectiveness of AI solutions. It's like having a well-trained team; if everyone is not working towards the same goal, the team's efforts may be scattered and ineffective.",
+    "Jones concludes that organizations must prioritize intent engineering to ensure that AI solutions are not just technically sound but also strategically aligned. This prioritization is essential for achieving long-term success with AI. Imagine a ship navigating through a storm; without a clear direction, it may capsize."
+  ],
+  "key_takeaways": [
+    "Implement a framework for intent engineering within the next few months to ensure AI aligns with organizational goals. This is crucial for maximizing the effectiveness of your AI solutions. If you delay, you risk deploying AI that doesn't serve your strategic objectives.",
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, such as naming conventions and function length, rather than just functionality. Most teams currently have this split backwards at 80/20, which can lead to technical debt and maintenance issues down the line.",
+    "Develop clear metrics for success in your AI initiatives to avoid mixed results. Without these metrics, you may find that your AI solutions are not delivering the expected outcomes, wasting time and resources."
+  ],
+  "technical_terms": {
+    "Intent Engineering": "The process of aligning AI capabilities with organizational goals to ensure effective deployment. Think of it like a GPS system that helps you navigate to your destination accurately.",
+    "AI Deployment": "The implementation of AI solutions within an organization to perform specific tasks. Like launching a rocket, it requires precise calculations and planning to reach the intended orbit.",
+    "Code Hygiene": "The practice of maintaining clean and organized code to ensure it is easy to read and maintain. Think of it like keeping your room tidy; a clean space makes it easier to find what you need and prevents clutter.",
+    "Functional": "Referring to the operational capability of a system or application to perform its intended tasks. Like a light bulb that works; it needs to illuminate when switched on.",
+    "Hygiene": "The necessary checks and balances in a system to ensure it operates safely and effectively. Like washing your hands before a meal; it prevents illness and ensures safety.",
+    "Metrics": "Quantifiable measures used to assess the performance of a system or process. Think of it like a scoreboard in a game; it shows how well each team is performing.",
+    "Strategic Objectives": "The long-term goals that guide an organization's direction and decision-making. Like a lighthouse guiding ships safely to shore; it provides direction and purpose.",
+    "Proactive Approach": "Taking initiative to address issues before they become problems. Think of it like regular car maintenance; it prevents breakdowns and costly repairs.",
+    "Framework": "A structured approach to solving a problem or achieving a goal. Like a skeleton that provides support and shape to a body; it holds everything together.",
+    "Technical Debt": "The implied cost of additional rework caused by choosing an easy solution now instead of a better approach that would take longer. Think of it like taking a shortcut through a forest; it may save time now but could lead to getting lost later."
+  },
+  "topics": [
+    "AI Deployment",
+    "Intent Engineering",
+    "Organizational Goals",
+    "AI Strategy",
+    "Code Hygiene"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T11:48:00.078203+00:00"
+}

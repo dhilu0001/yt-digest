@@ -1,0 +1,66 @@
+{
+  "video_id": "8voWoUDRbnw",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Building AI Products Breaks Everything PMs Know #ai #productmanagement #aistrategy",
+  "published_at": "2026-01-16T04:00:06Z",
+  "thumbnail": "https://i.ytimg.com/vi/8voWoUDRbnw/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=8voWoUDRbnw",
+  "duration": "1m",
+  "view_count": "6807",
+  "like_count": "280",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses how AI is transforming the role of product managers (PMs), revealing that they face multiple simultaneous threats rather than just becoming faster. He emphasizes the need for PMs to maintain technical AI fluency while preserving their product intuition to navigate this complex landscape successfully.",
+  "bullets": [
+    "Product managers are facing threats on multiple axes simultaneously, meaning they must contend with various challenges at once. This complexity is like trying to juggle five balls while riding a unicycle; if you lose focus on one, you risk dropping all of them.",
+    "Building AI products differs significantly from traditional product work, as it requires a different mindset and approach. Imagine switching from driving a car to piloting a plane; the skills are related, but the level of complexity and the stakes are much higher.",
+    "Core PM skills that AI cannot replace or erode include empathy, creativity, and strategic thinking. These skills are like the ingredients in a secret family recipe; without them, the final dish just won't taste right, no matter how advanced the cooking technology is.",
+    "PMs must ground themselves in technical AI fluency to navigate the changes effectively. This is akin to learning the rules of a new game; without understanding the mechanics, you can't play strategically and will likely lose.",
+    "Outsourcing judgment to AI can lead to poor decision-making, as AI lacks the nuanced understanding of human needs and context. It's like relying on a GPS to navigate a city without knowing how to read a map; the GPS may lead you astray if the data is outdated or incorrect.",
+    "The common belief that AI simply makes PMs faster is misleading; the reality is more nuanced and complex. It's like thinking a microwave just cooks food faster when, in fact, it changes the cooking process entirely.",
+    "PMs should focus on maintaining their product intuition even as AI tools evolve. This is like a chef who continues to taste their dish while cooking, ensuring the flavors remain balanced despite using new cooking technology.",
+    "The implementation costs of AI tools are going to zero, making them more accessible than ever. This is similar to how the price of smartphones dropped, allowing more people to access technology that was once too expensive.",
+    "AI products require a different evaluation process, with at least 50% of evaluation tests focusing on code hygiene, such as naming and structure. If teams continue with the current 80/20 split favoring functionality, they risk creating messy, unmanageable code.",
+    "PMs must prepare for a landscape where everything feels like it's changing, which can be overwhelming. It's like trying to navigate a rapidly shifting sand dune; without a solid foundation, you could easily lose your way.",
+    "The need for PMs to adapt quickly is underscored by the fact that those who fail to keep up may find themselves outpaced by competitors. This is like a runner who starts to slow down in a race; if they don't pick up the pace, they'll be left behind.",
+    "AI's influence on product management is not just a trend but a fundamental shift in how products are developed and managed. It's like the transition from analog to digital; once you make the switch, there's no going back."
+  ],
+  "key_takeaways": [
+    "Set a rule that at least 50% of your evaluation tests must check code hygiene, such as naming and structure, rather than just functionality. This matters because neglecting code hygiene can lead to messy, unmanageable code that is hard to maintain. If you skip this, you risk creating a product that becomes increasingly difficult to improve over time.",
+    "Focus on developing your technical AI fluency immediately, as this will help you stay relevant in a rapidly changing landscape. Without this knowledge, you may find it challenging to make informed decisions about product direction. Start learning now, or you might find yourself outpaced by competitors who adapt more quickly.",
+    "Regularly practice empathy and creativity in your product management role, as these are skills that AI cannot replicate. This is crucial because they allow you to understand user needs and innovate effectively. If you neglect these skills, your products may fail to resonate with users."
+  ],
+  "technical_terms": {
+    "AI Fluency": "The ability to understand and effectively communicate about artificial intelligence technologies and their implications. Think of it like learning a new language; without fluency, you can't fully engage in conversations or understand nuances.",
+    "Code Hygiene": "The practice of maintaining clean, readable, and well-structured code to ensure long-term maintainability. Think of it like keeping your room tidy; if you let it get messy, you'll struggle to find things and it will become overwhelming.",
+    "Product Intuition": "The innate ability to understand user needs and market trends, guiding product decisions effectively. Like a seasoned chef who knows how to balance flavors without relying solely on recipes, product intuition helps PMs make informed choices.",
+    "Evaluation Tests": "Tests designed to assess the quality and functionality of a product or code. Think of it like a health check-up; regular evaluations help catch issues before they become serious problems.",
+    "Implementation Costs": "The expenses associated with deploying new technologies or systems. Like the cost of setting up a new kitchen; if the costs drop, more people can afford to cook gourmet meals at home."
+  },
+  "topics": [
+    "AI",
+    "Product Management",
+    "Technology Trends",
+    "Career Development",
+    "AI Strategy"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/pms-have-it-worst-in-the-al-era-but?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/pms-have-it-worst-in-the-al-era-but?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:35:54.635419+00:00"
+}

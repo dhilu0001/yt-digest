@@ -1,0 +1,70 @@
+{
+  "video_id": "9IETDveRCQs",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "NEW Study: 84% of Companies Have Data Stacks That Won't Work With AI",
+  "published_at": "2025-11-09T19:00:07Z",
+  "thumbnail": "https://i.ytimg.com/vi/9IETDveRCQs/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=9IETDveRCQs",
+  "duration": "12m 52s",
+  "view_count": "10754",
+  "like_count": "466",
+  "has_transcript": false,
+  "executive_summary": "A staggering 84% of companies are not prepared for AI due to inadequate data architectures. This video reveals that many organizations mistakenly believe they are data-driven, but in reality, they lack the foundational elements necessary for successful AI implementation. The key to thriving in the AI era is to prioritize essential data work before deploying AI models and agents.",
+  "bullets": [
+    "84% of companies have data stacks that won't work with AI, indicating a widespread issue in readiness for AI initiatives. This means that most organizations are not set up to leverage AI effectively, which can lead to wasted resources and missed opportunities. It's like trying to build a house on a shaky foundation — no matter how beautiful the design, it won't stand.",
+    "Most AI initiatives fail before they start due to poor data systems. This failure often stems from a lack of proper data hygiene and structure, which are crucial for AI to function correctly. Imagine trying to bake a cake with expired ingredients; the end result will be disappointing and potentially disastrous.",
+    "To diagnose weak data systems, companies need to assess their data quality and architecture before deploying AI agents. This diagnostic process is essential to identify and fix issues that could hinder AI performance. Think of it like a doctor performing a check-up before prescribing treatment — without understanding the underlying health, you can't expect effective results.",
+    "Zero-copy architecture is crucial for enabling real-time AI applications. This means that data can be processed without creating duplicate copies, which speeds up performance and reduces storage costs. It's like having a single, efficient assembly line that produces cars without needing to build extra prototypes — it saves time and resources.",
+    "Executives and engineers must align their goals to close the perception gap in AI readiness. Misalignment can lead to wasted efforts and resources, as teams may work towards different objectives. Think of it like a sports team where the players and coach are not on the same page; they won't win games if they don't work together.",
+    "The winners in the AI era will be those who do the boring data work early. Companies that prioritize foundational data tasks will be better positioned to implement AI successfully. It's like training for a marathon; those who put in the hard work upfront will cross the finish line first.",
+    "AI models and agents cannot perform effectively without a solid data foundation. If the data is flawed or poorly structured, the outputs will also be unreliable. Imagine trying to navigate with a map that has incorrect information; you'll likely get lost.",
+    "The perception that companies are already 'data-driven' is misleading. Many organizations have not yet established the necessary data infrastructure to support AI initiatives. It's like claiming to be a top chef without ever having learned the basics of cooking.",
+    "Implementing AI without addressing data hygiene can lead to significant failures. Poor data quality can result in inaccurate AI predictions and decisions, which can be detrimental to business operations. Think of it like trying to drive a car with a dirty windshield; your visibility is compromised, and you risk accidents.",
+    "The cost of implementing AI is expected to decrease as technologies evolve. This means that companies will have more opportunities to invest in AI solutions without breaking the bank. It's like how the price of smartphones has dropped over the years, making them accessible to more people.",
+    "By the end of the year, companies need to have their data systems aligned for AI deployment. This timeline emphasizes the urgency of addressing data issues to avoid falling behind competitors. Think of it like preparing for a big exam; the sooner you start studying, the better your chances of success."
+  ],
+  "key_takeaways": [
+    "Prioritize foundational data work now to prepare for AI deployment. This early focus will ensure that your data systems are robust and ready for AI applications. If you delay, you risk being unprepared when AI opportunities arise.",
+    "Conduct a thorough assessment of your data systems within the next month. This will help identify weaknesses that could hinder AI performance, allowing you to address them proactively. Failing to do this could lead to costly mistakes down the line.",
+    "Align your executive and engineering teams immediately to ensure everyone is on the same page regarding AI goals. This alignment is crucial for maximizing the effectiveness of your AI initiatives. Without it, your efforts may be misdirected and ineffective."
+  ],
+  "technical_terms": {
+    "Zero-copy architecture": "A data processing method that allows data to be accessed without creating duplicate copies, enhancing speed and efficiency. Think of it like a library where you can read a book without needing to check out multiple copies — it saves space and time.",
+    "Data hygiene": "The practice of maintaining clean, accurate, and well-structured data to ensure effective analysis and decision-making. Like keeping your kitchen clean and organized; if your tools and ingredients are in disarray, cooking becomes a challenge.",
+    "Data stack": "The collection of technologies and tools used to collect, store, and analyze data within an organization. Think of it like a toolbox; if you don't have the right tools for the job, you can't complete your projects effectively.",
+    "AI agents": "Automated systems that use artificial intelligence to perform tasks or make decisions based on data. Like a smart assistant that can manage your calendar and remind you of appointments, AI agents help streamline processes.",
+    "Data architecture": "The structure and organization of data systems that dictate how data is stored, accessed, and processed. Think of it like the blueprint of a building; without a solid design, the structure will be unstable.",
+    "Diagnostic process": "The method of evaluating and analyzing data systems to identify weaknesses or areas for improvement. Like a mechanic checking a car's engine to ensure everything is running smoothly before a long trip.",
+    "Real-time AI": "Artificial intelligence that can process and respond to data instantly, allowing for immediate decision-making. It's like a live sports commentator who provides updates as the game unfolds, keeping the audience informed in real-time.",
+    "Data-driven": "An approach where decisions are made based on data analysis rather than intuition or guesswork. Think of it like a pilot using instruments to navigate rather than flying by sight alone; data provides a clearer path.",
+    "AI initiatives": "Projects or efforts aimed at implementing artificial intelligence solutions within an organization. Like launching a new product line, AI initiatives require careful planning and execution to succeed.",
+    "Alignment": "The process of ensuring that different teams or individuals are working towards the same goals and objectives. Like a choir where all singers must harmonize to create beautiful music; without alignment, the result can be discordant."
+  },
+  "topics": [
+    "AI readiness",
+    "Data architecture",
+    "Business strategy",
+    "Data hygiene",
+    "AI implementation"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-why-84-of-companies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-why-84-of-companies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:48:50.634411+00:00"
+}

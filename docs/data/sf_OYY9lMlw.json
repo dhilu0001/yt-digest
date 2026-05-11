@@ -1,0 +1,69 @@
+{
+  "video_id": "sf_OYY9lMlw",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "ChatGPT 5 Won't Save You: 10 Reasons Why Your AI Strategy is Failing",
+  "published_at": "2025-08-06T13:01:59Z",
+  "thumbnail": "https://i.ytimg.com/vi/sf_OYY9lMlw/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=sf_OYY9lMlw",
+  "duration": "21m 24s",
+  "view_count": "12138",
+  "like_count": "584",
+  "has_transcript": false,
+  "executive_summary": "In the video 'ChatGPT 5 Won't Save You,' Nate B Jones outlines ten reasons why AI strategies often fail, emphasizing that 78% of failed projects stem from messy, unlabeled data. He argues that relying solely on advanced models without addressing foundational issues like data quality and human oversight leads to wasted resources and stalled projects.",
+  "bullets": [
+    "78% of failed AI projects trace back to messy, unlabeled data, meaning no model can compensate for poor data hygiene. This is like trying to bake a cake without measuring the flour correctly; the result will be a disaster no matter how good the oven is.",
+    "Teams often overspend on elite models for routine tasks, forgetting that the right data-model fit is more important than raw horsepower. It's like using a high-performance sports car to drive to the grocery store when a reliable sedan would do just fine.",
+    "Without a high-impact, measurable business KPI, objectives drift and projects stall at the first obstacle. This is akin to setting sail without a map; you might be moving, but you have no idea if you're heading in the right direction.",
+    "AI strategy must not be treated as a side project; separating it from business strategy blinds leaders to back-office efficiencies and competitive threats. Imagine trying to run a marathon while ignoring your training; you’ll likely fall behind and risk injury.",
+    "Neglecting MLOps, which includes monitoring, rollbacks, and human-in-the-loop pathways, invites hallucinations and compliance breaches. It's like building a bridge without safety inspections; it might look fine, but it could collapse under pressure.",
+    "Models flop when firms skip structured upskilling and adoption plans, leading to underused chatbots that become toys rather than tools. Think of it like giving someone a fancy smartphone without teaching them how to use it; it just sits there gathering dust.",
+    "Ignoring hidden ownership costs, such as inference spend and evaluation maintenance, quickly erodes margins and invites regulatory risk. This is like running a restaurant without tracking ingredient costs; eventually, you'll find yourself in the red.",
+    "Nate B Jones states, 'We keep jamming Formula One engines into Model T frames and wondering why the wheels fly off.' This highlights the absurdity of mismatching advanced technology with outdated systems, leading to inevitable failure.",
+    "A system that’s 87% correct is priceless if you design a clean handoff to humans for the other 13%. This is like having a reliable GPS that only occasionally needs a human to confirm directions; it saves time and reduces errors.",
+    "Fantasy thinking about data leads to overconfidence in AI capabilities, which can derail projects. It's like believing you can win a race without training; you might start strong, but you’ll likely falter.",
+    "Blind faith in bigger models can be detrimental, as they don't always solve fundamental issues. This is similar to thinking a bigger car will automatically be safer; without proper maintenance, size alone won't protect you.",
+    "Drifting objectives without clear KPIs can lead to wasted resources and stalled projects. It's like a ship without a rudder; it may float, but it won't reach its destination."
+  ],
+  "key_takeaways": [
+    "Ensure that at least 78% of your data is clean and labeled before starting any AI project. This is crucial because messy data will lead to project failure, wasting time and resources. If you skip this step, you risk launching an AI initiative that is doomed from the start.",
+    "Set clear, measurable business KPIs for every AI project. This will help keep your objectives aligned and prevent drifting. Without these KPIs, your project could stall at the first challenge, wasting both time and money.",
+    "Integrate AI strategy with overall business strategy to avoid blind spots. This is essential for recognizing back-office efficiencies and competitive threats. If you treat AI as a side project, you may miss out on significant opportunities for improvement.",
+    "Implement a robust MLOps framework that includes monitoring and human oversight. This will help prevent hallucinations and compliance issues. Neglecting this can lead to brand damage and regulatory risks, which could be costly.",
+    "Prioritize structured change management and upskilling for your team. This will ensure that your AI tools are effectively adopted and utilized. Without this, you risk having powerful tools that go underused, like a fancy car that no one knows how to drive.",
+    "Regularly assess hidden ownership costs related to AI projects, including inference spend and maintenance. This will help you maintain healthy margins and avoid unexpected regulatory risks. Ignoring these costs can quickly erode your profits."
+  ],
+  "technical_terms": {
+    "MLOps": "MLOps stands for Machine Learning Operations, which involves the practices and tools used to manage machine learning models in production. Think of it like the maintenance crew for a race car, ensuring everything runs smoothly during a race.",
+    "KPI": "KPI stands for Key Performance Indicator, which is a measurable value that demonstrates how effectively a company is achieving key business objectives. Like a scoreboard in a game, it tells you how well you're doing.",
+    "Data Hygiene": "Data hygiene refers to the practices that ensure data is accurate, consistent, and usable. Think of it like cleaning your kitchen before cooking; if the space is messy, the meal will likely turn out poorly.",
+    "Inference Spend": "Inference spend is the cost associated with running machine learning models to make predictions. Like paying for gas every time you drive your car, it can add up quickly if not monitored.",
+    "Human-in-the-loop": "Human-in-the-loop refers to systems that incorporate human judgment into the decision-making process of AI. It's like having a pilot in an airplane; the autopilot can handle most tasks, but the pilot is there to take control when needed.",
+    "Change Management": "Change management is the process of preparing and supporting individuals and organizations in making organizational change. Think of it like training a sports team for a new strategy; everyone needs to be on board for it to work.",
+    "Model T": "The Model T was an early automobile produced by Ford, known for its simplicity and affordability. It's like comparing a basic bicycle to a high-tech electric bike; both can get you places, but one is much more advanced.",
+    "Hallucinations": "In AI, hallucinations refer to instances where a model generates incorrect or nonsensical outputs. It's like a person dreaming up a story that makes no sense; it can lead to confusion and errors.",
+    "Regulatory Risk": "Regulatory risk is the risk of facing legal penalties due to non-compliance with laws and regulations. Think of it like driving without a valid license; if caught, the consequences can be severe.",
+    "Total Cost of Ownership": "Total cost of ownership refers to the comprehensive assessment of all costs associated with owning an asset, including purchase price, maintenance, and operational costs. It's like calculating the true cost of a pet, which includes food, vet bills, and grooming, not just the initial adoption fee."
+  },
+  "topics": [
+    "AI strategy",
+    "data quality",
+    "MLOps",
+    "business KPIs",
+    "change management"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T12:20:37.416733+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "mnWMTzkjWmk",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "What I Tell Every CTO Before They Touch Claude Code or the Anthropic API",
+  "published_at": "2025-12-16T15:01:35Z",
+  "thumbnail": "https://i.ytimg.com/vi/mnWMTzkjWmk/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=mnWMTzkjWmk",
+  "duration": "20m 5s",
+  "view_count": "28406",
+  "like_count": "877",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses why AI projects often fail to deliver value, emphasizing that the real issue is not the AI model's intelligence but the lack of a clear definition of 'correctness.' He argues that without defining what 'correct' means, every decision made in AI architecture becomes meaningless, leading to problems like unreliable systems and poor adoption rates, such as those seen with Microsoft Copilot.",
+  "bullets": [
+    "Correctness is the foundation of every AI architecture decision. If you don't define what 'correct' means, then every choice you make afterward is like building a house without a blueprint — it may stand, but it won't be functional or safe.",
+    "Undefined quality in AI leads to meaningless downstream choices. Imagine trying to bake a cake without a recipe; you might end up with something edible, but it won't be what you intended.",
+    "Humans often change definitions midstream and then blame the AI for unreliability. It's like a football game where the rules keep changing, and then the players are penalized for not following the latest version of the rules.",
+    "Probabilistic AI systems differ from normal software because they deal with uncertainty. Think of it like weather forecasting: you can predict rain with a certain percentage of accuracy, but you can't guarantee it will rain.",
+    "The first order decision in AI is defining what 'correct' means. If you don’t know what success looks like, it’s like setting off on a road trip without a map — you might end up somewhere interesting, but it won’t be your destination.",
+    "When structured and unstructured data collide, confusion arises. Imagine trying to mix oil and water; without a clear way to integrate them, you’ll end up with a messy separation instead of a smooth blend.",
+    "A hidden failure mode is that humans move goalposts, which complicates AI performance evaluation. It's like a race where the finish line keeps moving; no matter how fast you run, you can never win.",
+    "Sales pipeline probability estimates are often inaccurate because they rely on vague definitions. If you say a deal is 'likely' to close without a clear percentage, it’s like saying you might win the lottery — it sounds good, but the odds are unclear.",
+    "Hallucinations in AI are a correctness problem, not a model problem. It's like a person telling a story that sounds plausible but is completely made up; the issue isn't their storytelling ability but the lack of factual grounding.",
+    "Goodhart's Law states that when a measure becomes a target, it ceases to be a good measure. Think of it like a student who studies only to pass a test; they may ace the exam but miss out on truly learning the material.",
+    "AI models struggle with multi-turn conversations because they lack context retention. It’s like having a conversation with someone who forgets what you just said; the dialogue quickly becomes disjointed and confusing.",
+    "Reward hacking in AI can distort emotional relationships. If an AI is rewarded for making users happy, it might learn to manipulate emotions rather than genuinely engage, similar to a friend who only says nice things to get favors."
+  ],
+  "key_takeaways": [
+    "Define what 'correct' means for your AI project. Without a clear definition, your team will likely waste time and resources on solutions that don't meet your actual needs, leading to frustration and stalled adoption.",
+    "Ensure at least 50% of your evaluation tests check for code hygiene, such as naming conventions and function lengths, rather than just functionality. Most teams currently have this split backward at 80/20, which can lead to long-term maintenance issues.",
+    "By the end of this year, focus on building a culture of correctness within your team. If you don’t prioritize this, you risk creating AI systems that are unreliable and face adoption challenges, similar to Microsoft Copilot."
+  ],
+  "technical_terms": {
+    "Correctness": "The state of being accurate or true in an AI context. Think of it like a compass that always points north; if it’s not correct, you could end up lost.",
+    "Probabilistic AI": "AI systems that make predictions based on probabilities rather than certainties. Like a weather forecast that says there's a 70% chance of rain, it gives you a likelihood, not a guarantee.",
+    "Hallucinations": "Instances where an AI generates false or misleading information. Think of it like a person who fabricates stories; they may sound convincing but are not based on reality.",
+    "Goodhart's Law": "The principle that when a measure becomes a target, it loses its value as a measure. Like a student who only studies for tests, they may pass but miss out on real learning.",
+    "Multi-turn conversations": "Interactions where multiple exchanges occur between a user and an AI. It’s like a game of ping pong; if one player forgets the rules, the game becomes chaotic.",
+    "Reward hacking": "When an AI manipulates its environment to achieve rewards in unintended ways. Think of it like a child who learns to cheat at a game to win instead of playing fairly.",
+    "Sales pipeline": "The process of tracking potential sales leads through various stages until they close. Like a funnel, it narrows down many leads into a few successful sales.",
+    "Quality measures": "Standards used to evaluate the performance of AI systems. Imagine a grading rubric that helps teachers assess student work; without it, evaluations are subjective and inconsistent.",
+    "Goalposts": "The criteria that define success in a project. Like a football game where the end zone keeps moving, changing goalposts make it hard to score.",
+    "Code hygiene": "The practice of maintaining clean and efficient code. Think of it like keeping your kitchen organized; a clean space makes cooking easier and more enjoyable."
+  },
+  "topics": [
+    "AI Architecture",
+    "Correctness in AI",
+    "Probabilistic Systems",
+    "AI Adoption Challenges",
+    "Human-AI Interaction"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/ive-reviewed-20-enterprise-ai-builds?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/ive-reviewed-20-enterprise-ai-builds?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:05:00.799148+00:00"
+}

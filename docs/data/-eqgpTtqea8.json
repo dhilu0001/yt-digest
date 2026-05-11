@@ -1,0 +1,70 @@
+{
+  "video_id": "-eqgpTtqea8",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Stop projecting capabilities AI doesn't actually have #ai #chatgpt #aiworkflow",
+  "published_at": "2025-12-05T22:00:00Z",
+  "thumbnail": "https://i.ytimg.com/vi/-eqgpTtqea8/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=-eqgpTtqea8",
+  "duration": "1m 41s",
+  "view_count": "7144",
+  "like_count": "369",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses six common failure patterns in AI workflows, emphasizing that many errors stem from design issues rather than model failures. He highlights the importance of 'schema-first prompting' and offers solutions to prevent problems like infinite regeneration loops in ChatGPT. Understanding these nuances is crucial for beginners aiming to excel in the AI field.",
+  "bullets": [
+    "The first failure pattern is that many misunderstood outputs can be fixed with 'schema-first prompting.' This means structuring your prompts in a way that aligns with the AI's understanding of context. Think of it like giving a clear map to a traveler instead of vague directions — they will reach their destination much more efficiently.",
+    "Infinite regeneration loops in ChatGPT can be stopped by refining your prompts. If you keep asking the same question without clarity, the AI will keep generating responses that don’t resolve your query. It's like asking a friend for directions to a restaurant but not specifying which one; they’ll just keep guessing.",
+    "Planning and confidence illusions in large language models occur when the AI appears to be certain but is actually making unfounded assumptions. This can lead to outputs that seem authoritative but are incorrect. Imagine a student confidently presenting a report based on rumors instead of facts — it can mislead everyone.",
+    "Context overload and drift can quietly destroy consistency in AI outputs. When too much information is provided, or when the context shifts unexpectedly, the AI can lose track of the original intent. It’s like trying to follow a recipe while someone keeps changing the ingredients — the final dish will likely be a mess.",
+    "Most AI errors are not due to model failures but are actually design errors in how we prompt, plan, and constrain the AI. This means that improving our approach can significantly enhance AI performance. Think of it like a coach who needs to adjust their training methods to get better results from their team.",
+    "Nate emphasizes that understanding these failure patterns is essential for anyone working with AI. By recognizing these issues, you can proactively design better prompts and workflows. It’s like learning the common pitfalls in a sport so you can avoid them and play better.",
+    "The video suggests that many practitioners mistakenly attribute AI errors to the models themselves rather than their own prompting strategies. This misconception can lead to wasted time and resources. Imagine blaming a car for not starting when the real issue is an empty fuel tank.",
+    "Nate mentions that schema-first prompting can lead to more accurate and relevant outputs from AI models. This approach helps the AI to better understand what is being asked. It’s like providing a clear thesis statement in an essay — it sets the stage for everything that follows.",
+    "He points out that AI models can give the illusion of planning, but this is often just a reflection of their training data rather than true reasoning. This can mislead users into thinking the AI is more capable than it actually is. Think of it like a magician who makes it look like they can read minds, but it’s all just clever tricks.",
+    "The video highlights that context drift happens when the AI loses track of the original topic due to excessive or irrelevant information. This can lead to incoherent responses. It’s like trying to watch a movie while someone keeps changing the channel — you’ll miss the story completely.",
+    "Nate encourages viewers to subscribe for daily AI strategy and news updates. Staying informed is crucial in a rapidly evolving field like AI. It’s like a gardener who regularly checks the weather and soil conditions to ensure their plants thrive."
+  ],
+  "key_takeaways": [
+    "Implement 'schema-first prompting' in your AI workflows to improve output accuracy. This approach aligns your prompts with the AI's understanding, reducing misunderstandings. If you skip this, you risk generating irrelevant or confusing responses.",
+    "Set a rule that at least 50% of your evaluation tests must check for context consistency and clarity, not just functionality. Most teams currently focus too much on whether the AI works at all, neglecting how well it understands the context. If you don’t do this, you may end up with outputs that are technically correct but contextually irrelevant.",
+    "By the end of the month, review your current prompting strategies and identify at least three areas for improvement based on the failure patterns discussed. This proactive approach will help you avoid common pitfalls in AI usage. If you delay this review, you may continue to face unnecessary errors in your AI projects."
+  ],
+  "technical_terms": {
+    "schema-first prompting": "This is a method of structuring prompts to align with the AI's understanding of context. Think of it like giving a clear map to a traveler instead of vague directions.",
+    "infinite regeneration loop": "This occurs when the AI keeps generating responses without resolving the initial query due to unclear prompts. It's like asking a friend for directions to a restaurant but not specifying which one.",
+    "context overload": "This happens when too much information is provided, causing the AI to lose track of the original intent. It’s like trying to follow a recipe while someone keeps changing the ingredients.",
+    "context drift": "This refers to the loss of focus on the original topic due to excessive or irrelevant information. It’s like trying to watch a movie while someone keeps changing the channel.",
+    "planning illusion": "This is when the AI appears to be planning or reasoning but is actually just reflecting its training data. Think of it like a magician who makes it look like they can read minds, but it’s all just clever tricks.",
+    "confidence illusion": "This occurs when the AI presents information with certainty, even if it's incorrect. Imagine a student confidently presenting a report based on rumors instead of facts.",
+    "design errors": "These are mistakes in how we prompt or plan AI interactions, leading to errors in output. It’s like a coach who needs to adjust their training methods to get better results from their team.",
+    "output consistency": "This refers to how reliably the AI maintains its responses in relation to the context. It's like a chef who consistently delivers the same quality dish every time.",
+    "evaluation tests": "These are assessments used to measure the performance and reliability of AI outputs. Think of them like a fitness test that checks various aspects of physical health.",
+    "training data": "This is the information used to teach AI models how to generate responses. Like a student learning from textbooks, the quality of the data affects what the AI can produce."
+  },
+  "topics": [
+    "AI workflows",
+    "prompt engineering",
+    "failure patterns",
+    "ChatGPT",
+    "AI strategy"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/the-prompt-doctor-is-in-fixes-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/the-prompt-doctor-is-in-fixes-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:19:55.862511+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "778I2wQQsm0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "The Prompt is Becoming the Product",
+  "published_at": "2025-04-24T04:51:25Z",
+  "thumbnail": "https://i.ytimg.com/vi/778I2wQQsm0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=778I2wQQsm0",
+  "duration": "3m 50s",
+  "view_count": "8042",
+  "like_count": "391",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses how AI models like o3 and o4-mini-high have evolved to make the prompt itself the final product, rather than just a starting point. He emphasizes the importance of built-in tool calling for automating workflows, which shortens the time from technology to customer value. This shift demands clearer prompting and redefines job expectations in the AI field.",
+  "bullets": [
+    "With models like o3 and o4-mini-high, the output is so comprehensive that 'our prompting is becoming our work product.' This means that what you write as a prompt can stand alone as a finished product, similar to how a well-crafted recipe can be served directly without needing further cooking.",
+    "Built-in tool calling in these models allows for automated, multi-step workflows, like scheduling weekly competitor scans. This is akin to having a personal assistant who can manage your calendar and tasks without needing to check in with you every time.",
+    "The release of these advanced models has created a 'clearer tech-to-value pipeline,' shortening the time from technology to customer value. This is like how smartphones made it easier to access the internet on the go, transforming how we interact with technology.",
+    "New prompting responsibilities require creators to specify the purpose, outputs, and success criteria of their prompts. This is like a project manager needing to define the scope, deliverables, and timeline before starting a construction project to avoid costly mistakes.",
+    "As prompting becomes a core aspect of work, résumés and performance metrics must evolve to reflect prompt design as a key skill. If you don't adapt, you risk being overlooked in a job market that increasingly values this new expertise.",
+    "The competitive landscape is described as an 'arms race' to simplify agentic workflows. This means that those who don't keep up with the latest prompting techniques may find themselves outpaced by others who can deliver results faster and more efficiently.",
+    "The shift to models that produce complete outputs means that prompts are no longer just drafts but the final deliverable. This is like an artist presenting a finished painting rather than just the sketches that led to it.",
+    "The evolution of prompting requires greater precision from creators, as vague prompts can lead to unsatisfactory results. Think of it like giving a GPS coordinates; if the input is wrong, you won't reach your destination.",
+    "The adoption curves for technologies like the iPhone and early ChatGPT are echoed in the rapid integration of these AI models into everyday business practices. This is similar to how quickly social media became a staple in communication, transforming how we connect.",
+    "The expectation for prompts to function autonomously means that they must be crafted with care and clarity. If not, it's like sending a ship to sea without a clear map; it may drift aimlessly without reaching its destination.",
+    "The timeline for adapting to these changes is urgent, as the landscape is evolving rapidly. If you don't start refining your prompt engineering skills now, you may find yourself at a disadvantage within just a few months.",
+    "The models' ability to automate tasks that previously required platforms like n8n or LangGraph means that businesses can operate more efficiently. This is like upgrading from a bicycle to a car; the journey becomes faster and more streamlined."
+  ],
+  "key_takeaways": [
+    "Start refining your prompt engineering skills immediately. The landscape is evolving rapidly, and those who adapt will have a competitive edge. If you delay, you risk falling behind in a job market that increasingly values these skills.",
+    "Make it a rule that every prompt you create must specify its purpose, expected outputs, and success criteria. This clarity will lead to better results and prevent misunderstandings. Without this precision, you may end up with outputs that don't meet your needs.",
+    "Update your résumé to highlight prompt design as a core competency. As the industry shifts, failing to showcase this skill could mean missing out on job opportunities. Employers are looking for candidates who can navigate this new landscape effectively."
+  ],
+  "technical_terms": {
+    "o3": "A version of an AI model that produces highly complete outputs, making the prompt itself the final product. Think of it like a fully baked cake that doesn’t need any frosting or decoration.",
+    "o4-mini-high": "An advanced AI model that enhances the capabilities of previous versions, allowing for more sophisticated outputs. Like upgrading from a standard bicycle to a high-performance racing bike, it offers better speed and efficiency.",
+    "tool calling": "The ability of AI models to invoke other tools or functions automatically during their operation. Think of it like a Swiss Army knife that can switch between tools seamlessly to get the job done.",
+    "agentic models": "AI models that can perform tasks autonomously without needing constant human intervention. Like a self-driving car that navigates the roads on its own, these models can manage workflows independently.",
+    "prompt engineering": "The practice of designing prompts that effectively communicate the desired output to an AI model. Think of it like crafting a treasure map; the clearer the directions, the more likely you are to find the treasure.",
+    "competitive scans": "Automated processes that analyze competitors' activities or products regularly. This is like having a spy in a rival company who reports back on their strategies every week.",
+    "tech-to-value pipeline": "The process that transforms technology into customer value through product development. Think of it like a factory assembly line where raw materials are turned into finished goods ready for sale.",
+    "performance metrics": "Standards used to evaluate the effectiveness of an individual's work. Like a scoreboard in a sports game, it shows how well someone is performing against set goals.",
+    "résumé evolution": "The changing expectations for what skills and experiences should be highlighted on a job application. It’s like updating a curriculum to include new subjects that reflect current job market demands.",
+    "arms race": "A competitive environment where companies strive to outdo each other in developing better technologies or processes. Think of it like athletes in a race, each trying to break the previous record to claim victory.",
+    "autonomous work": "Tasks that can be completed by AI without human oversight. Like a robot vacuum that cleans your floor while you relax, it operates independently to get the job done.",
+    "customer value": "The perceived benefit that a customer receives from a product or service. Think of it like a delicious meal at a restaurant; the value comes from both the taste and the experience."
+  },
+  "topics": [
+    "AI Models",
+    "Prompt Engineering",
+    "Automation",
+    "Job Market",
+    "Technology Adoption"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com/",
+      "title": "https://natebjones.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://linktr.ee/natebjones",
+      "title": "https://linktr.ee/natebjones",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T13:33:45.248466+00:00"
+}

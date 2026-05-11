@@ -1,0 +1,78 @@
+{
+  "video_id": "_ESebVqColU",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "State of AI Report : New AI winners (not who you think)  #anthropic #claude #chatgpt #openai #llm",
+  "published_at": "2025-11-04T04:00:39Z",
+  "thumbnail": "https://i.ytimg.com/vi/_ESebVqColU/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=_ESebVqColU",
+  "duration": "1m 10s",
+  "view_count": "8452",
+  "like_count": "337",
+  "has_transcript": false,
+  "executive_summary": "The latest State of AI Report reveals significant shifts in the AI landscape, emphasizing the transition from model IQ to a focus on systems, cost, and distribution. Key insights include the resetting of unit economics every few months and the emergence of routing to the cheapest capable model, impacting LLMs like GPT-5 and Claude. By 2025 and 2026, AI builders will face challenges related to power, permits, and water as bottlenecks for scaling LLMs.",
+  "bullets": [
+    "The capability-to-cost curve resets unit economics every few months, meaning that the cost-effectiveness of AI models is constantly changing. This is crucial because it forces AI developers to continuously adapt their strategies to remain competitive. Think of it like a race where the track layout changes every lap, requiring runners to adjust their pace and route.",
+    "Routing to the cheapest capable model can outperform frontier defaults, which means that selecting the most cost-effective AI model can lead to better performance than sticking with the most advanced one. This is important because it allows companies to save money while still achieving high-quality results. Imagine choosing a reliable, fuel-efficient car for a long trip instead of a flashy sports car that guzzles gas.",
+    "Answer engines are changing the distribution and AEO (Answer Engine Optimization) in the browser, which means that how information is delivered to users is evolving. This is significant because it can enhance user experience and engagement. Think of it like a restaurant that optimizes its menu to highlight the most popular dishes, making it easier for customers to choose what they want.",
+    "Power, permits, and water are identified as potential bottlenecks for scaling LLMs, indicating that infrastructure limitations could hinder AI development. This is critical because without addressing these constraints, the growth of AI capabilities may stall. It's like trying to fill a swimming pool with a garden hose; if the water supply is limited, it will take much longer to fill.",
+    "The report highlights that AI builders must now focus on multi-model routing, which involves using various models to optimize performance. This is essential as it allows for flexibility and adaptability in AI solutions. Think of it like a chef using different cooking techniques to create a perfect dish, rather than relying on just one method.",
+    "Evaluating AI reasoning gains and model intelligence is becoming increasingly important, as it helps developers understand the effectiveness of their models. This matters because it can lead to improvements in AI performance and reliability. Imagine a student taking regular tests to gauge their understanding and adjust their study habits accordingly.",
+    "The global AI landscape is characterized by a tension between open and closed models, affecting collaboration and innovation. This is significant because it shapes how companies share knowledge and resources. Think of it like a group project where some members are willing to share their notes while others keep theirs secret; it can impact the overall success of the project.",
+    "Implications for AI builders and investors include the need for clear-eyed planning regarding infrastructure limits, as overlooking these can lead to significant execution risks. This is crucial because it can determine the success or failure of AI initiatives. It's like a construction project that fails because the builders didn't account for the soil quality; without proper planning, the foundation may crumble.",
+    "The future of AI will involve individual agency and opportunities, suggesting that there will be more ways for people to engage with AI technologies. This is important because it can empower users and foster innovation. Think of it like the rise of smartphones, which opened up countless possibilities for app developers and users alike.",
+    "The report indicates that operators must balance automation at work with real execution risk, emphasizing the importance of careful planning. This is vital because it can prevent costly mistakes and ensure smoother operations. Imagine a pilot who automates certain flight tasks but still keeps a close eye on the instruments to avoid potential issues.",
+    "By 2025 and 2026, AI builders will face new realities that require them to adapt their strategies and technologies. This timeline is critical as it sets a clear deadline for companies to prepare for upcoming challenges. Think of it like a sports team preparing for a championship game; they need to train and strategize well in advance to succeed.",
+    "The State of AI Report is the most read report in Silicon Valley, consisting of 313 slides filled with insights and analysis. This highlights the growing interest and importance of AI in the tech industry. It's like a blockbuster movie that everyone is talking about; it captures attention and sparks discussions."
+  ],
+  "key_takeaways": [
+    "Implement multi-model routing in your AI projects to optimize performance and cost. This matters because it allows you to leverage the best capabilities of various models, ensuring you stay competitive. If you skip this, you may end up using outdated or less efficient models, costing you time and resources.",
+    "Plan for infrastructure limits now, especially regarding power and water constraints, to avoid execution risks in your AI initiatives. This is crucial because addressing these issues early can save you from costly setbacks later. Ignoring this could lead to project delays or failures as resources become strained.",
+    "Set a timeline for adapting to the shifting AI landscape by 2025 and 2026. This is important because it gives your team a clear deadline to prepare for changes in technology and market demands. If you don't establish this timeline, you risk falling behind competitors who are already planning ahead."
+  ],
+  "technical_terms": {
+    "capability-to-cost curve": "A graph that shows how the cost of AI models changes in relation to their capabilities over time. Think of it like a roller coaster where the height of the ride represents the model's capabilities, and the price of the ticket changes with each dip and rise.",
+    "multi-model routing": "The strategy of using multiple AI models to achieve the best results for a given task. Like a chef choosing different ingredients from various cuisines to create a unique and flavorful dish.",
+    "AEO (Answer Engine Optimization)": "The process of improving how answers are delivered to users in search engines or applications. Think of it like a librarian organizing books in a way that makes it easier for readers to find exactly what they need.",
+    "LLM (Large Language Model)": "A type of AI model that is trained on vast amounts of text data to understand and generate human-like language. Like a sponge soaking up water, these models absorb information to become more knowledgeable.",
+    "open models": "AI models that allow for collaboration and sharing of knowledge among developers. Think of it like an open-source software project where anyone can contribute and improve the code.",
+    "closed models": "AI models that are proprietary and restrict access to their inner workings. Like a secret recipe that only a few people know, limiting innovation and collaboration.",
+    "infrastructure limits": "The physical and technical constraints that can hinder the development and scaling of AI technologies. Think of it like a highway that becomes congested during rush hour, slowing down traffic and progress.",
+    "unit economics": "The financial metrics that determine the profitability of a business model based on its costs and revenue. Like a farmer calculating how much it costs to grow crops versus how much they can sell them for.",
+    "answer engines": "Systems designed to provide direct answers to user queries rather than just links to information. Think of it like a personal assistant who gives you the answer right away instead of making you search for it.",
+    "execution risk": "The potential for failure in implementing a plan or strategy. Like a tightrope walker who risks falling if they don't maintain focus and balance.",
+    "bottleneck": "A point in a process that slows down overall progress due to limited resources or capacity. Think of it like a narrow bridge that causes traffic jams when too many cars try to cross at once.",
+    "automation": "The use of technology to perform tasks without human intervention. Like a factory assembly line where machines do the work, allowing humans to focus on more complex tasks.",
+    "individual agency": "The ability of individuals to make choices and take actions that influence their environment. Think of it like a player in a video game who can choose different paths and strategies to achieve their goals.",
+    "cost-effectiveness": "The measure of how well a product or service provides value relative to its cost. Like comparing different brands of laundry detergent to see which one cleans best for the lowest price.",
+    "model intelligence": "The capability of an AI model to understand and reason about information. Think of it like a student who not only memorizes facts but can also apply them to solve problems.",
+    "distribution": "The way in which products or services are delivered to users. Like a delivery service that ensures packages reach customers quickly and efficiently.",
+    "power constraints": "Limitations on the availability of energy resources needed to run AI systems. Think of it like a battery running low on charge, affecting the performance of your devices."
+  },
+  "topics": [
+    "AI systems",
+    "cost optimization",
+    "infrastructure challenges",
+    "model evaluation",
+    "future of AI"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-i-summarized-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-i-summarized-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:54:23.292041+00:00"
+}

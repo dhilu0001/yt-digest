@@ -1,0 +1,76 @@
+{
+  "video_id": "0cVuMHaYEHE",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.",
+  "published_at": "2026-03-30T14:00:04Z",
+  "thumbnail": "https://i.ytimg.com/vi/0cVuMHaYEHE/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=0cVuMHaYEHE",
+  "duration": "26m 20s",
+  "view_count": "144758",
+  "like_count": "4116",
+  "has_transcript": false,
+  "executive_summary": "Anthropic, OpenAI, and Microsoft have agreed on a unified file format for AI skills, which is a significant shift in the AI landscape. This change emphasizes that skills are now seen as organizational infrastructure rather than just personal configuration files. Teams that adapt to this new reality will gain a competitive edge, while those who treat skills as mere prompts will fall behind.",
+  "bullets": [
+    "Skills launched in October have transformed from simple personal configuration files into essential organizational infrastructure. This shift means that teams need to rethink how they approach skill development and integration. Imagine a city where roads (skills) are now vital highways, not just local streets.",
+    "The description field is where most skills 'go to die,' indicating that many teams fail to utilize this area effectively. If the description is vague or poorly crafted, it can lead to confusion and inefficiency, much like a poorly labeled box in a cluttered garage that makes it hard to find what you need.",
+    "Agent-first design changes how teams manage handoffs and contracts between different systems. This approach prioritizes the needs of agents (AI systems) over human workflows, similar to how a restaurant designs its kitchen around the chefs instead of the diners.",
+    "A three-tier skill architecture is essential for teams to manage complexity effectively. This structure allows for better organization and scalability, much like a well-structured library where books are categorized by genre, author, and title, making it easier to find what you're looking for.",
+    "Skills compound over time, while prompts tend to evaporate quickly. This means that teams that continuously version, test, and share their skills will see exponential growth in their capabilities, like a snowball that gathers more snow as it rolls down a hill.",
+    "The specialist stack pattern in production allows teams to focus on specific areas of expertise. This specialization leads to higher quality outputs, akin to a sports team where each player has a defined role, maximizing the team's overall performance.",
+    "A real estate GP (General Partner) with 50,000 lines of skills illustrates the vast potential of well-developed skills. This extensive skill set enables the GP to manage complex tasks efficiently, like a conductor leading a large orchestra with many musicians playing in harmony.",
+    "To build a skill that actually works, teams must focus on clear, actionable outputs rather than vague descriptions. This is crucial because a skill without a clear purpose is like a tool without a manual; it may sit unused and unappreciated.",
+    "The single-line description gotcha highlights the danger of oversimplifying skill descriptions. A single line may not convey the necessary details, much like trying to summarize a complex novel in one sentence and losing all the important nuances.",
+    "Methodology body emphasizes reasoning over procedures, suggesting that teams should prioritize understanding the 'why' behind actions rather than just following steps. This approach fosters critical thinking, similar to how a chef understands the science of cooking rather than just memorizing recipes.",
+    "Descriptions serve as routing signals, while outputs act as contracts between the skill and the user. This means that a well-defined output can guide users effectively, much like a GPS that provides clear directions to a destination.",
+    "Community repositories are essential for filling domain-specific gaps in skills. By sharing and collaborating, teams can leverage collective knowledge, similar to how a neighborhood potluck brings together diverse dishes that everyone can enjoy."
+  ],
+  "key_takeaways": [
+    "Revise your team's approach to skills by adopting an agent-first design. This shift will ensure that your skills are optimized for AI systems, enhancing efficiency and effectiveness. Failing to do so may leave your team struggling with outdated processes.",
+    "Implement a three-tier skill architecture to manage complexity within your team. This structure will help organize skills better and improve collaboration, while neglecting this could lead to chaos and inefficiency.",
+    "By the end of the year, ensure that at least 50% of your evaluation tests check for code hygiene, including naming, structure, and function length. This balance is crucial because many teams currently focus too much on functionality at the expense of maintainability."
+  ],
+  "technical_terms": {
+    "Agent-first design": "A design approach that prioritizes the needs and capabilities of AI agents over human workflows. Think of it like designing a car specifically for the driver rather than the passengers.",
+    "Three-tier skill architecture": "A structured approach to organizing skills into three levels for better management and scalability. Like a multi-story building where each floor has a specific purpose and function.",
+    "Compounding skills": "The process by which skills build upon each other over time, leading to exponential growth in capabilities. Think of it like investing money where interest earns more interest, growing your wealth faster.",
+    "Specialist stack pattern": "A production strategy that emphasizes specialization in specific areas to enhance overall quality and efficiency. Like a sports team where each player has a defined role, leading to better teamwork.",
+    "Community repositories": "Shared storage spaces where teams can collaborate and share domain-specific skills. Like a library where everyone can contribute books and resources for the benefit of the community."
+  },
+  "topics": [
+    "AI skills",
+    "Agent design",
+    "Skill architecture",
+    "Community collaboration",
+    "Organizational infrastructure"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/your-ai-skills-fail-10-of-the-time?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/your-ai-skills-fail-10-of-the-time?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "title": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "title": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:30:17.113228+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "thBK38DkAUc",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "AI intelligence costs hit zero: Your massive advantage! #workwithai #ai #productivity #futureofwork",
+  "published_at": "2025-10-30T21:01:07Z",
+  "thumbnail": "https://i.ytimg.com/vi/thBK38DkAUc/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=thBK38DkAUc",
+  "duration": "1m 6s",
+  "view_count": "2219",
+  "like_count": "107",
+  "has_transcript": false,
+  "executive_summary": "The latest report from Silicon Valley reveals that AI intelligence costs are plummeting, with significant implications for AI builders and investors. Key insights include the rapid reset of unit economics every few months, the advantages of routing to cheaper models, and the bottlenecks in power and infrastructure that will affect large language models (LLMs) like GPT-5 and Claude by 2025 and 2026.",
+  "bullets": [
+    "AI intelligence costs are hitting zero, meaning that the expenses associated with deploying AI systems are rapidly decreasing. This is crucial because it allows more companies to adopt AI without the heavy financial burden, like how the price of smartphones dropped, making them accessible to everyone.",
+    "The capability-to-cost curve resets unit economics every few months, indicating that what was once expensive becomes cheap very quickly. This is similar to how the price of computer processors has dropped over time, allowing more powerful machines to be built at lower costs.",
+    "Routing to the cheapest capable model can outperform using the most advanced models by default. Imagine choosing a reliable, budget-friendly car for daily commuting instead of a luxury sports car that costs much more but isn't necessary for the task.",
+    "Answer engines are changing how information is distributed and accessed in browsers. This is like having a personal librarian who knows exactly where to find the best books for you, rather than sifting through a messy library.",
+    "Power, permits, and water will become bottlenecks for scaling LLMs, which means that even if the technology is available, practical limitations could slow down progress. Think of it like a factory that has all the machines but runs out of electricity to power them.",
+    "By 2025 and 2026, AI builders will face significant challenges related to infrastructure limitations. This is similar to a city growing too fast without enough roads or utilities to support its population, leading to traffic jams and shortages.",
+    "The shift from model IQ to systems means that understanding the entire ecosystem of AI is becoming more important than just focusing on individual models. It's like being a chef who needs to know not just how to cook but also how to manage the kitchen and the ingredients.",
+    "The most read report in Silicon Valley consists of 313 slides, indicating the depth and importance of the findings. This is like a comprehensive textbook that covers every aspect of a subject, making it essential for anyone serious about the topic.",
+    "Multi-model routing is becoming a key advantage for AI operators, allowing them to optimize performance and cost. Think of it like a delivery service that uses different vehicles for different packages to ensure timely and cost-effective delivery.",
+    "Clear-eyed planning for infrastructure limits is essential for balancing automation and execution risks. This is akin to a construction project that must account for soil quality and weather conditions to avoid delays and budget overruns.",
+    "The implications for AI builders and investors are profound, as they must adapt to the rapidly changing landscape of AI capabilities and costs. It's like navigating a river that changes course frequently; you must be ready to adjust your path to stay on course.",
+    "Individual agency and opportunities in AI are expanding, meaning that more people can leverage AI tools for their own projects. This is like the rise of personal computers, which empowered individuals to create and innovate in ways that were previously only available to large companies."
+  ],
+  "key_takeaways": [
+    "Set a rule that at least 50% of your evaluation tests must check for infrastructure limits, not just model performance. This matters because overlooking infrastructure can lead to project failures. If you skip this, you risk investing in technology that can't be supported.",
+    "Plan for the upcoming changes in AI costs and capabilities by regularly reviewing your AI strategy every few months. This is crucial because the landscape is shifting rapidly, and failing to adapt could leave you behind competitors who are more agile.",
+    "Implement multi-model routing in your AI projects to optimize costs and performance. This is important because it allows you to leverage the best tools available without overspending. If you don't, you may end up using more expensive models that don't provide additional value."
+  ],
+  "technical_terms": {
+    "LLMs": "Large Language Models are advanced AI systems designed to understand and generate human-like text. Think of it like a highly skilled translator who can not only convert languages but also understand context and nuances.",
+    "Unit Economics": "This refers to the direct revenues and costs associated with a particular business model. Like understanding the profit margin on a single product before deciding to scale production.",
+    "Answer Engines": "These are systems that provide direct answers to queries rather than just links to information. Think of it like having a personal assistant who gives you the answer right away instead of sending you to a website to find it yourself.",
+    "Multi-Model Routing": "This is the practice of using multiple AI models to optimize performance and costs. Like a delivery service that chooses the best vehicle for each type of package to ensure timely delivery.",
+    "Infrastructure Limits": "These are the physical and logistical constraints that can affect the deployment of AI systems. Think of it like a highway that can only handle a certain number of cars at once; if too many cars try to use it, traffic jams occur.",
+    "Capability-to-Cost Curve": "This describes how the capabilities of AI systems improve while their costs decrease over time. Like how the performance of smartphones has increased while their prices have dropped.",
+    "Bottlenecks": "These are points in a process that slow down overall progress. Like a narrow bridge that restricts traffic flow, causing delays for everyone trying to cross.",
+    "Open Models": "These are AI systems that allow for public access and modification. Think of it like an open-source software project where anyone can contribute and improve the code.",
+    "Closed Models": "These are proprietary AI systems that restrict access and modifications. Like a secret recipe that only a few people know, limiting who can make the dish.",
+    "AI Builders": "These are individuals or companies that create and develop AI technologies. Think of them as architects who design and construct buildings, shaping the future of how we interact with technology."
+  },
+  "topics": [
+    "AI Costs",
+    "AI Infrastructure",
+    "AI Models",
+    "AI Strategy",
+    "Future of Work"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-i-summarized-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-i-summarized-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:59:34.942956+00:00"
+}

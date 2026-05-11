@@ -1,0 +1,70 @@
+{
+  "video_id": "S8DKnN61WTA",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "AI agents work while you rest—if you do this #ai #futureofwork #agenticai",
+  "published_at": "2026-03-19T03:00:28Z",
+  "thumbnail": "https://i.ytimg.com/vi/S8DKnN61WTA/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=S8DKnN61WTA",
+  "duration": "1m 34s",
+  "view_count": "6568",
+  "like_count": "333",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the challenges faced by AI agents, particularly focusing on Claude Code's tendency to prematurely declare tasks as finished. He emphasizes that by 2026, the key to success for knowledge workers will be their ability to clearly define what 'done' looks like, allowing AI agents to work more effectively and autonomously.",
+  "bullets": [
+    "Claude Code's biggest weakness is its tendency to say it's finished prematurely, which can lead to incomplete tasks. This is like a chef declaring a dish ready before it has been properly seasoned; the final taste will suffer. Understanding this flaw is crucial for improving AI reliability.",
+    "A simple eval loop can force large language models (LLMs) to converge on correctness. This is similar to a student repeatedly practicing a math problem until they get it right; the more they practice, the better they become. Implementing such loops can enhance the accuracy of AI outputs.",
+    "Workflow-shaped evaluations will significantly impact non-technical knowledge work by 2026. This means that tasks will be assessed based on how well they fit into established workflows, much like a puzzle piece that must fit perfectly into its designated spot. Workers will need to adapt to these new evaluation standards.",
+    "The bottleneck in AI development is shifting from model capability to agentic harness design. This is like moving from building faster cars to creating better roads; the infrastructure around AI needs to improve for it to function optimally. Understanding this shift is vital for future AI applications.",
+    "By 2026, the success of knowledge workers will depend on their ability to clearly define what 'done' looks like for AI agents. This is akin to giving a GPS a precise destination; without clear instructions, the AI will struggle to reach the desired outcome. Clarity in task definition is essential.",
+    "The current narrative suggests that smarter models will solve AI reliability issues, but the reality is more complex. This is like believing that simply upgrading a computer will fix all its problems; often, the underlying issues need addressing first. Recognizing this complexity is crucial for effective AI deployment.",
+    "Nate emphasizes that operators must become adept at defining tasks for AI agents. This is like a coach teaching players the game plan; without clear strategies, the team will falter. Operators need to refine their task definitions to leverage AI effectively.",
+    "The concept of agentic harness design is becoming increasingly important in AI development. Think of it like designing a harness for a racehorse; it must be tailored to the horse's strengths to maximize performance. Understanding how to design these harnesses will be key for future AI success.",
+    "Nate's insights suggest that the future of work will require a shift in how we evaluate AI outputs. This is similar to changing the criteria for a beauty contest; the standards must evolve to reflect what is truly valuable. Adapting to these new evaluation methods is necessary for staying competitive.",
+    "The video hints at a future where AI agents can iterate toward correctness autonomously. This is like a self-driving car learning to navigate better over time; the more data it processes, the smarter it becomes. Embracing this potential will be crucial for maximizing AI efficiency.",
+    "Nate's analysis indicates that the timeline for these changes is set for 2026. This is like preparing for a major event months in advance; the sooner you start planning, the better prepared you will be. Knowledge workers should begin adapting their skills now to meet future demands."
+  ],
+  "key_takeaways": [
+    "Define what 'done' looks like for AI agents to enhance their effectiveness. Clear definitions will allow AI to work autonomously, leading to better outcomes. If you skip this step, you risk having AI that doesn't meet your expectations.",
+    "Implement eval loops in your AI processes to improve accuracy. These loops help models practice and refine their outputs, much like a student studying for a test. Without them, your AI may produce unreliable results.",
+    "Prepare for the 2026 shift by adapting your evaluation methods for AI outputs. As workflows become more important, your ability to assess AI performance will determine your success. Ignoring this change could leave you behind in the evolving job market."
+  ],
+  "technical_terms": {
+    "eval loop": "A process where AI models repeatedly test and refine their outputs to improve accuracy. Think of it like a musician practicing a song until they can play it perfectly.",
+    "agentic harness design": "The framework that allows AI agents to operate effectively by defining their tasks and capabilities. Like a well-fitted harness for a horse, it ensures the AI can perform at its best.",
+    "workflow-shaped evaluations": "Assessments that focus on how well tasks fit into established workflows rather than just their individual outcomes. Think of it like fitting pieces into a jigsaw puzzle; each piece must connect to create the complete picture.",
+    "large language models (LLMs)": "Advanced AI systems that can understand and generate human-like text. Like a very smart parrot, they can mimic language based on what they've learned.",
+    "knowledge work": "Tasks that require thinking, problem-solving, and creativity rather than manual labor. Think of it like being a chef who creates new recipes instead of just following instructions.",
+    "bottleneck": "A point in a process where progress slows down due to limitations. Like a traffic jam on a highway, it prevents smooth flow and efficiency.",
+    "autonomous iteration": "The ability of AI to improve its performance without human intervention. Think of it like a self-learning robot that gets better at its tasks over time.",
+    "model capability": "The potential of an AI model to perform tasks effectively based on its design and training. Like a sports car's engine, its power determines how fast and efficiently it can go.",
+    "task definition": "The clear outline of what needs to be accomplished by an AI agent. Think of it like a recipe that lists all the ingredients and steps needed to make a dish.",
+    "AI reliability": "The consistency and trustworthiness of AI outputs in performing tasks. Like a reliable clock, it should keep accurate time without fail."
+  },
+  "topics": [
+    "AI agents",
+    "workflow evaluations",
+    "knowledge work",
+    "autonomous AI",
+    "future of work"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-the-verification?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-the-verification?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:40:46.094774+00:00"
+}

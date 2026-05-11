@@ -1,0 +1,72 @@
+{
+  "video_id": "05RRGiF7QC0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo",
+  "published_at": "2025-10-28T14:00:03Z",
+  "thumbnail": "https://i.ytimg.com/vi/05RRGiF7QC0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=05RRGiF7QC0",
+  "duration": "20m 22s",
+  "view_count": "14510",
+  "like_count": "651",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones explains how Perplexity's Retrieval-Augmented Generation (RAG) offers a unique approach to AI search, distinguishing it from ChatGPT. He emphasizes the importance of precise prompting strategies and the need for citation checks to manage inaccuracies, highlighting that Perplexity enables agentic search with multiple perspectives and transparent sourcing.",
+  "bullets": [
+    "Perplexity's Retrieval-Augmented Generation (RAG) enables agentic search, meaning it allows users to actively engage with search results rather than passively receiving them. This matters because it empowers users to explore various angles on a topic, like a detective piecing together clues from different sources.",
+    "Prompting in Perplexity differs significantly from ChatGPT, as it requires short context and does not rely on few-shot learning. This is crucial because it means users must be precise in their queries, like asking a librarian for a specific book instead of just saying 'I want to read something interesting.'",
+    "Users should demand multiple perspectives in their search results when using Perplexity. This is important because it helps to avoid bias and provides a fuller picture, much like consulting several experts before making a big decision.",
+    "Citations are a key feature of Perplexity, providing transparent sourcing for the information retrieved. This is vital because it allows users to verify the accuracy of the information, similar to checking the references in a research paper to ensure credibility.",
+    "Output constraints are necessary when using Perplexity, which means users should specify how they want the information presented. This matters because it helps filter out irrelevant data, like asking a chef to prepare a dish with specific ingredients rather than just saying 'make something delicious.'",
+    "Perplexity offers focus modes, which allow users to tailor their search experience based on their needs. This is significant because it can streamline the research process, like using a map app that offers different routes based on whether you're walking, driving, or biking.",
+    "Spaces and Labs are features within Perplexity that enhance the user experience by allowing for collaborative and experimental searches. This is important because it fosters innovation, much like a science lab where students can test hypotheses together.",
+    "Iterative deepening is a technique in Perplexity that encourages users to refine their searches progressively. This is crucial because it leads to more accurate results, like digging deeper into the ground to find precious minerals rather than just scratching the surface.",
+    "Navigating hallucinations in AI search is essential, as users must be aware that AI can generate incorrect information. This is important because relying on false data can lead to poor decisions, like trusting a GPS that leads you to a dead end instead of your destination.",
+    "Perplexity is particularly valuable in the age of AI because it provides recency in information, ensuring that users access the latest data available. This matters because outdated information can lead to missed opportunities, like trying to sell a winter coat in the summer.",
+    "To manage hallucinations effectively, users should implement a double-LLM cross-check, which means using two language models to verify information. This is critical because it adds a layer of security against inaccuracies, like having two locks on your door for better protection.",
+    "By the end of the year, teams should aim to integrate Perplexity into their research processes to stay competitive. This is vital because the landscape of AI is rapidly evolving, and those who adapt quickly will have the edge, much like a sports team that practices new strategies before the big game."
+  ],
+  "key_takeaways": [
+    "Set a rule that every search using Perplexity must include at least three different perspectives on the topic. This is crucial to avoid bias and ensure a well-rounded understanding. Skipping this could lead to decisions based on incomplete information.",
+    "Implement a system for citation checks in your research workflow when using Perplexity. This is important to verify the accuracy of the information you gather. Without this step, you risk spreading misinformation, which can damage credibility.",
+    "Incorporate output constraints into your prompts to filter results effectively. This will help you focus on the most relevant information. If you neglect this, you may end up overwhelmed by irrelevant data, wasting valuable time.",
+    "Encourage your team to experiment with focus modes and Spaces within Perplexity to enhance collaboration. This can lead to innovative solutions and improved research outcomes. Ignoring these features means missing out on potential breakthroughs."
+  ],
+  "technical_terms": {
+    "Retrieval-Augmented Generation (RAG)": "A method that combines retrieval of information from external sources with generation of text by AI. Think of it like a chef who not only cooks but also consults a cookbook for the best recipes.",
+    "agentic search": "A search method that allows users to actively engage and explore information rather than just receiving it passively. Like a detective who investigates a case by following leads instead of just reading a report.",
+    "few-shot learning": "A technique where a model learns from only a few examples to perform a task. Think of it like teaching a child to recognize animals by showing them just a couple of pictures instead of a whole book.",
+    "output constraints": "Limits set on how information should be presented in search results. Like asking a waiter to serve your meal without certain ingredients to meet your dietary needs.",
+    "focus modes": "Different settings in Perplexity that tailor the search experience based on user needs. Like a smartphone that offers various modes for photography, each optimized for different lighting conditions.",
+    "Spaces": "Collaborative environments within Perplexity where users can work together on searches. Think of it like a shared workspace where team members brainstorm and develop ideas together.",
+    "Labs": "Experimental features in Perplexity that allow users to test new search methods. Like a science lab where students can conduct experiments to discover new results.",
+    "iterative deepening": "A technique that encourages users to refine their searches progressively for better results. Like a miner who digs deeper into the earth to find more valuable resources.",
+    "hallucinations": "Instances where AI generates incorrect or misleading information. Think of it like a mirage in the desert that tricks you into believing there’s water when there isn’t any.",
+    "double-LLM cross-check": "A verification method using two language models to confirm information accuracy. Like having two witnesses to corroborate a story before believing it."
+  },
+  "topics": [
+    "AI Search",
+    "Perplexity",
+    "Prompt Engineering",
+    "Information Accuracy",
+    "Research Techniques"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/unlocking-perplexitys-power-proven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/unlocking-perplexitys-power-proven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T17:02:19.575878+00:00"
+}

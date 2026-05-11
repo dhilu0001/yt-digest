@@ -1,0 +1,71 @@
+{
+  "video_id": "SuQ1aroNGzg",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork",
+  "published_at": "2026-03-12T21:00:35Z",
+  "thumbnail": "https://i.ytimg.com/vi/SuQ1aroNGzg/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=SuQ1aroNGzg",
+  "duration": "1m 28s",
+  "view_count": "7180",
+  "like_count": "325",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the complexities behind why AI agents struggle with reliable execution, emphasizing that the core issue lies in understanding intent rather than just context. He explains that while large language models (LLMs) are trained to generate plausible text, they often miss the mark on prioritizing user intent, leading to outcomes that may seem correct but are subtly wrong. The video highlights the need for clear intent in AI prompts to ensure successful agent deployment by 2026.",
+  "bullets": [
+    "AI agents often fail due to a misunderstanding of intent rather than just hallucinations. This means they can produce text that sounds right but doesn't align with user priorities, like a chef who can cook a dish beautifully but doesn't know the customer's dietary restrictions.",
+    "Large language models (LLMs) are designed to create plausible text, not to grasp your specific priorities. This is like a student who can write an essay well but doesn't understand the assignment's requirements, leading to a paper that misses the point.",
+    "Intent is different from context, and it often remains hidden in AI interactions. Think of it like a treasure map where the location of the treasure is obscured; without clear markers, you might dig in the wrong spot.",
+    "Disambiguation loops and intent commits are crucial for effective agentic systems. These processes help clarify ambiguous instructions, similar to how a GPS recalibrates when you take a wrong turn, ensuring you stay on the right path.",
+    "Reinforcement learning is a method that helps AI improve through feedback, akin to a child learning to ride a bike by adjusting their balance based on falls and successes. This iterative process is essential for refining AI behavior.",
+    "Crypto-style solvers offer a promising direction for AI agents, as they can efficiently find solutions to complex problems. It's like using a powerful calculator that can solve intricate math problems quickly, rather than doing them by hand.",
+    "Builders who effectively communicate intent from prompt to execution will create scalable agents by 2026. If they ignore this gap, they risk producing agents that deliver outcomes that appear correct but are actually flawed, like a magician's trick that dazzles but ultimately deceives.",
+    "The video stresses the importance of making every guardrail explicit in AI development. This is like building a fence around a playground; without clear boundaries, children might wander into dangerous areas.",
+    "Ignoring the intent gap can lead to outcomes that seem confident but are subtly wrong. This is similar to a confident speaker who misrepresents facts; they may sound convincing but lead their audience astray.",
+    "Nate B Jones emphasizes that 'a good human engineer wrote this' is becoming a weaker claim in AI development. This highlights the need for more rigorous standards and checks, like requiring a certified mechanic to ensure a car is safe before it hits the road.",
+    "The timeline for addressing these issues is urgent, with a call to action for builders to refine their approaches by 2026. If they delay, they risk falling behind in a rapidly evolving field where clarity and precision are paramount.",
+    "The video suggests that without addressing the intent gap, teams will continue to struggle with AI agents that produce incorrect outcomes. This is like trying to drive a car with a faulty navigation system; you might end up lost despite having a map."
+  ],
+  "key_takeaways": [
+    "Ensure that at least 50% of your evaluation tests focus on intent clarity rather than just functionality. This is crucial because many teams currently have this split backwards at 80/20, leading to flawed AI outcomes.",
+    "Set a deadline to refine your AI prompts for clarity of intent by the end of 2025. This matters because without clear intent, your agents may produce results that seem correct but are misleading, risking your project's success.",
+    "Incorporate disambiguation loops in your AI development process. This will help clarify instructions and improve the reliability of your agents, preventing them from veering off course like a lost traveler without a map."
+  ],
+  "technical_terms": {
+    "Large Language Models (LLMs)": "These are AI systems trained to generate human-like text based on patterns in data. Think of it like a parrot that can mimic human speech but doesn't understand the meaning behind the words.",
+    "Intent": "This refers to the specific goals or priorities that a user has when interacting with an AI. Like a chef knowing exactly what a customer wants, intent is about understanding the underlying needs behind requests.",
+    "Context": "This is the surrounding information or circumstances that help clarify a situation. Think of it like the background scenery in a painting; it provides important details but doesn't define the main subject.",
+    "Disambiguation Loops": "These are processes that help clarify ambiguous instructions in AI systems. Like a game of telephone where players clarify the message to ensure it’s understood correctly, disambiguation loops help refine communication.",
+    "Intent Commits": "These are actions taken to solidify the understanding of intent in AI systems. Think of it like a contract where both parties agree on the terms; it ensures everyone is on the same page.",
+    "Reinforcement Learning": "This is a type of machine learning where an AI learns to make better decisions based on feedback from its actions. Like a child learning to ride a bike, the AI adjusts its behavior based on successes and failures.",
+    "Crypto-style Solvers": "These are algorithms designed to solve complex problems efficiently, often used in optimization tasks. Think of it like a super-fast calculator that can handle complicated equations in seconds.",
+    "Guardrails": "These are explicit guidelines or boundaries set to ensure AI operates safely and effectively. Like the guardrails on a highway, they prevent vehicles from veering off course.",
+    "Agentic Systems": "These are AI systems that can act autonomously based on their programming. Think of it like a robot vacuum that navigates your home on its own, making decisions about where to clean.",
+    "Evaluation Tests": "These are assessments used to measure the performance and reliability of AI systems. Like a pop quiz in school, they help gauge understanding and effectiveness."
+  },
+  "topics": [
+    "AI agents",
+    "intent",
+    "large language models",
+    "reinforcement learning",
+    "future of work"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:44:36.105743+00:00"
+}

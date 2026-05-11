@@ -1,0 +1,72 @@
+{
+  "video_id": "QWzLPn164w0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.",
+  "published_at": "2026-02-24T15:00:45Z",
+  "thumbnail": "https://i.ytimg.com/vi/QWzLPn164w0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=QWzLPn164w0",
+  "duration": "29m 41s",
+  "view_count": "145468",
+  "like_count": "4706",
+  "has_transcript": false,
+  "executive_summary": "Klarna's AI agent saved the company $60 million by performing the work of 853 employees, but it did so by optimizing for the wrong objectives. Despite significant investments in AI, 74% of companies report no tangible value, highlighting a critical gap between AI capabilities and organizational needs. The future of AI lies in intent engineering, which focuses on aligning AI actions with clear organizational goals.",
+  "bullets": [
+    "Klarna's AI agent performed the work of 853 employees, saving the company $60 million. This showcases the potential of AI to handle large workloads, but it also highlights the risk of misalignment with business objectives. Imagine a factory that produces thousands of widgets but doesn’t consider whether those widgets are what customers actually want.",
+    "74% of companies report no tangible value from AI investments, despite spending billions. This suggests that many organizations are not effectively integrating AI into their workflows. It's like buying a high-end sports car but never taking it out of the garage; it looks great but doesn't serve its purpose.",
+    "Microsoft Copilot achieved only 5% deployment despite being adopted by 85% of Fortune 500 companies. This indicates that having access to advanced tools doesn't guarantee their effective use. Think of it like having a gym membership; just because you have it doesn’t mean you’ll go and get fit.",
+    "The distinction between context engineering and intent engineering is crucial, with intent being the missing layer. Context engineering focuses on the data and environment, while intent engineering aligns AI actions with specific goals. It’s like having a GPS that knows the roads but not your destination; it can guide you, but you’ll end up lost without a clear plan.",
+    "Context without intent is described as a 'loaded weapon with no target.' This means that while AI can process information, it may not achieve meaningful outcomes without clear objectives. Picture a sniper with a powerful rifle but no target in sight; the potential is there, but it’s wasted.",
+    "Investment in AI is high, but results are low, with many organizations failing to see a return on their investments. This disconnect emphasizes the need for a strategic approach to AI deployment. It’s like pouring money into a leaky bucket; no matter how much you invest, it won’t hold water without fixing the holes.",
+    "Microsoft Copilot's adoption stalled at 3%, indicating a significant gap between potential and actual usage. This suggests that organizations struggle to implement AI effectively, even when they have access to it. Think of it like having a powerful tool in your toolbox but never learning how to use it properly.",
+    "There are three layers of organizational AI infrastructure that need to be addressed for effective implementation. These layers include unified context infrastructure, coherent AI worker toolkits, and intent engineering. It’s like building a house; without a solid foundation, the rest of the structure will crumble.",
+    "Unified context infrastructure is the first layer necessary for effective AI deployment. This means creating a cohesive environment where AI can operate efficiently. Imagine trying to bake a cake without all your ingredients organized; it would be chaotic and result in a mess.",
+    "The shadow agents problem refers to AI systems operating without clear oversight or alignment with organizational goals. This can lead to unintended consequences and inefficiencies. Think of it like a ship sailing without a captain; it may move, but it could end up in dangerous waters.",
+    "The second layer, the coherent AI worker toolkit, is essential for enabling AI to perform tasks effectively. This toolkit provides the necessary resources and capabilities for AI to function in a work environment. It’s like giving a chef the right tools to create a gourmet meal; without them, the results will be subpar.",
+    "Intent engineering proper is the third layer, focusing on aligning AI actions with organizational objectives. This ensures that AI not only performs tasks but does so in a way that supports business goals. Imagine a coach training a team; without a game plan, the players may run around aimlessly without achieving victory."
+  ],
+  "key_takeaways": [
+    "Establish clear organizational intent for AI projects. This is crucial because without a defined purpose, AI efforts may not yield valuable results. If you skip this step, you risk wasting resources on ineffective AI implementations.",
+    "Invest in building a unified context infrastructure within your organization. This will help ensure that AI systems can operate efficiently and effectively. Neglecting this can lead to chaos and wasted potential, similar to trying to bake without organizing your ingredients.",
+    "Prioritize the development of coherent AI worker toolkits. Providing the right tools for AI will enhance its performance and integration into your workflows. If you don’t invest in this, you may find your AI underperforming and unable to meet your needs.",
+    "Focus on intent engineering as a critical layer in your AI strategy. This will align AI actions with your organizational goals, ensuring that AI contributes meaningfully. Without this focus, you may end up with powerful AI that fails to deliver results."
+  ],
+  "technical_terms": {
+    "Context Engineering": "The process of designing the environment and data in which AI operates. Think of it like setting the stage for a play; without the right backdrop and props, the performance won't resonate.",
+    "Intent Engineering": "The alignment of AI actions with specific organizational goals. Like a GPS that not only knows the roads but also your destination, it ensures that AI efforts are directed towards achieving meaningful outcomes.",
+    "Unified Context Infrastructure": "A cohesive framework that allows AI systems to operate efficiently within an organization. Think of it like a well-organized library where every book is in its place, making it easy to find what you need.",
+    "Coherent AI Worker Toolkit": "A set of tools and resources designed to enable AI to perform tasks effectively. Like a well-equipped kitchen for a chef, it provides everything needed to create a successful dish.",
+    "Shadow Agents": "AI systems that operate without clear oversight or alignment with organizational goals. Think of it like a rogue ship sailing without a captain, which can lead to unpredictable and potentially dangerous outcomes.",
+    "MCP (Microsoft Copilot)": "A tool designed to assist users in various tasks, but its adoption has been limited. Like a powerful car that few people know how to drive, its potential is wasted without proper usage.",
+    "AI Workflow Architect": "A new role focused on designing and implementing effective AI workflows within organizations. Like an architect who designs a building, this role ensures that AI systems are built to serve specific needs.",
+    "Organizational AI Infrastructure": "The foundational systems and structures that support AI deployment within an organization. Think of it like the plumbing and wiring in a house; without it, nothing functions properly.",
+    "Delegation Frameworks": "Systems that outline how tasks are assigned and managed within AI operations. Like a well-organized team where everyone knows their role, it ensures efficiency and clarity.",
+    "Encoded Judgment": "The ability of AI systems to make decisions based on predefined criteria and organizational goals. Think of it like a recipe that specifies exactly how to combine ingredients for the best outcome."
+  },
+  "topics": [
+    "AI Strategy",
+    "Context Engineering",
+    "Intent Engineering",
+    "Organizational AI",
+    "Enterprise AI"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:59:20.785107+00:00"
+}

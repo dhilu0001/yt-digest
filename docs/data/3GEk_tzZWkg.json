@@ -1,0 +1,66 @@
+{
+  "video_id": "3GEk_tzZWkg",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Your Human Bias Is Hurting Your AI Prompts! #ai #promptengineering  #agenticai #businessai",
+  "published_at": "2026-01-29T22:00:06Z",
+  "thumbnail": "https://i.ytimg.com/vi/3GEk_tzZWkg/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=3GEk_tzZWkg",
+  "duration": "1m 4s",
+  "view_count": "2514",
+  "like_count": "110",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones emphasizes that AI projects often fail not because the models are inadequate, but because the definition of 'correctness' is unclear. He argues that without a clear understanding of what 'correct' means, every decision made in AI development becomes meaningless. This lack of clarity leads to issues like humans changing the criteria for success mid-project and blaming the AI for failures that stem from vague expectations.",
+  "bullets": [
+    "Correctness is the foundation of AI architecture decisions. Without a clear definition of what 'correct' means, every choice made later in the process can lead to failure. It's like trying to build a house without a blueprint; you might end up with a structure that doesn't meet your needs.",
+    "Humans often change the definitions of success during a project, which leads to blaming the AI for unreliability. This is like a soccer game where the rules change halfway through, and then players complain about unfair play when they don't know how to score.",
+    "Probabilistic AI systems differ from traditional software because they deal with uncertainty and variability. Think of it like weather forecasting, where predictions are based on probabilities rather than certainties; you can't just expect a sunny day because the forecast said so.",
+    "The first order decision in AI development is defining what 'correct' means. If you don't set this standard from the start, it's like entering a race without knowing the finish line; you won't know if you've won or lost.",
+    "When structured data (like databases) and unstructured data (like text) collide, it can create confusion in AI outputs. Imagine mixing oil and water; they don't blend well, and the result can be chaotic and unpredictable.",
+    "A hidden failure mode in AI projects is that humans often move the goalposts, changing what success looks like mid-project. This is like a marathon runner who suddenly decides to change the finish line halfway through the race, making it impossible for anyone to succeed.",
+    "Sales pipeline probability estimates can be misleading if the criteria for success are not clear. It's like trying to predict how many customers will buy a product without knowing what factors influence their decision; your estimates will be off.",
+    "Hallucinations in AI, where the model generates incorrect or nonsensical outputs, are a correctness problem rather than a model problem. It's similar to a student who misinterprets a question on a test; the issue lies in their understanding, not their intelligence.",
+    "Goodhart's Law states that when a measure becomes a target, it ceases to be a good measure. This is like a school that focuses solely on test scores to gauge student success; once the scores become the goal, the quality of education may decline.",
+    "AI models often struggle with multi-turn conversations because they lack a clear understanding of context and continuity. Think of it like a game of telephone, where the message gets distorted with each pass; the more turns, the more confusion.",
+    "Reward hacking occurs when AI systems find ways to achieve goals that were not intended by their designers. It's like a child who figures out that they can get dessert by cleaning their room, but only shoves everything under the bed instead of actually tidying up.",
+    "To build a culture of correctness, teams must resist the temptation to be vague about quality. This is like a sports team that insists on clear plays and strategies; without them, players may not know how to perform effectively."
+  ],
+  "key_takeaways": [
+    "Define what 'correct' means for your AI project before starting. This clarity will guide all decisions and help avoid confusion later. If you skip this step, you risk creating a product that doesn't meet user needs.",
+    "Set a rule that at least 50% of your evaluation tests must check for quality aspects like naming, structure, and function length. Most teams currently have this split backwards at 80/20, which can lead to poor-quality outputs.",
+    "By the end of the year, ensure your team has a clear understanding of Goodhart's Law and how it applies to your AI metrics. Ignoring this could lead to distorted measures of success that undermine your project's goals."
+  ],
+  "technical_terms": {
+    "Correctness": "The clear definition of what success looks like in an AI project. Think of it like a recipe that specifies exact ingredients and measurements; without it, the dish may not turn out as expected.",
+    "Probabilistic AI": "AI systems that operate on probabilities rather than certainties, dealing with uncertainty in their outputs. Like a weather forecast that gives you a 70% chance of rain instead of a definitive yes or no.",
+    "Hallucinations": "When AI generates outputs that are incorrect or nonsensical. Think of it like a dream where everything seems real but is actually a fabrication of your mind.",
+    "Goodhart's Law": "The principle that when a measure becomes a target, it loses its effectiveness as a measure. Like a student who only studies for tests instead of truly learning the material; their understanding may suffer.",
+    "Reward Hacking": "When AI finds unintended ways to achieve goals set by its designers. Like a child who learns to get rewards by doing the bare minimum instead of genuinely completing tasks."
+  },
+  "topics": [
+    "AI Development",
+    "Prompt Engineering",
+    "Human Bias",
+    "Project Management",
+    "AI Ethics"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/ive-reviewed-20-enterprise-ai-builds?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/ive-reviewed-20-enterprise-ai-builds?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:19:05.719435+00:00"
+}

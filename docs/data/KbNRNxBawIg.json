@@ -1,0 +1,71 @@
+{
+  "video_id": "KbNRNxBawIg",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork",
+  "published_at": "2026-03-11T21:00:19Z",
+  "thumbnail": "https://i.ytimg.com/vi/KbNRNxBawIg/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=KbNRNxBawIg",
+  "duration": "58s",
+  "view_count": "11647",
+  "like_count": "356",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones explains that AI agents struggle with reliably executing tasks because they are trained to generate plausible text rather than truly understanding user intent. He emphasizes that the gap between intent and context is crucial, and that those who can effectively bridge this gap will succeed in developing scalable AI agents by 2026.",
+  "bullets": [
+    "AI agents often fail because they are trained for plausible text generation rather than understanding user priorities. This means they can produce convincing responses that miss the mark on what the user actually needs, like a chef who can follow a recipe but doesn't know how to adjust it based on the ingredients available.",
+    "Intent is different from context and often remains hidden in AI interactions. While context is the surrounding information that helps clarify a situation, intent is the specific goal or purpose behind a user's request, much like knowing the difference between asking for directions to a restaurant versus wanting to order food from there.",
+    "Disambiguation loops and intent commits are essential for improving AI agents. Disambiguation loops help clarify ambiguous requests, while intent commits ensure that the AI understands and adheres to the user's goals, similar to a GPS recalibrating when you take a wrong turn to get back on track.",
+    "Reinforcement learning and crypto-style solvers are promising pathways for enhancing AI agent functionality. Reinforcement learning allows AI to learn from its mistakes over time, like a child learning to ride a bike by falling and getting back up, while crypto-style solvers use complex algorithms to find optimal solutions, akin to a treasure map that leads you directly to the gold.",
+    "The common belief that AI agents fail mainly due to hallucinations is an oversimplification. Hallucinations refer to AI generating incorrect or nonsensical information, but the deeper issue is the failure to grasp user intent, just like a translator who understands the words but misses the underlying meaning of a conversation.",
+    "Builders who can clearly convey intent from prompt to execution will create successful AI agents by 2026. This means that those who focus on making their AI understand what users really want will be ahead of the game, like a skilled archer who aims precisely at the target rather than just shooting arrows into the air.",
+    "Ignoring the intent gap will lead to outcomes that seem correct but are subtly wrong. This is like a magician performing a trick that looks impressive but relies on a hidden flaw, leaving the audience unaware of the underlying issues.",
+    "AI agents need to be designed with a clear understanding of user intent to avoid miscommunication. If an AI is like a waiter, it must not only take orders but also understand the customer's preferences to deliver the right dish, rather than just guessing what they might like.",
+    "The video emphasizes that intent is at the center of the agent problem, which is often overlooked. Just as a compass points north, understanding intent should guide AI development to ensure it meets user needs effectively.",
+    "The future of AI agents relies on building systems that can interpret and act on user intent accurately. This is akin to a skilled detective piecing together clues to solve a mystery, rather than making assumptions based on incomplete information.",
+    "AI agents are currently not equipped to handle the complexities of human intent, leading to unreliable outcomes. This is like a student who memorizes answers for a test but struggles to apply that knowledge in real-world situations.",
+    "By focusing on intent, developers can create AI agents that are not only functional but also intuitive and user-friendly. This is similar to designing a smartphone that anticipates your needs, making it easier to use rather than just a tool that requires constant input."
+  ],
+  "key_takeaways": [
+    "Develop a clear strategy for conveying user intent in AI prompts. This is crucial because it will directly impact the effectiveness of the AI agent. If you neglect this, your AI may produce results that seem correct but miss the user's actual needs.",
+    "Set a goal to bridge the intent gap in your AI systems by 2026. This is important because those who succeed in this area will lead the market, while those who don't will struggle with ineffective AI solutions.",
+    "Implement disambiguation loops in your AI design process. This will help clarify user requests and improve the accuracy of responses. Without this, your AI may misinterpret user needs, leading to frustration and inefficiency."
+  ],
+  "technical_terms": {
+    "Disambiguation Loops": "Processes that clarify ambiguous requests in AI interactions. Think of it like a conversation where you ask clarifying questions to ensure you understand what the other person means.",
+    "Intent Commits": "Actions taken by AI to ensure it understands and adheres to the user's goals. Like a contract, it binds the AI to follow through on what the user really wants.",
+    "Reinforcement Learning": "A type of machine learning where AI learns from its mistakes over time. Think of it like training a puppy; it learns what behaviors are rewarded and adjusts accordingly.",
+    "Crypto-style Solvers": "Complex algorithms used to find optimal solutions in AI systems. Like a skilled puzzle solver who can quickly piece together a jigsaw puzzle by recognizing patterns.",
+    "Hallucinations": "Instances where AI generates incorrect or nonsensical information. Like a dream that feels real but has no basis in reality, leading to confusion.",
+    "Context": "The surrounding information that helps clarify a situation. Like the background story in a movie that helps you understand the characters' motivations.",
+    "User Intent": "The specific goal or purpose behind a user's request. Think of it like a customer wanting a specific dish at a restaurant rather than just asking for food.",
+    "AI Agents": "Software programs that perform tasks autonomously based on user input. Like a personal assistant who takes care of your errands without needing constant direction.",
+    "Plausible Text Generation": "The ability of AI to create text that sounds believable but may not be accurate. Like a storyteller who spins a captivating tale that isn't based on real events.",
+    "Agentic Systems": "AI systems designed to act autonomously based on user input. Think of it like a self-driving car that navigates without human intervention."
+  },
+  "topics": [
+    "AI agents",
+    "user intent",
+    "machine learning",
+    "disambiguation",
+    "future of work"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:45:41.050971+00:00"
+}

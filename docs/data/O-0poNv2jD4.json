@@ -1,0 +1,71 @@
+{
+  "video_id": "O-0poNv2jD4",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.",
+  "published_at": "2026-02-21T16:00:26Z",
+  "thumbnail": "https://i.ytimg.com/vi/O-0poNv2jD4/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=O-0poNv2jD4",
+  "duration": "29m 14s",
+  "view_count": "166654",
+  "like_count": "5889",
+  "has_transcript": false,
+  "executive_summary": "In a significant shift, major infrastructure companies like Coinbase, Stripe, and Cloudflare are all launching new tools aimed at AI agents, indicating a collective move towards an 'agent-native' web. Within 24 hours of Coinbase's launch, 13,000 AI agents registered Ethereum wallets, showcasing the rapid adoption of these technologies. This wave of innovation suggests that the future of the web is not just about smaller screens but about a new paradigm where agents operate without screens at all.",
+  "bullets": [
+    "Within 24 hours of Coinbase launching its agentic wallets, 13,000 AI agents registered Ethereum wallets. This rapid adoption indicates a strong demand for agent-native technologies, similar to how a new smartphone model can sell out in minutes due to high consumer interest.",
+    "Stripe had to completely retrain its fraud detection system because agent traffic behaves differently than human traffic, which typically involves mouse movements. This is like teaching a dog new tricks; you can't use the same commands for a cat, as they respond differently.",
+    "Cloudflare's Markdown conversion and X402 monetization support signify that agents are becoming first-class citizens on the web. This means that just as a VIP gets special treatment at a concert, agents will have enhanced access to content and services online.",
+    "The mobile web analogy breaks down because the new client for these services isn't just a smaller screen; it's no screen at all. Imagine a world where you don’t need a TV to watch shows; instead, they play in your mind like a vivid dream.",
+    "Google, PayPal, and other companies are working towards a consensus on industry payments, which is crucial for standardizing how agents transact online. Think of it like a group of chefs agreeing on a recipe; when everyone follows the same instructions, the dish turns out better.",
+    "The concept of agent-native monetization is highlighted by LLMs.txt and the AI Index, which track how agents can generate revenue. This is like a vending machine that not only sells snacks but also keeps track of which items are popular and adjusts inventory accordingly.",
+    "Latency is identified as a real differentiator in search capabilities, meaning faster responses can set services apart. It's like a race where the quickest runner wins; in the digital world, speed can determine which service users prefer.",
+    "OpenAI's new skills and shell tools allow agents to install software and write files, expanding their capabilities significantly. This is akin to giving a robot not just a toolbox but a whole workshop to build and create.",
+    "The shift from prompt engineering to skills development indicates a change in how software engineering is approached. Imagine moving from just following a recipe to actually understanding how to create your own dishes from scratch.",
+    "The Chatcut demo showcases how agents can chain capabilities across different services, allowing for more complex tasks to be completed. This is like a relay race where each runner passes the baton to the next, creating a seamless flow of action.",
+    "The creator economy is impacted by these developments, as agents can now participate as economic actors. This is similar to how the rise of the internet allowed individuals to become entrepreneurs, opening up new avenues for income.",
+    "The video discusses the '70/30 problem,' where trust in agent capabilities hasn't caught up with their actual abilities. It's like having a new car that can drive itself, but people are still hesitant to let go of the wheel."
+  ],
+  "key_takeaways": [
+    "Implement a strategy to retrain your fraud detection systems to account for agent traffic behavior. This is crucial because failing to adapt could lead to increased fraud losses as agents operate differently than human users.",
+    "By the end of the year, ensure your infrastructure supports agent-native features like Markdown conversion and monetization. If you don’t, you risk falling behind competitors who are already adapting to this new web paradigm.",
+    "Set a timeline to explore agent-native monetization strategies within the next 4-5 months. This is important because as agents become more prevalent, those who don’t adapt may miss out on significant revenue opportunities."
+  ],
+  "technical_terms": {
+    "Agent-native": "Refers to technologies and systems designed specifically for AI agents to operate effectively. Think of it like a custom-built house that perfectly fits a family’s needs, rather than a generic apartment.",
+    "Ethereum wallets": "Digital wallets that allow users to store and manage Ethereum cryptocurrency. Like a bank account, but specifically for digital currencies, enabling transactions without physical cash.",
+    "Fraud detection system": "A system designed to identify and prevent fraudulent activities in transactions. It's like a security guard at a bank, watching for suspicious behavior to protect assets.",
+    "Markdown": "A lightweight markup language used for formatting text. Think of it like a set of simple instructions for a painter, telling them how to create a beautiful mural without complex techniques.",
+    "X402 protocol": "A protocol that supports monetization for agents on the web. Like a toll road that allows cars to pass through while collecting fees, enabling the infrastructure to generate revenue.",
+    "Latency": "The delay before a transfer of data begins following an instruction. It's like the time it takes for a waiter to bring your food after you place your order; faster service leads to happier customers.",
+    "LLMs.txt": "A file format that tracks large language models and their capabilities. Think of it like a user manual that details what a complex machine can do, helping users understand its potential.",
+    "Skills": "Specific abilities that AI agents can develop to perform tasks. Like learning to ride a bike, skills enable agents to navigate their environment and accomplish goals more effectively.",
+    "Prompt engineering": "The process of designing inputs for AI models to generate desired outputs. It's like crafting the perfect question to get the best answer from a knowledgeable friend.",
+    "Creator economy": "An economic system where individuals create and monetize their content or services. Imagine a marketplace where artists sell their work directly to fans, bypassing traditional gatekeepers."
+  },
+  "topics": [
+    "AI Agents",
+    "Infrastructure",
+    "Monetization",
+    "Fraud Detection",
+    "Web Development"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:00:54.806225+00:00"
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YT Digest</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Password Gate -->
+  <div id="gate">
+    <div class="gate-box">
+      <div class="gate-logo">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+          <rect width="32" height="32" rx="6" fill="#ff4444"/>
+          <rect x="6" y="8" width="20" height="3" rx="1.5" fill="white"/>
+          <rect x="6" y="14.5" width="13" height="3" rx="1.5" fill="white"/>
+          <rect x="6" y="21" width="7" height="3" rx="1.5" fill="white"/>
+        </svg>
+        YT Digest
+      </div>
+      <p class="gate-sub">AI-powered summaries of the latest in AI</p>
+      <input id="password-input" type="password" placeholder="Enter password" autocomplete="current-password" />
+      <button id="unlock-btn">Unlock</button>
+      <p id="gate-error" class="error hidden">Incorrect password. Try again.</p>
+      <p id="gate-setup" class="setup-msg hidden">Site not yet configured.</p>
+    </div>
+  </div>
+
+  <!-- 3-column shell -->
+  <div id="shell" class="hidden">
+
+    <!-- Column 1: Icon Rail (56px) -->
+    <nav id="icon-rail">
+      <div class="icon-logo" title="YT Digest">
+        <svg width="26" height="26" viewBox="0 0 32 32" fill="none">
+          <rect width="32" height="32" rx="6" fill="#ff4444"/>
+          <rect x="6" y="8" width="20" height="3" rx="1.5" fill="white"/>
+          <rect x="6" y="14.5" width="13" height="3" rx="1.5" fill="white"/>
+          <rect x="6" y="21" width="7" height="3" rx="1.5" fill="white"/>
+        </svg>
+      </div>
+    </nav>
+
+    <!-- Column 2: Channel Rail (220px) -->
+    <aside id="channel-rail">
+      <div class="rail-title">Channels</div>
+      <div id="channel-list"></div>
+      <div class="rail-divider"></div>
+      <div class="rail-title">Monthly Digests</div>
+      <div id="monthly-list"></div>
+      <div class="rail-footer"><span id="updated-at"></span></div>
+    </aside>
+
+    <!-- Column 3: Main Panel -->
+    <div id="main-panel">
+
+      <div id="content-head">
+        <div class="search-row">
+          <button id="sidebar-toggle" title="Toggle sidebar" aria-label="Toggle sidebar">«</button>
+          <input id="search" type="search" placeholder="Search videos, topics, terms…" />
+        </div>
+        <div id="filter-bar" class="hidden">
+          <div class="filter-row">
+            <div class="filter-left">
+              <span id="progress-text">0 / 0 read</span>
+              <div class="progress-wrap"><div id="progress-fill" class="progress-fill"></div></div>
+            </div>
+            <div class="filter-right">
+              <button class="fbtn active" data-read="all">All</button>
+              <button class="fbtn" data-read="unread">Unread</button>
+              <button class="fbtn" data-read="bookmarked">★ Saved</button>
+              <span class="fsep"></span>
+              <button class="fbtn active" data-len="">Any</button>
+              <button class="fbtn" data-len="quick">Quick</button>
+              <button class="fbtn" data-len="short">Short</button>
+              <button class="fbtn" data-len="medium">Medium</button>
+              <button class="fbtn" data-len="deep">Deep Dive</button>
+            </div>
+          </div>
+          <div class="sort-row">
+            <span class="sort-label">Sort:</span>
+            <button class="fbtn active" data-sort="date-desc">Newest</button>
+            <button class="fbtn" data-sort="importance">Importance</button>
+            <button class="fbtn" data-sort="views">Most Viewed</button>
+            <button class="fbtn" data-sort="length-desc">Longest</button>
+            <button class="fbtn" data-sort="length-asc">Shortest</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="content-body">
+        <div id="video-list">
+          <div id="loading" class="loading">Loading digests…</div>
+          <div id="empty" class="empty hidden">No digests yet.</div>
+          <div id="grid"></div>
+        </div>
+
+        <div id="detail-panel">
+          <div class="detail-topbar">
+            <button id="list-toggle" title="Toggle article list" aria-label="Toggle article list">‹</button>
+            <button id="close-detail" aria-label="Close">✕</button>
+          </div>
+          <div id="detail-content"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "video_id": "7NjtPH8VMAU",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "The \"Human Throttle\" Problem That's Killing Enterprise AI Agent ROI",
+  "published_at": "2025-12-29T20:46:21Z",
+  "thumbnail": "https://i.ytimg.com/vi/7NjtPH8VMAU/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=7NjtPH8VMAU",
+  "duration": "19m 53s",
+  "view_count": "12273",
+  "like_count": "567",
+  "has_transcript": false,
+  "executive_summary": "AI agents in enterprises face a significant challenge not from their capabilities but from a lack of trust in their deployment. The video discusses how traditional software engineering has paved the way for AI agents, emphasizing the need for reversible processes and specific primitives to enable effective delegation. Without addressing these issues, organizations risk limiting AI agents to basic tasks, which undermines their potential ROI.",
+  "bullets": [
+    "The gap between AI demos and deployment reveals that the real issue is trust, not capability. While AI can perform complex tasks, organizations hesitate to fully utilize them due to fear of mistakes. It's like having a powerful car but only driving it in a parking lot because you're afraid of the open road.",
+    "Software engineering accelerated first because it focused on reversibility, allowing for easy corrections. This foundational work means that software can be adjusted without significant consequences, making it easier to trust AI agents. Think of it like a video game where you can save your progress and reload if you make a mistake, unlike a real-life decision where you can't just rewind.",
+    "The concept of one-way doors versus two-way doors is crucial in understanding delegation. One-way doors mean decisions are permanent, while two-way doors allow for reversibility. It's like choosing between a tattoo (one-way) and a temporary tattoo (two-way) — the latter gives you the freedom to change your mind.",
+    "Five primitives make a business an agent-friendly substrate, which are essential for effective AI deployment. These primitives include drafting first, previewing before committing, time windows for reversibility, systematic repair plans, and understanding back office operations. Imagine these primitives as the building blocks of a strong foundation; without them, the structure is unstable.",
+    "Drafting first is the first primitive, allowing AI agents to create initial drafts before human review. This step is crucial because it reduces the workload on humans and speeds up the process. It's like having a personal assistant who prepares your meeting notes, so you only need to polish them before the meeting.",
+    "Preview before commit is the second primitive, enabling users to see what changes will occur before finalizing them. This feature builds trust in AI agents by allowing users to verify actions before they happen. Think of it like trying on clothes before buying them; you want to ensure they fit and look good.",
+    "Time windows create reversibility, which is the third primitive, allowing for adjustments within a specific timeframe. This approach gives organizations the flexibility to change decisions if needed. It's like having a return policy on a product; you can change your mind within a certain period without penalty.",
+    "Systematic repair plans are the fourth primitive, ensuring that there are clear steps to fix issues when they arise. This structure is vital for maintaining trust in AI agents. Imagine having a detailed instruction manual for fixing your car; it gives you confidence that you can handle problems when they occur.",
+    "Back office operations are expected to see real agentic delegation first, as these tasks often involve repetitive processes that can be automated. This area is less risky for AI deployment compared to customer-facing roles. It's like letting a robot vacuum your house; it can handle the mundane tasks while you focus on more important things.",
+    "Market primitives for agent commerce at scale are necessary for broader AI adoption. These primitives help standardize how AI agents interact with business processes. Think of it like having a universal remote control that works with all your devices; it simplifies your life by reducing complexity.",
+    "Building decision infrastructure before deploying agents is critical for success. Organizations must audit their decision-making processes to ensure they are ready for AI integration. It's like laying down the tracks before sending a train; without the right infrastructure, the train can't run smoothly."
+  ],
+  "key_takeaways": [
+    "Audit your decision-making processes before deploying AI agents. This step is crucial because it ensures that your organization is ready for the integration of AI. If you skip this, you risk deploying agents into an environment where they can't function effectively.",
+    "Implement the five primitives to create an agent-friendly environment. By doing so, you enable AI agents to operate more effectively and increase their ROI. Neglecting these primitives means you may only use AI for basic tasks, wasting its potential.",
+    "Focus on back office operations for initial AI deployment. This area is less risky and provides a solid foundation for building trust in AI agents. If you avoid this step, you may struggle to gain acceptance for AI in more critical areas of your business.",
+    "Set a timeline to establish reversibility in your processes within the next 4-5 months. This urgency is necessary to keep pace with AI advancements and ensure your organization can leverage AI effectively. Delaying this could result in missed opportunities and falling behind competitors."
+  ],
+  "technical_terms": {
+    "One-way doors": "Decisions that are permanent and cannot be reversed. Think of it like a one-way street; once you go down it, there's no turning back.",
+    "Two-way doors": "Decisions that allow for reversibility and can be changed later. Like a revolving door, you can enter and exit as you please.",
+    "Primitives": "Basic building blocks or foundational elements that support a system. Think of it like the ingredients in a recipe; without them, you can't create the dish.",
+    "Back office operations": "Tasks that support the main functions of a business but do not directly interact with customers. Like the backstage crew in a theater, they ensure the show runs smoothly without being seen.",
+    "Decision infrastructure": "The framework that supports decision-making processes within an organization. It's like the scaffolding of a building; it holds everything up while the structure is being built."
+  },
+  "topics": [
+    "AI deployment",
+    "trust in AI",
+    "business processes",
+    "agent primitives",
+    "back office operations"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-the-human-throttlewhat?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-the-human-throttlewhat?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:56:01.123733+00:00"
+}

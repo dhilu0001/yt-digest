@@ -1,0 +1,67 @@
+{
+  "video_id": "T_yHQbZ4hF0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Your AI Can't See 16% of Humanity. Here's the 5-Minute Check That Proves It.",
+  "published_at": "2025-12-06T16:00:49Z",
+  "thumbnail": "https://i.ytimg.com/vi/T_yHQbZ4hF0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=T_yHQbZ4hF0",
+  "duration": "20m 18s",
+  "view_count": "4328",
+  "like_count": "228",
+  "has_transcript": false,
+  "executive_summary": "AI is evolving to better include disabled individuals, who represent 16% of the global population. Recent changes in AI image generators and language models (LLMs) show a shift towards greater visibility and autonomy for disabled users. However, builders must address accessibility seriously, as neglecting it can lead to significant technical debt and missed market opportunities.",
+  "bullets": [
+    "AI image generators previously erased disabilities until recently, highlighting a significant oversight in representation. This matters because failing to include disabled individuals in AI outputs means ignoring a substantial portion of humanity. It's like trying to paint a portrait of a crowd but leaving out one in every six people.",
+    "Disabled users are leveraging large language models (LLMs) for daily autonomy and privacy, which is a game changer for their independence. This is crucial because it allows them to interact with technology on their own terms, much like having a personal assistant who understands their unique needs.",
+    "Builders often treat the Web Content Accessibility Guidelines (WCAG) as a mere checkbox instead of a foundational principle. This is important because treating accessibility as an afterthought can lead to products that are unusable for many, similar to designing a building without considering wheelchair access.",
+    "Neglecting accessibility can lead to significant technical debt, which is the cost of fixing issues later rather than addressing them upfront. This matters because the longer you wait to fix these issues, the more expensive and complicated they become, like ignoring a small leak in your roof until it causes extensive water damage.",
+    "There are 1 billion disabled people worldwide, representing a massive market opportunity for builders who prioritize accessibility. This is vital because tapping into this market can lead to innovative products and services, much like discovering a new customer base that has been overlooked.",
+    "Builders who rely on AI overlays for accessibility will ultimately pay for it in technical debt. This is significant because it can lead to a cycle of continuous fixes rather than creating a solid foundation from the start, like trying to patch a leaky boat instead of building a new one that doesn't leak.",
+    "The video emphasizes that the narrative around AI and disability representation is shifting, moving from erasure to visibility. This is important because it reflects a growing awareness and responsibility among AI developers to include all users, much like how society has evolved to recognize the rights of marginalized groups.",
+    "AI's role as a visibility tool is becoming more pronounced, allowing disabled individuals to be seen and heard in digital spaces. This matters because visibility can lead to greater acceptance and understanding, similar to how diverse representation in media can change societal perceptions.",
+    "The speaker mentions that the approach to accessibility needs to be proactive rather than reactive. This is crucial because waiting for problems to arise before addressing them can lead to missed opportunities and increased frustration, like waiting until a car breaks down to get it serviced.",
+    "The video points out that treating accessibility as a secondary concern can lead to exclusion, which is not just unethical but also economically unwise. This is significant because exclusion can limit potential revenue, much like a store that refuses to serve a segment of customers based on arbitrary criteria.",
+    "The speaker suggests that the timeline for addressing these accessibility issues is urgent, as the landscape of AI is rapidly changing. This is important because those who delay action risk falling behind competitors who are already prioritizing inclusivity, like a runner who starts late in a race.",
+    "The video highlights that AI's evolution is not just about technology but also about social responsibility. This matters because embracing this responsibility can lead to more ethical and equitable AI systems, much like how businesses that prioritize sustainability can build stronger reputations."
+  ],
+  "key_takeaways": [
+    "Make accessibility a core principle in your AI projects, not just a checkbox. This matters because it ensures that your products are usable by everyone, and skipping this can lead to costly fixes later on.",
+    "Set a goal to include at least 1 billion disabled individuals in your user testing and feedback processes. This is crucial because their insights can lead to more innovative solutions, and failing to do so means missing out on valuable perspectives.",
+    "Address accessibility issues as they arise, rather than waiting for them to become problems. This is important because proactive measures can save time and resources in the long run, preventing a backlog of fixes that can overwhelm your team.",
+    "Aim to have your accessibility features fully integrated within the next 4-5 months. This timeline is critical because the faster you implement these features, the sooner you can capture the market opportunity and enhance user satisfaction."
+  ],
+  "technical_terms": {
+    "AI image generators": "Tools that create images based on textual descriptions. Think of it like a digital artist who paints what you describe without needing to see the subject.",
+    "large language models (LLMs)": "Advanced AI systems that understand and generate human-like text. Like having a conversation with a very knowledgeable friend who can talk about almost any topic.",
+    "Web Content Accessibility Guidelines (WCAG)": "A set of standards designed to make web content more accessible to people with disabilities. Think of it like a blueprint for building a ramp so everyone can enter a building easily.",
+    "technical debt": "The cost of fixing problems that arise from taking shortcuts in development. Like borrowing money to buy a car but having to pay extra interest later because you didn't save up first.",
+    "accessibility": "The design of products and environments to be usable by people with disabilities. Like ensuring that a public park has paths wide enough for wheelchairs and benches at the right height for everyone."
+  },
+  "topics": [
+    "AI",
+    "Accessibility",
+    "Disability Representation",
+    "Technology Ethics",
+    "Market Opportunities"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/grab-the-4-accessibility-prompts?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/grab-the-4-accessibility-prompts?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:19:08.115073+00:00"
+}

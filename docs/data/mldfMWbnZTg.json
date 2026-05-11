@@ -1,0 +1,76 @@
+{
+  "video_id": "mldfMWbnZTg",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Context Engineering vs. Prompt Engineering: Guiding LLM Agents",
+  "published_at": "2025-06-20T13:01:37Z",
+  "thumbnail": "https://i.ytimg.com/vi/mldfMWbnZTg/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=mldfMWbnZTg",
+  "duration": "12m 31s",
+  "view_count": "25634",
+  "like_count": "1064",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the critical differences between deterministic and probabilistic context in AI, emphasizing that the small prompts we control are overshadowed by the vast web of information an AI agent can access. He highlights the importance of shaping this context through effective prompts, monitoring source quality, and adapting evaluation methods to improve decision accuracy. The future of AI requires a shift from merely optimizing token efficiency to guiding agents in their search for truth.",
+  "bullets": [
+    "The tiny prompt you control is dwarfed by the vast, unpredictable web of sources an AI agent can access when it has tool or web access. This means that while you can craft a precise question, the AI's answer may still pull from unreliable or irrelevant sources. It's like trying to find a needle in a haystack while the AI has the entire barn to rummage through.",
+    "Token efficiency is only the first step in AI development; tricks like Chain-of-Draft can reduce costs, but the ultimate goal is to guide models toward more accurate and congruent answers. If you only focus on cutting costs, you might miss the bigger picture of improving the quality of the AI's responses. Think of it like using a cheap map to navigate a city — you might save money, but you could easily get lost.",
+    "Prompts now act as steering wheels for AI, helping to constrain search domains, such as directing the AI to only look at 'verified news sites.' This means you can influence the information the AI finds without completely dictating its path. It's like setting a GPS to avoid certain neighborhoods — you still let the car drive, but you guide it away from trouble.",
+    "You must audit and relevance-score the information an AI agent surfaces, as good outputs can often hide shaky citations. This is crucial because the credibility of the information directly impacts the quality of the AI's responses. It's like checking the ingredients in a dish before serving it — you want to ensure everything is fresh and trustworthy.",
+    "The risk of prompt-injection exploits is a significant concern, especially as open-web and MCP searches expand the attack surface. This means that malicious actors could manipulate prompts to produce harmful outputs, making proactive defenses essential. It's like leaving your front door unlocked — you might not think anyone will enter, but the risk is always there.",
+    "Precision-recall metrics on fixed inputs are no longer sufficient; you need to measure decision accuracy against source relevance. This shift means that you should rigorously version every prompt as if you were coding, ensuring that each iteration improves the quality of the AI's output. Think of it like software updates — each version should fix bugs and enhance performance.",
+    "Nate B Jones states, 'We’re obsessing over the tokens we send, while the model is swimming in millions we never see.' This highlights the importance of focusing not just on the prompts we create but also on the vast array of information the AI can access. It's like worrying about the size of your suitcase while ignoring the entire airport full of options.",
+    "Context engineering is not just about token math; it's about guiding an agent's search across the wild web. This means that effective context engineering requires a deeper understanding of how to shape the AI's exploration of information. Think of it like being a tour guide in a foreign city — you need to know the best paths and sights to ensure a rewarding experience.",
+    "The future of AI evaluation should focus on shaping probabilistic context to improve truth rather than just cutting costs. This means that as AI evolves, the methods we use to assess its performance must also adapt to ensure accuracy and reliability. It's like shifting from a simple report card to a comprehensive evaluation that considers all aspects of a student's learning.",
+    "You should implement a system where at least 50% of your evaluation tests check for source quality and relevance, rather than just whether the AI's outputs are correct. Most teams currently have this split backwards, focusing too much on accuracy and not enough on the trustworthiness of the information. It's like a chef who only tastes the dish without checking the quality of the ingredients.",
+    "In the realm of AI, shaping discovery windows is crucial for guiding agents toward meaningful outputs. This involves designing prompts that not only ask questions but also provide context to help the AI navigate complex information landscapes. Think of it like giving someone a map with highlighted routes — it makes their journey much clearer and more efficient.",
+    "Monitoring source quality is essential because the outputs an AI generates can often be misleading if the underlying sources are not credible. This means that you need to establish a system for evaluating the trustworthiness of the information the AI uses. It's like a detective verifying alibis — the truth of the case relies on the reliability of the evidence."
+  ],
+  "key_takeaways": [
+    "Set a rule that at least 50% of your eval tests must check source quality and relevance, not just whether the AI's outputs are correct. This matters because many teams currently focus too much on accuracy without considering the trustworthiness of the information. If you skip this, you risk relying on faulty data that can lead to incorrect conclusions.",
+    "By the end of the year, ensure that your evaluation methods measure decision accuracy against source relevance. This is crucial as the landscape of AI continues to evolve, and outdated metrics will not provide the insights needed for improvement. If you do not adapt, you could fall behind in the rapidly changing field of AI.",
+    "Focus on guiding models toward more accurate, congruent answers rather than just cheaper ones through token efficiency. This is important because improving the quality of AI responses can lead to better decision-making and outcomes. If you neglect this, you may end up with cost-effective solutions that lack substance and reliability."
+  ],
+  "technical_terms": {
+    "deterministic context": "This refers to the controlled environment or specific inputs that you can manage when working with AI. Think of it like a garden where you decide what plants to grow, but the weather still affects how they flourish.",
+    "probabilistic context": "This is the vast, unpredictable array of information that an AI can access beyond your direct control. Like a river that flows freely, it can carry unexpected debris and treasures alike.",
+    "token efficiency": "This is the practice of optimizing the number of tokens used in prompts to reduce costs and improve performance. Think of it like packing a suitcase efficiently to avoid extra baggage fees — every inch counts.",
+    "Chain-of-Draft": "This is a technique used to improve the efficiency of prompts by creating a series of drafts that refine the AI's output. Like a writer revising their manuscript, each draft brings clarity and focus.",
+    "source quality monitoring": "This involves evaluating the credibility and relevance of the information that an AI agent retrieves. It's like a quality control inspector checking products on an assembly line to ensure they meet standards.",
+    "prompt-injection exploits": "These are vulnerabilities where malicious actors manipulate prompts to produce harmful or misleading outputs. Think of it like a hacker breaking into a secure system to alter data for their gain.",
+    "eval harness": "This is a framework used to assess the performance of AI models, focusing on various metrics. Like a gym where you track your workouts, it helps you measure progress and effectiveness.",
+    "decision accuracy": "This refers to the correctness of the decisions made by AI based on the information it retrieves. Like a compass that points true north, it guides the AI to reliable conclusions.",
+    "prompt shaping": "This is the process of designing prompts to influence the AI's search and responses effectively. Think of it like sculpting clay — the way you mold it determines the final shape.",
+    "semantic highways": "These are structured pathways that guide AI through complex information landscapes to find relevant data. Like highways that connect cities, they streamline the journey to the destination."
+  },
+  "topics": [
+    "AI Engineering",
+    "Prompt Design",
+    "Source Quality",
+    "AI Evaluation",
+    "Security Risks"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/beyond-the-perfect-prompt-the-definitive?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/beyond-the-perfect-prompt-the-definitive?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natebjones.com/",
+      "title": "https://natebjones.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://linktr.ee/natebjones",
+      "title": "https://linktr.ee/natebjones",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T13:17:30.330120+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "7sLgLAih57A",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Who gets to ship AI at scale? The answer is at CES! #ai #futureofwork",
+  "published_at": "2026-03-28T21:00:10Z",
+  "thumbnail": "https://i.ytimg.com/vi/7sLgLAih57A/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=7sLgLAih57A",
+  "duration": "1m 21s",
+  "view_count": "4578",
+  "like_count": "104",
+  "has_transcript": false,
+  "executive_summary": "At CES 2026, the AI landscape is shifting from a focus on chip competition to a race for factory capabilities. Notably, OpenAI secured 26 gigawatts of power from major suppliers like NVIDIA and AMD, which positions them strongly for the next two years as AI becomes a ubiquitous part of daily life.",
+  "bullets": [
+    "OpenAI secured 26 gigawatts of power from NVIDIA, AMD, and Broadcom, which is crucial for scaling AI applications. This power supply is like having a high-capacity battery for an electric vehicle — without it, the vehicle can't perform optimally.",
+    "NVIDIA's Rubin platform optimizes for inference token economics, which means it efficiently manages the costs associated with processing AI tasks. Imagine running a factory where every machine is perfectly tuned to minimize waste — that's what Rubin does for AI processing.",
+    "Inference context memory reveals scaling constraints in AI, indicating that as AI systems grow, they face limitations in how much information they can handle at once. Think of it like a library that can only hold a certain number of books; once it's full, you can't add more without expanding the building.",
+    "The demand pressure in the AI hardware market creates a multi-winner landscape, despite NVIDIA's dominance. It's similar to a sports league where one team is strong, but other teams are still able to win games and compete effectively.",
+    "Companies that locked supply chain deals in late 2025, like OpenAI with Samsung and SK Hynix, gained a competitive edge for the next two years. This is akin to securing a prime location for a new restaurant before the area becomes popular — those who act early benefit the most.",
+    "CES 2026 marks a significant shift from a chip race to a factory race in AI infrastructure. This transition is like moving from building individual houses to constructing entire neighborhoods — the focus is now on creating the environment for AI to thrive.",
+    "The AI industry is evolving towards ambient intelligence, meaning AI will be integrated seamlessly into everyday life. Imagine how smartphones became essential; AI is now poised to become just as ubiquitous and necessary.",
+    "OpenAI's collaborations with hyperscalers indicate a trend towards large-scale partnerships in the AI space. This is like forming alliances in business to share resources and maximize efficiency — together, they can achieve more than they could alone.",
+    "The competition for AI infrastructure is not just about speed but also about efficiency and cost-effectiveness. Think of it like a race car; it's not just about how fast you can go, but how well you can manage fuel and tires over the course of a long race.",
+    "The video emphasizes that the AI infrastructure race is more complex than just flashy gadgets, highlighting the deeper economic and logistical factors at play. It's like a magician's trick; what you see on the surface is just a small part of the intricate work happening behind the scenes.",
+    "OpenAI's strategic moves in securing power resources will shape the AI landscape for years to come. This is like planting seeds in a garden; the choices made now will determine the harvest in the future.",
+    "The video suggests that the AI infrastructure race will continue to evolve rapidly, making it crucial for companies to adapt quickly. If they don't, they risk falling behind in a fast-paced environment where agility is key."
+  ],
+  "key_takeaways": [
+    "Secure supply chain deals as soon as possible to gain a competitive advantage in the AI landscape. This is crucial because companies that wait may miss out on essential resources and partnerships, leading to a disadvantage.",
+    "Focus on optimizing inference token economics in your AI projects to enhance efficiency and reduce costs. If you neglect this, you could end up overspending on resources that could be managed more effectively.",
+    "Plan for the integration of ambient intelligence in your products over the next two years. Failing to do so could result in your offerings becoming outdated as AI becomes a standard part of consumer technology."
+  ],
+  "technical_terms": {
+    "Inference Token Economics": "This refers to the cost management of processing AI tasks, focusing on how to make it more efficient. Think of it like budgeting for a party; you want to maximize fun while minimizing costs.",
+    "Context Memory": "This is the ability of AI to remember and utilize information from previous interactions to improve future responses. Like a friend who remembers your favorite topics, it helps create a more personalized experience.",
+    "Ambient Intelligence": "This is the integration of AI into everyday environments, making technology seamlessly assistive. Think of it like having a smart home that adjusts lighting and temperature automatically based on your preferences."
+  },
+  "topics": [
+    "AI Infrastructure",
+    "CES 2026",
+    "OpenAI",
+    "NVIDIA",
+    "Ambient Intelligence"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/my-honest-field-notes-from-ces-2026?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/my-honest-field-notes-from-ces-2026?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:31:26.784119+00:00"
+}

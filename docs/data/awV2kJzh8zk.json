@@ -1,0 +1,71 @@
+{
+  "video_id": "awV2kJzh8zk",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.",
+  "published_at": "2026-03-21T15:00:03Z",
+  "thumbnail": "https://i.ytimg.com/vi/awV2kJzh8zk/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=awV2kJzh8zk",
+  "duration": "29m 27s",
+  "view_count": "50151",
+  "like_count": "1570",
+  "has_transcript": false,
+  "executive_summary": "AI agents are currently failing 97.5% of real work tasks in enterprise settings, as highlighted by the Remote Labor Index. This failure is largely due to a lack of organizational context, which can lead to catastrophic mistakes, such as the wiping out of 1.9 million rows of student data. Understanding these gaps is crucial for anyone looking to succeed in an AI-driven workplace.",
+  "bullets": [
+    "AI agents have a staggering 97.5% failure rate on real work tasks, according to the Remote Labor Index. This means that for every 100 tasks, only about 2.5 are completed successfully, which is like having a car that only runs 2.5% of the time — it’s not reliable for getting you where you need to go.",
+    "A production database wipeout occurred when an AI agent mistakenly deleted 1.9 million rows of student data. This incident illustrates how a lack of understanding of the organizational context can lead to disastrous outcomes, similar to a chef ruining a banquet because they didn’t know the dietary restrictions of the guests.",
+    "Three new studies reveal that AI agents struggle to maintain performance over time, indicating a decline in their effectiveness. This is akin to a marathon runner who starts strong but cannot keep up the pace, ultimately failing to finish the race.",
+    "The AI agent's inability to maintain code over time is highlighted by the SWE-CI study, which shows that AI cannot keep code functional as requirements change. This is like a gardener who plants flowers but fails to water them, resulting in a garden that withers away instead of flourishing.",
+    "Harvard data suggests that senior employees are surviving the rise of AI because they possess contextual knowledge that AI lacks. This is like a seasoned captain navigating a ship through a storm, while a novice might just follow a faulty map and end up lost.",
+    "The same pattern of AI failure is observed across various sectors, including legal, marketing, and finance. This is comparable to a one-size-fits-all approach in fashion, where a generic outfit may not suit everyone, leading to poor results.",
+    "Gartner and Forrester are finding a rehiring wave as companies realize the importance of human oversight in AI deployments. This is like a company that initially outsourced all its customer service but later brought it back in-house to ensure quality interactions.",
+    "Most companies are getting the evaluation problem wrong, failing to assess AI performance adequately. This is similar to a teacher who only grades students on their ability to memorize facts, ignoring their understanding of the material.",
+    "Contextual stewardship is now the most critical human job, as it involves guiding AI with the necessary organizational context. This is like a coach who knows the strengths and weaknesses of each player, ensuring the team performs well together.",
+    "Investing in contextual stewardship will make you one of the most valuable people in your organization. This is like being the only person who knows how to operate a crucial piece of machinery — without you, the whole operation could come to a halt.",
+    "If you don’t focus on contextual stewardship and evaluation design, you’ll find yourself competing with machines in areas where they excel. This is like trying to outrun a cheetah in a sprint — you’ll likely lose every time.",
+    "This week, prioritize setting up evaluation tests that check for contextual understanding, not just task completion. If you don’t, you risk deploying AI that can’t adapt, like a robot programmed to do one task but unable to handle any changes in the environment."
+  ],
+  "key_takeaways": [
+    "Set a rule that at least 50% of your evaluation tests must check for contextual understanding, not just task completion. This matters because it ensures your AI can adapt to real-world scenarios. If you skip this, you risk deploying ineffective AI that can't handle unexpected changes.",
+    "By the end of this week, review your current AI strategies and identify gaps in contextual knowledge. This is crucial because understanding these gaps will help you avoid costly mistakes in the future. If you don’t take action, you may find your organization falling behind as AI technology evolves.",
+    "Invest in training for your team on the importance of contextual stewardship. This is vital because a well-informed team can better guide AI and improve overall performance. Without this training, you risk having a workforce that is unprepared to leverage AI effectively."
+  ],
+  "technical_terms": {
+    "Remote Labor Index": "A measure of AI performance in real work tasks, indicating how effectively AI can handle job responsibilities. Think of it like a report card that shows how well students are doing in school.",
+    "Contextual Stewardship": "The practice of providing AI with the necessary organizational context to make informed decisions. Think of it like a tour guide who knows the history and significance of each landmark, helping tourists understand what they’re seeing.",
+    "SWE-CI": "A study that examines how well AI can maintain and manage code over time. Like a mechanic who can keep a car running smoothly, this study shows that AI struggles to adapt to changes in code requirements.",
+    "Production Database": "A live database that stores critical information for an organization, used in day-to-day operations. Think of it like a library where all the important books are kept, and losing them would mean losing access to vital knowledge.",
+    "Evaluation Tests": "Assessments designed to measure the performance and effectiveness of AI systems. Like a fitness test that checks how well someone can run, lift weights, or swim, these tests help determine if AI is performing as expected.",
+    "Organizational Context": "The specific knowledge and understanding of a company's operations, culture, and goals that AI needs to function effectively. Think of it like a recipe that requires specific ingredients to create a dish — without the right context, the outcome can be disastrous.",
+    "AI Agent": "A software program designed to perform tasks autonomously using artificial intelligence. Like a robot vacuum that cleans your floor without needing constant human input, an AI agent operates independently to complete its assigned tasks.",
+    "Rehiring Wave": "A trend where companies are bringing back human workers after initially replacing them with AI. Think of it like a restaurant that tried self-service kiosks but found that customers preferred the personal touch of a waiter.",
+    "Performance Over Time": "A measure of how well AI maintains its effectiveness as conditions change. Like a long-distance runner who starts strong but may not finish the race as well, AI can struggle to keep up with evolving demands.",
+    "Human Judgment": "The ability of people to make decisions based on experience and understanding, which AI currently lacks. Think of it like a seasoned chef who knows how to adjust a recipe based on taste, while a machine simply follows instructions without adapting."
+  },
+  "topics": [
+    "AI Performance",
+    "Organizational Context",
+    "Human Oversight",
+    "Evaluation Strategies",
+    "AI Deployment"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/55-of-employers-regret-ai-driven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/55-of-employers-regret-ai-driven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:38:15.676867+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "8jKAT8GNDE0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.",
+  "published_at": "2026-02-23T15:00:13Z",
+  "thumbnail": "https://i.ytimg.com/vi/8jKAT8GNDE0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=8jKAT8GNDE0",
+  "duration": "36m 37s",
+  "view_count": "251546",
+  "like_count": "8251",
+  "has_transcript": false,
+  "executive_summary": "Google has launched Gemini 3.1 Pro, the smartest AI model available, at a cost that is only one-seventh of its competitors. Despite this, Google is unconcerned about users sticking with other models like Claude or ChatGPT, as they are playing a fundamentally different game focused on long-term strategic advantages rather than immediate market competition.",
+  "bullets": [
+    "Gemini 3.1 Pro is priced at one-seventh of the competition, which means it costs significantly less to use than other leading AI models. This pricing strategy allows Google to attract a wider range of users without sacrificing quality, similar to how a budget airline can fill seats by offering lower fares while still providing a safe flight.",
+    "Google's vertical stack includes TPU silicon and Nobel Prize-winning research, creating a robust foundation for their AI models. This vertical integration is like building a skyscraper on solid bedrock; it ensures stability and support for all the innovative features built on top.",
+    "DeepMind's Gemini 3.1 Pro has solved 18 previously unsolved problems in math, physics, and economics. This achievement is akin to a scientist discovering a new element, which opens up new avenues for research and application across various fields.",
+    "The distinction between reasoning problems and other types such as effort, coordination, ambiguity, and emotional intelligence is crucial for understanding AI capabilities. It's like knowing that a sports car excels in speed (reasoning) but may struggle in off-road conditions (effort and coordination).",
+    "Demis Hassabis has consistently stated the same sentence for 15 years, emphasizing a long-term vision for AI development. This commitment is like a marathon runner who maintains a steady pace, focusing on endurance rather than sprinting for short-term gains.",
+    "Google can afford to lose the product race because they generate $100 billion in annual free cash flow. This financial cushion allows them to invest in long-term projects without the pressure of immediate returns, similar to a farmer who can afford to wait for crops to grow rather than selling them prematurely.",
+    "In comparing Gemini 3.1 Pro to Opus 4.6 and Codex 5.3, the real focus should be on the type of problems each model excels at rather than just their performance metrics. This is like comparing different vehicles: a sports car (Gemini) may be faster, but a truck (Codex) may be better for hauling heavy loads.",
+    "The video outlines six distinct problem types that AI solves differently, which is essential for users to understand. It's like knowing that different tools in a toolbox are designed for specific tasks; using a hammer to screw in a bolt won't yield good results.",
+    "Reasoning problems are where Gemini 3.1 Pro excels, indicating its strength in logical thinking and deduction. This is similar to a chess grandmaster who can foresee multiple moves ahead, making strategic decisions that outsmart opponents.",
+    "Effort problems are better handled by agentic models, which focus on tasks requiring physical or computational effort. Think of it like a weightlifter who specializes in lifting heavy weights, while a marathon runner excels in endurance.",
+    "Coordination problems are best tackled by tool-augmented models, which can manage multiple tasks simultaneously. This is akin to a conductor leading an orchestra, ensuring each musician plays their part in harmony.",
+    "Emotional intelligence problems are areas where AI currently falls short, as they lack the ability to understand human emotions deeply. It's like a robot trying to comfort a crying child; it may not grasp the nuances of human feelings.",
+    "Judgment and courage problems remain entirely human domains, emphasizing the limitations of AI in making ethical decisions or taking risks. This is like a firefighter who must make split-second decisions in dangerous situations, something AI cannot replicate."
+  ],
+  "key_takeaways": [
+    "Focus on the specific problem types your work involves. Understanding whether you're dealing with reasoning, effort, or coordination problems will help you choose the right AI tools. Ignoring this could lead to using the wrong model for your tasks, which can waste time and resources.",
+    "Evaluate how much of your work consists of reasoning problems. If you find that a significant percentage falls into this category, prioritize using models like Gemini 3.1 Pro that excel in reasoning. Failing to do this could mean missing out on the efficiency and effectiveness that the right AI can provide.",
+    "By the end of the year, aim to map your domain and understand the specific challenges you face. This proactive approach will help you identify the best AI solutions tailored to your needs. If you don’t take this step, you risk falling behind as the AI landscape continues to evolve rapidly."
+  ],
+  "technical_terms": {
+    "Gemini 3.1 Pro": "Google's latest AI model that excels in reasoning problems and is priced significantly lower than competitors. Think of it like a high-performance sports car that costs less than a family sedan.",
+    "TPU silicon": "A type of hardware specifically designed by Google to accelerate machine learning tasks. Think of it like a turbocharger that boosts an engine's power, making it run faster and more efficiently.",
+    "DeepMind": "A subsidiary of Alphabet Inc. focused on AI research, known for developing advanced AI models. Like a research lab that pioneers new technologies, DeepMind pushes the boundaries of what AI can achieve.",
+    "Vertical stack": "The integration of hardware and software in a single system, allowing for optimized performance. Think of it like a well-constructed building where each floor supports the next, creating a stable structure.",
+    "Reasoning problems": "Challenges that require logical thinking and deduction to solve. It's like solving a puzzle where each piece must fit perfectly to complete the picture.",
+    "Effort problems": "Tasks that require physical or computational effort to accomplish. Think of it like lifting weights; the more effort you put in, the more you can lift.",
+    "Coordination problems": "Challenges that involve managing multiple tasks or elements simultaneously. Like a juggler keeping several balls in the air at once, coordination is key to success.",
+    "Emotional intelligence": "The ability to understand and respond to human emotions. It's like a skilled therapist who can read a person's feelings and provide appropriate support.",
+    "Judgment problems": "Situations requiring ethical decision-making and risk assessment. Think of it like a judge weighing evidence to make a fair ruling.",
+    "Ambiguity problems": "Challenges that involve unclear or uncertain situations. It's like trying to navigate through fog; without clarity, it's easy to get lost."
+  },
+  "topics": [
+    "AI Development",
+    "Google AI",
+    "DeepMind",
+    "Problem Solving",
+    "AI Comparison"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:59:41.370536+00:00"
+}

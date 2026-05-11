@@ -1,0 +1,78 @@
+{
+  "video_id": "HnBdvSC0Syo",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Everyone's Doing Prompting Wrong #ai #artificialintelligence",
+  "published_at": "2026-01-14T04:00:12Z",
+  "thumbnail": "https://i.ytimg.com/vi/HnBdvSC0Syo/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=HnBdvSC0Syo",
+  "duration": "1m 26s",
+  "view_count": "7890",
+  "like_count": "310",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones reveals that effective prompting in AI is more complex than just clever text; it involves a detailed lifecycle. Key stages include intent formation, versioning, and rigorous testing, which are crucial for teams to compete effectively in the AI landscape.",
+  "bullets": [
+    "The first stage of effective prompting is intent formation, which is often overlooked. This means understanding what you want the AI to achieve before you start writing prompts. Think of it like planning a road trip; if you don't know your destination, you'll just end up lost.",
+    "Large Language Models (LLMs) play a vital role in shaping, versioning, and testing high-leverage prompts. This means they help refine prompts to ensure they yield the best results. It's like having a personal trainer who helps you perfect your form to maximize your workout results.",
+    "There is a significant difference between individual tinkering with prompts and production-grade evaluation. Individual tinkering may yield random results, while production-grade evaluation ensures reliability and consistency. Imagine baking a cake without measuring ingredients versus using a precise recipe; one is a gamble, while the other guarantees a delicious outcome.",
+    "AI agents and deployment workflows require rigorous prompt tooling to function effectively. This means that without proper tools, the deployment of AI can become chaotic and unreliable. It's like trying to build a house without the right tools; you might end up with a structure that collapses.",
+    "The video emphasizes that understanding the prompt lifecycle allows teams to move faster without sacrificing reliability. This means that a well-structured approach can lead to quicker and more dependable outcomes. Think of it like a well-oiled machine; when all parts work together smoothly, everything runs efficiently.",
+    "The video introduces Hey Presto as a tool that aids in the prompt engineering process. This tool helps streamline the creation and testing of prompts, making it easier for users to achieve their goals. It's like having a Swiss Army knife that provides multiple tools for various tasks in one compact package.",
+    "Pricing and community engagement are also discussed, highlighting the importance of being part of a supportive network. Engaging with a community can provide valuable insights and feedback, which is crucial for growth. It's like being part of a sports team where teammates encourage each other to improve.",
+    "The concept of the prompt lifecycle is critical for anyone involved in AI. It includes stages from intent formation to deployment, ensuring that every aspect is covered. Think of it like a relay race; each runner must pass the baton smoothly for the team to succeed.",
+    "Intent formulation is highlighted as a crucial step that many skip. This step involves clarifying the purpose behind the prompts, which is essential for effective communication with AI. It's like writing a letter; if you don’t know what you want to say, your message will be unclear.",
+    "The video suggests that most teams currently have their evaluation tests backward, focusing too much on functionality rather than hygiene. This means that at least 50% of eval tests should check for code hygiene, not just whether the code works. Imagine a car that runs well but has a dirty engine; it might break down eventually if not properly maintained.",
+    "The speaker notes that teams that grasp the importance of prompt tooling can significantly enhance their productivity. This understanding can lead to faster iterations and better results in AI projects. It's like knowing the shortcuts on a map; you can reach your destination quicker and with less hassle.",
+    "The video stresses that the current landscape of prompting is akin to the Wild West, where many are experimenting without a clear understanding of the rules. This chaotic environment means that those who master the prompt lifecycle will have a competitive edge. Think of it like navigating a crowded market; knowing the best stalls will help you find the best deals."
+  ],
+  "key_takeaways": [
+    "Implement a structured approach to intent formation before drafting prompts. This clarity will guide your prompt creation and improve outcomes. Skipping this step can lead to confusion and ineffective prompts.",
+    "Ensure that at least 50% of your evaluation tests focus on code hygiene, not just functionality. This balance is crucial for maintaining high-quality code that is sustainable in the long run. Ignoring this can lead to technical debt and future problems.",
+    "Adopt tools like Hey Presto to streamline your prompt engineering process. This will help you create and test prompts more effectively, saving time and resources. Without such tools, you risk falling behind in a competitive environment.",
+    "Familiarize yourself with the entire prompt lifecycle, from intent formation to deployment. Understanding this process will allow you to move faster and more reliably in your AI projects. Neglecting any stage can lead to missed opportunities and unreliable results.",
+    "Engage actively with the AI community to share insights and gather feedback. This collaboration can enhance your understanding and improve your work. If you isolate yourself, you may miss out on valuable learning experiences."
+  ],
+  "technical_terms": {
+    "Prompt Engineering": "The process of designing and refining prompts to effectively communicate with AI systems. Think of it like crafting a perfect question to get the best answer from a knowledgeable friend.",
+    "Large Language Models (LLMs)": "Advanced AI systems that can understand and generate human-like text based on the prompts they receive. Like a well-read librarian who can provide information on any topic you ask about.",
+    "Versioning": "The practice of creating different versions of prompts to test their effectiveness. Think of it like trying different recipes for the same dish to find the best one.",
+    "Prompt Lifecycle": "The series of stages involved in creating, testing, and deploying prompts for AI. Like the life cycle of a butterfly, it goes through various stages before it can take flight.",
+    "Production-Grade Evaluation": "A thorough assessment of prompts that ensures they are reliable and effective for real-world applications. Like a rigorous quality check in a factory to ensure every product meets standards.",
+    "Intent Formation": "The initial step of clearly defining what you want to achieve with your prompts. Think of it like setting a goal before starting a project; without a goal, you may end up with a vague outcome.",
+    "Hey Presto": "A tool designed to assist in the prompt engineering process, making it easier to create and test prompts. Like a magic wand that simplifies complex tasks.",
+    "Deployment Workflows": "The structured processes involved in implementing AI solutions in real-world scenarios. Think of it like a carefully planned event where every detail is accounted for to ensure success.",
+    "Code Hygiene": "The practice of maintaining clean, organized, and efficient code. Like keeping your room tidy; a clean space makes it easier to find what you need and prevents problems.",
+    "High-Leverage Prompts": "Prompts that yield significant results with minimal effort. Think of it like a lever that can lift heavy objects with little force; the right prompt can unlock powerful outcomes."
+  },
+  "topics": [
+    "Prompt Engineering",
+    "AI Tools",
+    "Large Language Models",
+    "Community Engagement",
+    "Productivity in AI"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://www.heypresto.ai/",
+      "title": "https://www.heypresto.ai/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/the-complete-prompt-tooling-ecosystem?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/the-complete-prompt-tooling-ecosystem?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:37:28.696899+00:00"
+}

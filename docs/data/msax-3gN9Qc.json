@@ -1,0 +1,82 @@
+{
+  "video_id": "msax-3gN9Qc",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "We need a new computing paradigm for AI",
+  "published_at": "2025-04-03T01:21:25Z",
+  "thumbnail": "https://i.ytimg.com/vi/msax-3gN9Qc/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=msax-3gN9Qc",
+  "duration": "2m 40s",
+  "view_count": "3914",
+  "like_count": "184",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones argues for a new philosophy of computing that recognizes AI outputs as performances rather than facts. He emphasizes the need for skepticism in prompting AI, the importance of rigorous evaluation methods like OpenAI's benchmarks, and the emotional engagement required in modern computing. This shift is necessary to adapt to the fallibility of AI systems, which are rooted in human language and experience.",
+  "bullets": [
+    "AI systems are not just machines that provide correct answers; they are designed to perform reasoning and simulate human-like thought. This means we should view AI responses as creative performances rather than absolute truths, similar to how an actor interprets a script rather than reciting it verbatim.",
+    "Every AI response is a performance, not a statement of fact. This perspective helps us critically evaluate AI outputs, much like a theater critic assesses a play, identifying what resonates and what falls flat.",
+    "New users often prompt AI with optimism, leading to overtrust in its outputs. It's crucial to approach AI with skepticism, like a detective questioning a witness, to discern the reliability of the information provided.",
+    "Building useful AI applications requires rigorous evaluation and structured methodologies, such as OpenAI’s benchmark of 8,316 tasks for agentic performance. This is akin to a chef following a precise recipe to ensure a dish turns out perfectly rather than relying on improvisation.",
+    "AI inherits our language, which means it also carries our fallibility. Just as a child learns to speak from imperfect adult examples, AI systems are shaped by the messy, sometimes contradictory nature of human communication.",
+    "Many users struggle with AI because they apply outdated computing models that don't fit non-deterministic, language-based systems. This is like trying to fit a square peg into a round hole; the old tools simply don't work with the new paradigm.",
+    "The emotional frame of computing suggests that our engagement with AI should be more personal and interpretive, rather than purely logical. Think of it like having a conversation with a friend where emotions and context shape the dialogue, rather than just exchanging facts.",
+    "A philosophical shift is necessary to effectively work with AI, moving away from deterministic views of computing. This change is like transitioning from a rigid, rule-based game to a more fluid and strategic one, where adaptability is key.",
+    "Skeptical prompting is essential for extracting value from AI tools. If we don't question AI outputs, we risk accepting misinformation, similar to a student who blindly trusts every answer given by a textbook without critical thinking.",
+    "The concept of 'the computer is a feeling' reminds us that technology today is about personal engagement. Just as a musician connects emotionally with their instrument, we must connect with AI on a human level to unlock its potential.",
+    "Discipline in AI development is crucial, as merely clever prompting or trendy demonstrations are insufficient for creating effective tools. This is like training for a marathon; without a structured plan and discipline, you won't reach the finish line.",
+    "AI outputs are shaped by human language and context, making them inherently imperfect. Just as a painter's brush strokes can convey emotion but also imperfections, AI reflects the complexities of human expression."
+  ],
+  "key_takeaways": [
+    "Adopt a skeptical approach to prompting AI. This means questioning the outputs you receive and validating them against reliable sources. If you skip this, you risk making decisions based on potentially flawed information.",
+    "Implement rigorous evaluation methods in your AI projects, similar to OpenAI’s 8,316 task benchmark. This structured approach ensures that your AI tools are effective and reliable; without it, you may end up with subpar results.",
+    "Shift your mindset to view AI responses as performances rather than facts. This change in perspective will help you critically assess AI outputs and use them more effectively, rather than accepting them at face value.",
+    "Engage with AI on an emotional level, recognizing that it is not just a tool but a medium for personal interaction. If you overlook this aspect, you may miss out on the deeper insights AI can provide."
+  ],
+  "technical_terms": {
+    "agentic performance": "The ability of an AI system to act independently and make decisions based on its programming and learning. Think of it like a self-driving car that navigates traffic on its own, responding to real-time conditions.",
+    "deterministic computing": "A traditional computing model where systems produce the same output for a given input every time. Like a vending machine that always dispenses the same snack for the same coin, it lacks the variability of human-like reasoning.",
+    "prompt skepticism": "The practice of questioning and critically evaluating the outputs generated by AI systems. Think of it like a journalist fact-checking a story before publication to ensure accuracy.",
+    "OpenAI's benchmarks": "A set of rigorous evaluation tasks designed to assess the performance of AI systems. Like a standardized test that measures student knowledge, these benchmarks help ensure AI tools meet high standards.",
+    "language-based systems": "AI systems that rely on human language for training and operation. Think of it like a translator who must understand the nuances of both languages to convey the correct meaning.",
+    "philosophical shift": "A fundamental change in how we think about and interact with technology. Like moving from a fixed mindset to a growth mindset, it opens up new possibilities for innovation and understanding.",
+    "emotional frame of computing": "The idea that our interactions with technology are shaped by personal feelings and interpretations. Think of it like a relationship where emotions influence communication and understanding.",
+    "fallibility": "The inherent tendency to make mistakes or be imperfect. Like a human who can misremember facts, AI systems also reflect this imperfection due to their reliance on human-generated data.",
+    "structured methodology": "A systematic approach to developing and evaluating AI systems. Think of it like following a detailed blueprint when building a house to ensure everything fits together correctly.",
+    "performance": "The act of delivering a response or output from an AI system. Like a performer on stage, AI outputs can vary in quality and impact based on how they are presented."
+  },
+  "topics": [
+    "AI philosophy",
+    "AI performance",
+    "prompt skepticism",
+    "OpenAI",
+    "emotional engagement"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://github.com/timhwang/nyrc/blob/main/NYRC%201%20-%20The%20Computer%20is%20a%20Feeling.md",
+      "title": "https://github.com/timhwang/nyrc/blob/main/NYRC%201%20-%20The%20Computer%20is%20a%20Feeling.md",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/the-ai-is-a-vibe-a-short-manifesto?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/the-ai-is-a-vibe-a-short-manifesto?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natebjones.com/",
+      "title": "https://natebjones.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://linktr.ee/natebjones",
+      "title": "https://linktr.ee/natebjones",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T13:38:58.639569+00:00"
+}

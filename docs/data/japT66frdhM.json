@@ -1,0 +1,81 @@
+{
+  "video_id": "japT66frdhM",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "One Simple System Gave All My AI Tools a Memory. Here's How.",
+  "published_at": "2026-03-13T14:01:14Z",
+  "thumbnail": "https://i.ytimg.com/vi/japT66frdhM/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=japT66frdhM",
+  "duration": "26m 55s",
+  "view_count": "89323",
+  "like_count": "2415",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones reveals how to enhance your AI tools by giving them memory through a shared database that both humans and agents can access. He explains how to create a visual interface using Claude and host it for free on Vercel, transforming everyday knowledge and professional relationships into useful dashboards. This system allows for better interaction with AI, bridging the gap between human and agent access.",
+  "bullets": [
+    "Thousands of people build an agent-readable database but often interact with it through a limited chat window. This is like trying to see a beautiful painting through a keyhole; you miss the full picture. The solution is to create a shared surface where both humans and agents can access the same information.",
+    "The MCP server is often perceived as the entire system, but it actually has a more complex architecture. Think of it like a restaurant where the kitchen (MCP server) is only part of the experience; the dining area (human access) is where the customers interact with the food.",
+    "Creating a visual layer with Claude allows you to build interfaces that make your AI tools more interactive. It's like adding a touchscreen to a traditional computer; it makes accessing information much easier and more intuitive.",
+    "Hosting your visual layer on Vercel is free, which means you can deploy your projects without worrying about costs. Imagine setting up a lemonade stand in your front yard without needing to pay for a permit; it allows for experimentation without financial risk.",
+    "Household knowledge can be organized into a dashboard, making it easier to access important information. This is similar to having a family calendar on the fridge that everyone can see and update, ensuring everyone is on the same page.",
+    "Professional relationships can also be visualized in a dashboard format. Think of it like a social network map that shows how you are connected to others, making it easier to navigate your career.",
+    "A job hunt dashboard can streamline your search process, keeping track of applications and networking opportunities. It's like having a personal assistant who organizes your job search, reminding you of deadlines and follow-ups.",
+    "Time bridging is a principle that allows you to connect information across different time frames. Imagine a bridge that connects two islands; it lets you travel back and forth between past experiences and current opportunities.",
+    "Cross-category reasoning is another principle that enhances your AI's capabilities by allowing it to make connections between different types of data. It's like a chef who can combine flavors from various cuisines to create a unique dish.",
+    "Agent-readable data provides an architectural advantage because it allows for more seamless integration between human and AI interactions. Think of it like a well-designed highway system that allows for smooth traffic flow, reducing congestion and delays.",
+    "By controlling your data without middlemen, you maintain ownership and privacy. It's akin to having your own garden where you grow vegetables; you decide what to plant and how to use it, rather than relying on a store.",
+    "The video emphasizes that the next step after building Open Brain is to make the data useful to human eyes. If you skip this step, you risk having a powerful tool that remains underutilized, like a high-tech gadget that sits in a drawer collecting dust."
+  ],
+  "key_takeaways": [
+    "Build a visual interface for your AI tools to enhance interaction. This is crucial because it transforms data into a format that is easily accessible and understandable. Without it, you risk limiting the potential of your AI tools.",
+    "Host your visual layer on Vercel to eliminate costs associated with deployment. This is important because it allows you to experiment freely with your projects. If you don’t take advantage of free hosting, you may miss out on valuable learning opportunities.",
+    "Create dashboards for household knowledge, professional relationships, and job hunts to streamline your information management. This is essential for staying organized and making informed decisions. If you neglect this, you may find yourself overwhelmed and missing important connections."
+  ],
+  "technical_terms": {
+    "MCP server": "The main server that processes requests and manages data for AI systems. Think of it like the brain of a robot, controlling its actions and responses.",
+    "Claude": "An AI tool used to build visual interfaces for interacting with data. Like a skilled artist, Claude helps create beautiful and functional designs.",
+    "Vercel": "A platform for hosting web applications for free. It's like a public park where you can set up your tent and share your ideas without any fees.",
+    "Agent-readable database": "A database designed for AI agents to easily access and interpret data. Think of it like a library with clear signs that help you find the books you need quickly.",
+    "Time bridging": "The ability to connect information from different time periods. Like a time machine that lets you revisit past events to inform present decisions.",
+    "Cross-category reasoning": "The capability of making connections between different types of data. It's like a detective who pieces together clues from various sources to solve a mystery.",
+    "Dashboard": "A visual interface that organizes information for easy access. Think of it like a car dashboard that displays all the important gauges and indicators at a glance.",
+    "Shared surface": "A common area where both humans and AI can access the same data. Like a communal table where everyone can share and discuss their ideas.",
+    "Human access": "The way humans interact with AI systems. It's like the front door of a house that welcomes guests inside.",
+    "Agent access": "The method by which AI agents retrieve and process data. Think of it like a back door that allows staff to enter and manage the building."
+  },
+  "topics": [
+    "AI tools",
+    "Data management",
+    "Visual interfaces",
+    "Dashboards",
+    "Agent interaction"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/you-built-an-ai-memory-system-now?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/you-built-an-ai-memory-system-now?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "title": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "title": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:44:18.116473+00:00"
+}

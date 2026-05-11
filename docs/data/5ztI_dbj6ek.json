@@ -1,0 +1,80 @@
+{
+  "video_id": "5ztI_dbj6ek",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.",
+  "published_at": "2026-04-02T14:00:06Z",
+  "thumbnail": "https://i.ytimg.com/vi/5ztI_dbj6ek/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=5ztI_dbj6ek",
+  "duration": "26m 35s",
+  "view_count": "116849",
+  "like_count": "4488",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones reveals that user habits, not just the cost of AI models, are driving up expenses, with users burning 8-10 times more tokens than necessary. He emphasizes the importance of token efficiency, detailing how improper document handling and conversation sprawl can lead to significant waste. By adopting better practices, users can drastically reduce costs and improve their AI interactions.",
+  "bullets": [
+    "Users can waste 8-10 times more tokens than necessary due to poor habits, which means that the way you interact with AI can cost you significantly more than the models themselves. This is like driving a car with a leaky gas tank — you might have a powerful engine, but if you're losing fuel, you won't get far.",
+    "Raw PDFs can turn 4,500 words into 100,000 tokens, which means that simply uploading a document without proper formatting can inflate costs dramatically. It's like trying to fit a large suitcase into a small car — if you don't pack it right, it won't fit efficiently.",
+    "Conversation sprawl compounds waste with every turn, causing unnecessary token consumption as the context of the conversation expands. Imagine a game of telephone where each person adds their own twist; the message gets longer and more convoluted, wasting time and resources.",
+    "Plugin overhead costs you before you type a word, meaning that just integrating plugins can add to your expenses without providing immediate value. It's like paying for a gym membership but never stepping foot inside the gym — you're spending money without reaping the benefits.",
+    "Model mixing can drop a $10 session to $1, showing that using the right models together can lead to significant cost savings. Think of it like cooking with ingredients that complement each other; the right combination can create a delicious meal for less.",
+    "Advanced users often make the most expensive mistakes, indicating that experience does not always equate to efficiency. This is like a seasoned chef who forgets to measure ingredients — even experts can overlook the basics and waste resources.",
+    "The upcoming Mythos pricing model will highlight these mistakes, meaning that users will need to be more vigilant about their token usage. It's like a new tax law that requires you to keep better records; if you're not prepared, you could face penalties.",
+    "There are six questions to audit yourself, referred to as 'the stupid button,' which help identify wasteful habits in your token usage. It's like a checklist before a flight; if you skip it, you risk forgetting something crucial.",
+    "Five commandments for agent token management are essential for efficient use, guiding users on how to avoid common pitfalls. Think of these commandments as traffic rules; ignoring them can lead to accidents and costly delays.",
+    "Using tokens well, not wastefully, is crucial for scaling your AI efforts effectively. It's like budgeting your monthly expenses; if you overspend in one area, you might not have enough for essentials later.",
+    "A real pipeline can cost less than 25 cents per user, demonstrating that efficient processes can lead to significant savings. It's like finding a shortcut on your commute; it saves time and fuel, making your journey more efficient.",
+    "Document ingestion and PDFs are rookie mistakes that can inflate costs, emphasizing the need for proper formatting. Think of it like trying to read a book with pages stuck together; you miss important information and waste time trying to decipher it."
+  ],
+  "key_takeaways": [
+    "Audit your token usage regularly using the six questions from 'the stupid button' to identify wasteful habits. This matters because it helps you recognize where you can save costs and improve efficiency. If you skip this, you risk continuing to waste valuable resources.",
+    "Always convert documents to Markdown before uploading to avoid inflating token counts. This is important because it ensures that your documents are processed efficiently, saving you money. If you don't do this, you could face unnecessary costs that add up quickly.",
+    "Implement the five commandments for agent token management immediately to streamline your AI interactions. This is crucial for maintaining efficiency as you scale your AI efforts. Ignoring these guidelines could lead to costly mistakes that hinder your progress."
+  ],
+  "technical_terms": {
+    "tokens": "Units of measurement for the amount of text processed by AI models. Think of it like counting the number of letters in a book; the more letters, the more tokens you use.",
+    "conversation sprawl": "The unnecessary expansion of dialogue that leads to increased token usage. Like a conversation that drags on without purpose, wasting time and resources.",
+    "plugin overhead": "The additional costs incurred from integrating plugins into your AI system before any interaction occurs. It's like paying for a fancy tool that you never actually use.",
+    "model mixing": "The practice of using different AI models together to optimize performance and reduce costs. Think of it like mixing different colors of paint to create a more vibrant hue.",
+    "document ingestion": "The process of uploading and processing documents for AI analysis. Like feeding a machine with raw materials; if the materials are not prepared properly, the output will be inefficient.",
+    "Markdown": "A lightweight markup language used to format text. Think of it like a recipe that tells you how to prepare ingredients for a dish; it helps organize information clearly.",
+    "Mythos pricing": "An upcoming pricing model that will change how users are charged for AI interactions. It's like a new tax law that alters how you budget your finances.",
+    "audit": "A systematic review of processes to identify inefficiencies or waste. Like a health check-up for your finances; it helps ensure everything is in good shape.",
+    "pipeline": "A series of processes that data goes through to be analyzed by AI. Think of it like an assembly line in a factory; each step adds value to the final product.",
+    "agent token management": "Strategies for efficiently managing the use of tokens in AI interactions. Like a budget plan that helps you allocate resources wisely."
+  },
+  "topics": [
+    "AI Cost Management",
+    "Token Efficiency",
+    "Document Handling",
+    "Model Optimization",
+    "User Habits"
+  ],
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/your-claude-sessions-cost-10x-what?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/your-claude-sessions-cost-10x-what?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "title": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "title": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:28:37.425818+00:00"
+}

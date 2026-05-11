@@ -1,0 +1,66 @@
+{
+  "video_id": "1E6AqyUr0gQ",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Don't mistake AI visibility for actual control #ai #futureofwork",
+  "published_at": "2026-03-14T21:00:03Z",
+  "thumbnail": "https://i.ytimg.com/vi/1E6AqyUr0gQ/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=1E6AqyUr0gQ",
+  "duration": "1m 10s",
+  "view_count": "3812",
+  "like_count": "114",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the pitfalls of AI visibility tools in enterprises, emphasizing that while AI dashboards may appear to provide clarity, they often create a false sense of control. He highlights that AI reduces reporting costs to zero but can generate misleading metrics, and that small, agile teams (tiger teams) are more effective than larger traditional teams in driving productivity.",
+  "bullets": [
+    "AI-powered dashboards create a false sense of clarity, leading leaders to mistake visibility for control. This is like looking through a foggy window and thinking you can see everything clearly, when in reality, you’re missing critical details.",
+    "The cost of reporting has dropped to zero due to AI, making it easy to produce misleading data. This is like a magician pulling endless scarves from a hat — it looks impressive, but it’s just an illusion.",
+    "Nate Jones states that 'the real leverage comes from powering small teams to move fast.' This means that instead of relying on large teams bogged down by bureaucracy, companies should empower smaller groups to innovate quickly, like a sprinter racing ahead while others are still tying their shoes.",
+    "Tiger teams are described as the actual production engine of a company. These small, focused groups can adapt and respond to challenges rapidly, much like a well-trained special forces unit that can execute a mission with precision and speed.",
+    "Leaders often confuse AI's ability to provide data with actual control over their operations. This is similar to a pilot relying solely on instruments without understanding the plane's mechanics — they may think they’re in control, but they could be headed for trouble.",
+    "A five-person pod can now outproduce traditional thirty-person teams. This shift highlights the efficiency of small, agile teams that can pivot quickly, like a small boat maneuvering through tight waters compared to a large ship that takes time to turn.",
+    "AI makes it trivial to create Potemkin villages, which are deceptive facades that look good on the outside but lack substance. This is like a beautifully decorated cake that’s hollow inside — it may look appealing, but it doesn’t deliver on taste.",
+    "Surveillance dashboards can suffocate the messy spaces where actual work happens. This is like trying to paint a masterpiece while someone constantly hovers over you with a magnifying glass, stifling creativity and spontaneity.",
+    "Nate Jones emphasizes that leaders should use AI to amplify tiger teams rather than overwhelm them with vapor metrics. This is akin to giving a race car driver a high-performance engine instead of weighing them down with unnecessary equipment.",
+    "The opportunity for leaders and builders is massive if they harness AI effectively. Ignoring this potential is like having a treasure map but choosing to ignore the 'X' that marks the spot.",
+    "AI visibility tools can create a false narrative of omniscience, leading to poor decision-making. This is like believing you have a crystal ball that shows the future, but in reality, it’s just a reflection of your own biases.",
+    "Jones suggests that organizations should focus on empowering small teams rather than relying on extensive metrics. This is like trusting a skilled chef to create a dish rather than obsessing over the exact measurements of each ingredient."
+  ],
+  "key_takeaways": [
+    "Empower small teams to drive innovation and productivity. This matters because small teams can adapt quickly to changes and challenges, unlike larger teams that may become stagnant. If you ignore this, you risk falling behind competitors who are more agile.",
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, not just functionality. This is crucial because many teams currently focus too much on whether code works rather than how well it’s structured. If you skip this, you may end up with messy code that’s hard to maintain.",
+    "By the end of the year, reassess your reliance on AI dashboards and consider how they may be misleading. This is important because understanding the limitations of these tools can help you make better decisions. If you don’t, you may find yourself misled by false data."
+  ],
+  "technical_terms": {
+    "AI visibility tools": "Software that provides insights and data analytics to help leaders make decisions. Think of it like a GPS that shows you where you are but doesn’t tell you how to navigate the obstacles ahead.",
+    "tiger teams": "Small, agile groups within a company focused on specific tasks or projects. Like a specialized task force, they can adapt quickly and execute efficiently.",
+    "Potemkin villages": "Deceptive facades that appear substantial but lack real value or functionality. Think of it like a movie set that looks real from the front but is just a painted backdrop.",
+    "vapor metrics": "Data that looks impressive but lacks substance or actionable insights. Like a balloon that looks big and full but is actually empty inside.",
+    "reporting costs": "The expenses associated with gathering and analyzing data. Think of it like the cost of ingredients in a recipe — if you can get them for free, you can make a lot more dishes."
+  },
+  "topics": [
+    "AI tools",
+    "team productivity",
+    "data analytics",
+    "business strategy",
+    "leadership"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/grab-the-4-prompts-i-use-to-make?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/grab-the-4-prompts-i-use-to-make?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:43:35.610437+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "ZBgvyk2yT9A",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "AI adoption failures: Budget for coordination, not code! #aiforbusiness #aiforwork #ai #llm",
+  "published_at": "2025-11-22T22:00:39Z",
+  "thumbnail": "https://i.ytimg.com/vi/ZBgvyk2yT9A/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=ZBgvyk2yT9A",
+  "duration": "56s",
+  "view_count": "6882",
+  "like_count": "293",
+  "has_transcript": false,
+  "executive_summary": "AI adoption failures often stem from people, structure, and intent rather than just technology issues. Key insights include the importance of governance, the impact of review bottlenecks, and the need for effective scaling strategies. Organizations must prioritize coordination and data management alongside their AI models to succeed.",
+  "bullets": [
+    "Most AI adoption failures are not due to technology but rather to people and organizational structure. This means that even if the AI code is functional, without proper governance and coordination, the project can collapse. It's like having a perfectly baked cake but forgetting to frost it — it may taste good, but it won't look appealing or be well-received.",
+    "Integration and governance challenges can derail AI projects even when the code is operational. If teams do not have clear guidelines and structures in place, the AI can become a chaotic mess. Think of it like a car engine running smoothly but lacking a steering wheel — it might work, but you can't control where it goes.",
+    "A review bottleneck can hide in plain sight, causing delays in AI deployment. If too few people are responsible for reviewing the code, it can slow down the entire process. Imagine a traffic jam caused by one car blocking the road — everyone else is stuck waiting.",
+    "The intern problem refers to inexperienced team members being tasked with critical AI reviews, which can lead to mistakes. If interns are not properly trained or supervised, they may overlook crucial errors. It's like letting a novice chef handle the main course at a banquet — the results could be disastrous.",
+    "Premature scaling often reveals leadership biases that can hinder AI success. If leaders push to scale AI solutions too quickly without proper testing, it can lead to failure. Think of it like trying to grow a plant too fast — if you don't give it time to establish roots, it won't thrive.",
+    "Automation traps occur when teams automate processes without understanding their suitability for AI. This can lead to wasted resources and ineffective solutions. It's like trying to use a hammer to screw in a lightbulb — it just won't work.",
+    "Existential paralysis in leadership can stall AI strategy development. When leaders are unsure or fearful of making decisions, it can lead to inaction. Imagine a deer caught in headlights — unable to move forward due to fear.",
+    "Training deficits can significantly stall AI initiatives. If team members lack the necessary skills and knowledge, they won't be able to implement AI effectively. It's like trying to play a musical instrument without ever having taken lessons — you won't get far.",
+    "AI success is not about following hype cycles but about design discipline and operational intent. Teams that prioritize coordination and data management alongside their models are more likely to succeed. Think of it like building a house — you need a solid foundation and framework before adding the roof.",
+    "By treating coordination and data as seriously as models and code, organizations can improve their chances of successful AI adoption. This means investing time and resources into these areas. It's like ensuring you have all the right ingredients before starting to cook — without them, the dish won't turn out well.",
+    "AI adoption requires a clear understanding of governance and security challenges. Organizations must establish protocols to manage these aspects effectively. Think of it like setting up a security system for your home — without it, you're leaving yourself vulnerable.",
+    "The timeline for addressing these issues is critical; organizations should aim to implement changes within 4-5 months to avoid falling behind. If teams wait too long to address governance and training issues, they risk losing their competitive edge. It's like waiting too long to plant seeds in the spring — you miss out on the growing season."
+  ],
+  "key_takeaways": [
+    "Establish a governance framework for AI projects within the next 4-5 months. This framework will help ensure that all team members understand their roles and responsibilities, preventing chaos and confusion. If you skip this step, you risk project failure due to lack of coordination.",
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, such as naming conventions and function length. Most teams currently focus too much on whether the code works instead of its quality. If you ignore this, you may end up with messy, unmanageable code that leads to future problems.",
+    "Invest in training for team members to address skill gaps in AI implementation. This will empower your team to use AI tools effectively and avoid costly mistakes. If you don't prioritize training, you risk having a team that is unable to leverage AI's full potential."
+  ],
+  "technical_terms": {
+    "Governance": "The framework of rules and practices that ensure proper management and oversight of AI projects. Think of it like the rules of a game that everyone must follow to play fairly.",
+    "Integration": "The process of combining different systems or components to work together as a whole. Like fitting together pieces of a puzzle to create a complete picture.",
+    "Review Bottleneck": "A situation where the review process for code or projects slows down due to too few reviewers or inefficient practices. Think of it like a single lane road that causes traffic jams when too many cars try to pass through.",
+    "Premature Scaling": "The act of expanding AI solutions too quickly without adequate testing or preparation. It's like trying to run a marathon without training — you're likely to fail.",
+    "Automation Trap": "A scenario where processes are automated without understanding their effectiveness, leading to wasted resources. Like trying to use a blender to chop vegetables — it may not be the right tool for the job.",
+    "Existential Paralysis": "A state where leaders are unable to make decisions due to fear or uncertainty. Imagine a deer caught in headlights, frozen and unable to move.",
+    "Training Deficits": "Lack of necessary skills and knowledge among team members to implement AI effectively. It's like trying to play a sport without knowing the rules — you won't succeed.",
+    "Design Discipline": "The commitment to following structured design principles during AI development. Think of it like following a blueprint when building a house — it ensures everything fits together correctly.",
+    "Operational Intent": "The clear purpose and direction behind implementing AI solutions. Like having a map that guides you to your destination — without it, you may get lost.",
+    "Coordination": "The organized effort among team members to ensure everyone is aligned and working towards the same goals. Like a well-rehearsed orchestra where each musician knows their part.",
+    "Data Management": "The process of collecting, storing, and using data effectively in AI projects. Think of it like organizing a library — if the books are scattered everywhere, no one can find what they need."
+  },
+  "topics": [
+    "AI Adoption",
+    "Governance",
+    "Training",
+    "Integration",
+    "Leadership"
+  ],
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-the-9-ways-ive?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-the-9-ways-ive?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:36:35.445227+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "KX0GurmgAoo",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "90% of AI Users Are Getting Mediocre Output. Don't Be One of Them (Stop Prompting, Do THIS Instead)",
+  "published_at": "2026-02-05T15:00:42Z",
+  "thumbnail": "https://i.ytimg.com/vi/KX0GurmgAoo/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=KX0GurmgAoo",
+  "duration": "19m 6s",
+  "view_count": "85679",
+  "like_count": "3111",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B. Jones explains that 90% of AI users receive mediocre output because they rely on default settings that average responses. He outlines four key levers—memory, instructions, tools, and style controls—that can significantly improve AI performance, emphasizing that the gap in results is not due to talent but how well these levers are utilized and updated.",
+  "bullets": [
+    "90% of AI users get mediocre output because they rely on default settings, which average responses. This means that instead of personalized, high-quality results, users often receive generic answers that don't meet their specific needs. Think of it like ordering a pizza with no toppings; you get a basic cheese pizza instead of a customized feast.",
+    "Reinforcement learning from human feedback (RLHF) trains AI models to please the average user, which leads to bland responses. This is similar to a restaurant that tries to cater to everyone’s taste, resulting in a menu that lacks exciting flavors. The AI learns to avoid extremes and instead delivers something that feels safe but uninspired.",
+    "Memory is a crucial lever that can enhance AI performance, as seen in models like ChatGPT, Claude, and Gemini. Memory allows the AI to retain context and previous interactions, much like a friend who remembers your favorite topics and can carry on a meaningful conversation instead of starting from scratch every time.",
+    "Specific instructions lead to better AI outputs than vague ones. For example, telling an AI to 'write a story about a dragon' is less effective than saying 'write a thrilling story about a dragon who saves a village from a fire.' It's like giving a painter a detailed scene to work with instead of just saying 'paint something nice.'",
+    "Claude's style feature allows users to customize the tone and style of responses, which can significantly improve engagement. This is akin to choosing the right outfit for an occasion; wearing a suit to a wedding versus casual clothes can change how people perceive you.",
+    "The MCP standard refers to the integration of apps and tools that enhance AI capabilities. Utilizing the right tools is like equipping a chef with high-quality knives and gadgets; it enables them to create gourmet meals instead of just basic dishes.",
+    "Style and tone controls are essential for tailoring AI responses to fit specific audiences or purposes. This is similar to adjusting the seasoning in a dish; a little extra spice can transform a bland meal into something memorable.",
+    "The compounding habit of encoding corrections back into the AI's memory helps improve its performance over time. Just like practicing a musical instrument, the more you refine your skills, the better you become, leading to a more polished final performance.",
+    "Many users leave significant personalization gains on the table by not actively adjusting their AI settings. This is like having a powerful car but only driving it in first gear; you’re missing out on the full potential of what it can do.",
+    "AI models like ChatGPT and Claude can be compared in terms of their memory capabilities, with some being more effective at retaining context than others. Choosing the right model for your needs is like selecting the best tool for a job; the right choice can make all the difference in the outcome.",
+    "The gap between mediocre and excellent AI results is not about user talent but how effectively they set and update their levers. This is akin to a gardener who regularly tends to their plants versus one who neglects them; the former will see a flourishing garden, while the latter will see weeds.",
+    "Most people fail to realize that updating their AI settings can lead to better outcomes. It’s like updating your phone’s software; if you don’t keep it current, you miss out on new features and improvements."
+  ],
+  "key_takeaways": [
+    "Adjust your AI settings regularly to enhance performance. This matters because the right adjustments can lead to outputs that are tailored to your specific needs, rather than generic responses. If you skip this, you risk continuing to receive mediocre results.",
+    "Focus on writing specific instructions for your AI interactions. Specificity will guide the AI to produce more relevant and engaging content, while vague prompts lead to bland outputs. Without this focus, you might as well be throwing darts blindfolded.",
+    "Implement memory features in your AI tools to improve context retention. This is crucial because it allows your AI to build on previous interactions, making conversations more coherent and relevant. Neglecting this can result in repetitive and unproductive exchanges.",
+    "Utilize style and tone controls to match your audience's preferences. This is important for effective communication and engagement; if you don't tailor your approach, your message may not resonate with your audience.",
+    "By the end of the year, make it a goal to master the four levers of AI: memory, instructions, tools, and style. This will position you ahead of the 90% who settle for mediocrity, ensuring you harness the full potential of AI."
+  ],
+  "technical_terms": {
+    "Reinforcement Learning from Human Feedback (RLHF)": "A training method where AI learns from human feedback to improve its responses. Think of it like a coach giving feedback to an athlete to help them refine their skills.",
+    "Memory": "The ability of an AI to retain context from previous interactions. Think of it like a friend who remembers your past conversations and can build on them.",
+    "Instructions": "Guidelines given to AI to shape its responses. Like giving a painter a detailed description of what to paint, the clearer the instructions, the better the result.",
+    "Style Feature": "A tool that allows users to customize the tone and style of AI responses. Like choosing the right outfit for an occasion, it helps tailor the message to fit the audience.",
+    "MCP Standard": "A framework for integrating various apps and tools to enhance AI capabilities. Think of it like a chef using high-quality tools to create gourmet meals.",
+    "Compounding Habit": "The practice of continuously refining and encoding corrections into AI memory. Like practicing an instrument, the more you refine, the better you become.",
+    "Personalization Gains": "Improvements in AI performance achieved through tailored settings. Like having a powerful car but only driving it in first gear; you’re missing out on its full potential.",
+    "Context Retention": "The ability of AI to remember previous interactions for more coherent conversations. Like a storyteller who recalls details from earlier in the tale to keep the narrative flowing.",
+    "Tone Controls": "Settings that adjust the emotional tone of AI responses. Like seasoning in cooking, the right tone can make a message more appealing.",
+    "Generic Output": "Responses from AI that lack specificity and personalization. Think of it like a fast-food meal; it fills you up but lacks flavor and uniqueness."
+  },
+  "topics": [
+    "AI Performance",
+    "Machine Learning",
+    "User Experience",
+    "AI Customization",
+    "Reinforcement Learning"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natesnewsletter.substack.com/p/why-your-ai-output-feels-generic?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/why-your-ai-output-feels-generic?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "title": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "title": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:14:13.503539+00:00"
+}

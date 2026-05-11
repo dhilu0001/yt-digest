@@ -1,0 +1,78 @@
+{
+  "video_id": "WRVCNiCtybQ",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Prompts as Thinking Tools #booktok #artificialintelligence #claude #shorts #chatgpt",
+  "published_at": "2025-06-26T16:52:32Z",
+  "thumbnail": "https://i.ytimg.com/vi/WRVCNiCtybQ/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=WRVCNiCtybQ",
+  "duration": "47s",
+  "view_count": "1972",
+  "like_count": "76",
+  "has_transcript": false,
+  "executive_summary": "The video emphasizes that preparing for ChatGPT-5 involves refining how we prompt AI models today. Key strategies include using extreme specificity, rich context, and multi-phase workflows, which will enhance the model's performance. As context windows expand toward millions of tokens, effective prompting will shift from simple phrases to precise architectural designs.",
+  "bullets": [
+    "Extreme specificity in prompts sharpens the performance of ChatGPT-5. The tighter your word counts and formats, the more focused the model's output becomes. Think of it like a sculptor who needs precise tools to carve a detailed statue; without the right tools, the vision remains a rough block of stone.",
+    "Context is becoming the currency of AI, with context windows expanding toward a million tokens. By front-loading full documents and relevant history, you ensure that every byte of information contributes to the model's reasoning. It's like giving a chef all the ingredients and a complete recipe before they start cooking—without the full context, the dish may not turn out right.",
+    "Multi-phase workflows are now a native capability of GPT-5, meaning you should stop treating step-by-step prompts as hacks. Instead, think of them as a natural part of the model's thinking process, allowing it to traverse complex tasks in one run. This is similar to a relay race where each runner seamlessly hands off the baton without breaking stride.",
+    "Demand structured output by default, such as scorecards, matrices, or phased plans. Clear schemas unlock more reliable reasoning and make it easier to use the output later. Imagine trying to assemble a piece of furniture without clear instructions; structured output is like having a detailed manual that guides you step by step.",
+    "Great prompts should encourage the model to ask clarifying questions and critique its own answers before you hit 'send.' This self-check loop ensures higher quality responses. It's like a teacher reviewing a student's essay and asking them questions to refine their argument before submission.",
+    "Break large research tasks into smaller deliverables using project-manager chunking. This Agile-style prompting allows you to synthesize information later and iterate effectively. Think of it like building a house; you lay the foundation first, then construct the walls, and finally add the roof, rather than trying to do everything at once.",
+    "As context windows grow, treat every token like jet fuel for focused reasoning. The more relevant context you provide, the more powerful the model's output will be. It's like fueling a rocket; without the right fuel, it won't reach its destination.",
+    "Specificity in prompts is not a limitation but a fine brush that paints your vision on an LLM canvas. The clearer you are, the more accurately the model can create what you envision. Think of it like an artist using a precise brush to create intricate details in a painting; vague strokes won't capture the same beauty.",
+    "The shift in AI prompting is moving from simply asking if AI can help to architecting a true partnership with it. This means designing prompts that leverage the model's strengths while guiding its reasoning. It's like a dance where both partners must be in sync to create a beautiful performance.",
+    "Effective prompting is evolving from magic phrases to precise architecture, requiring clear goals and constraints. This structured approach will become essential as AI capabilities expand. Imagine constructing a building; without a solid blueprint, the structure may collapse under its own weight.",
+    "The future of AI prompting will require a focus on self-evaluation loops, where the model assesses its own responses. This will enhance the quality of interactions and outputs. It's like a coach reviewing game footage with players to identify areas for improvement before the next match.",
+    "The next wave of AI will reward those who can refine their prompting techniques today. By focusing on specificity and context, you can prepare for the advancements of ChatGPT-5. If you neglect this preparation, you risk falling behind as the technology evolves."
+  ],
+  "key_takeaways": [
+    "Start using extreme specificity in your prompts today. This will sharpen the AI's performance and ensure you get the most relevant output. Skipping this step may lead to vague responses that don't meet your needs.",
+    "Incorporate rich context into your prompts by front-loading relevant documents and history. This will enhance the model's reasoning capabilities. If you don't provide enough context, the AI may struggle to understand your request.",
+    "Adopt multi-phase workflows in your prompting strategy. This will allow you to tackle complex tasks more effectively in a single run. Without this approach, you may find yourself stuck in a cycle of back-and-forth prompts.",
+    "Demand structured outputs from the AI by specifying formats like scorecards or matrices. This will improve the reliability of the model's reasoning and make it easier to utilize the output. Neglecting this could lead to disorganized information that is hard to work with.",
+    "Encourage self-check loops in your prompts to enhance the quality of the AI's responses. This will help the model critique its own answers before you submit them. Failing to do this may result in lower-quality outputs that require more revisions."
+  ],
+  "technical_terms": {
+    "ChatGPT-5": "The latest version of OpenAI's language model, designed to understand and generate human-like text. Think of it like the newest smartphone model that comes with advanced features and better performance.",
+    "Context windows": "The amount of text the AI can consider at one time, which is expanding toward a million tokens. Like a window that gets bigger, allowing you to see more of the landscape outside.",
+    "Multi-phase workflows": "A method of prompting that allows the AI to handle complex tasks in stages within a single run. Think of it like a relay race where each phase builds on the last to reach the finish line.",
+    "Structured output": "The organized format of the AI's responses, such as scorecards or matrices, that makes it easier to analyze and use the information. Like a neatly arranged toolbox where every tool has its place.",
+    "Self-evaluation loops": "Prompts that encourage the AI to assess its own answers before finalizing them. It's like a student reviewing their work for mistakes before handing it in.",
+    "Project-manager chunking": "Breaking down large tasks into smaller, manageable parts to facilitate easier completion and synthesis. Think of it like slicing a big cake into smaller pieces for easier serving.",
+    "Agile-style prompting": "An approach to prompting that emphasizes flexibility and iterative progress, similar to Agile project management in software development. Like a chef adjusting a recipe based on taste tests as they cook.",
+    "Interrogative prompts": "Questions designed to elicit detailed responses from the AI, encouraging deeper exploration of topics. It's like a detective asking probing questions to uncover the truth.",
+    "Token": "A unit of text that the AI processes, which can be as small as a character or as large as a word. Think of it like a building block; the more blocks you have, the bigger the structure you can create.",
+    "LLM (Large Language Model)": "A type of AI model that is trained on vast amounts of text data to understand and generate human-like language. Like a library filled with books that the AI can reference to answer questions."
+  },
+  "topics": [
+    "AI prompting",
+    "ChatGPT-5",
+    "multi-phase workflows",
+    "structured output",
+    "self-evaluation loops"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/ready-for-chatgpt-5-grab-a-complete?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/ready-for-chatgpt-5-grab-a-complete?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natebjones.com/",
+      "title": "https://natebjones.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://linktr.ee/natebjones",
+      "title": "https://linktr.ee/natebjones",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T13:10:20.912254+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "zw39KBZkPeA",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Beat the 95%: Why AI Projects Fail—And How Builders Win",
+  "published_at": "2025-09-12T13:02:11Z",
+  "thumbnail": "https://i.ytimg.com/vi/zw39KBZkPeA/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=zw39KBZkPeA",
+  "duration": "19m 19s",
+  "view_count": "9866",
+  "like_count": "444",
+  "has_transcript": false,
+  "executive_summary": "Nate B Jones challenges the flawed MIT study claiming 95% of AI projects fail, arguing it only surveyed executives and missed the real-world experiences of builders. He emphasizes that successful AI projects rely on hybrid architectures, learning systems, and intelligent friction, which help differentiate the 5% of successful initiatives from the failures. By understanding and leveraging shadow AI and connecting technical metrics to business outcomes, builders can create significant enterprise value.",
+  "bullets": [
+    "The MIT study claims that 95% of AI initiatives fail, but it only surveyed executives, missing the practical workflows that builders use. This is like asking a chef about cooking without ever stepping into the kitchen; the real action happens where the ingredients meet the heat.",
+    "Success in AI requires hybrid architectures, which combine top-tier purchased solutions with custom-built workflows. This is like a car that uses both a powerful engine and a custom-designed chassis to perform optimally, rather than relying solely on one or the other.",
+    "Learning systems, which include feedback loops and retraining pipelines, are crucial for driving value in AI projects. Think of it like a gardener who regularly prunes and waters plants; without ongoing care, the garden won't thrive.",
+    "Intelligent friction, such as confidence thresholds and human review gates, builds trust in AI systems. This is akin to having a safety net when walking a tightrope; it allows for a safety check that reassures users rather than leaving them to balance on their own.",
+    "Instrumentation is described as a builder's superpower, allowing for monitoring of accuracy, latency, and error rates. It's like a pilot using instruments to navigate through clouds; without them, you risk losing direction and control.",
+    "Shadow AI refers to the unofficial use of AI tools within teams that can uncover real workflows. This is like finding hidden treasures in your backyard; what seems like a mess can actually hold valuable resources.",
+    "Builders who translate technical KPIs into ROI can gain influence, even without formal titles. This is similar to a translator who bridges communication gaps; they become invaluable by making complex ideas accessible.",
+    "The concept of embedding smart friction is essential for long-term trust in AI systems. As Nate B Jones states, 'You want to embed smart friction—confidence thresholds, human review gates, override sliders—because that’s what builds trust long-term.'",
+    "Successful AI projects often include persistent context, which allows systems to learn from ongoing interactions. Think of it like a teacher who remembers each student's learning style; this personalized approach leads to better outcomes.",
+    "The idea that 'even if you buy, you are buying work' emphasizes that purchased solutions still require significant effort to implement effectively. This is like buying a pre-assembled furniture piece that still needs assembly; it may save time, but it’s not entirely hands-off.",
+    "The importance of feedback loops in AI projects cannot be overstated, as they differentiate successful initiatives from failures. This is like a feedback system in a restaurant where customer reviews help improve the menu; without it, the food may never evolve.",
+    "Nate B Jones highlights that understanding hidden workflows gives builders a competitive advantage over executives. This is like a local guide who knows the best paths through a forest; they can lead you to success while others wander aimlessly."
+  ],
+  "key_takeaways": [
+    "Implement hybrid architectures by combining purchased solutions with custom workflows. This approach ensures flexibility and effectiveness, allowing you to adapt to specific needs. Skipping this could lead to a rigid system that fails to meet real-world demands.",
+    "Establish feedback loops and retraining pipelines within your AI systems. This ongoing learning process is essential for maintaining relevance and effectiveness in a rapidly changing environment. Without it, your AI may become outdated and ineffective.",
+    "Embed intelligent friction into your AI systems to build long-term trust. Include mechanisms like human review gates and override sliders to ensure users feel secure. Neglecting this could lead to user skepticism and reduced adoption.",
+    "Monitor key performance indicators (KPIs) closely to gain insights into your AI's performance. Use metrics like accuracy and error rates to guide improvements. Ignoring these indicators may result in blind spots that hinder your project's success.",
+    "Explore shadow AI within your organization to uncover valuable workflows. By formalizing these guerrilla use cases, you can tap into hidden potential that adds enterprise value. Overlooking this opportunity could mean missing out on innovative solutions."
+  ],
+  "technical_terms": {
+    "Hybrid Architectures": "A combination of purchased AI solutions and custom-built workflows to create a flexible system. Think of it like a hybrid car that uses both electric and gasoline power for optimal performance.",
+    "Learning Systems": "AI systems designed to improve over time through feedback and retraining. Like a student who learns from their mistakes, these systems adapt and grow smarter with experience.",
+    "Intelligent Friction": "Deliberate barriers or checks in an AI system that build user trust and confidence. Imagine a safety harness on a roller coaster; it may slow you down a bit, but it ensures you feel secure.",
+    "Instrumentation": "The tools and metrics used to monitor the performance of AI systems. Like a dashboard in a car that shows speed and fuel levels, instrumentation helps you keep track of your AI's health.",
+    "Shadow AI": "Unofficial AI tools used within teams that can reveal valuable workflows. Think of it like a hidden garden in a city; it may not be officially recognized, but it can yield rich rewards.",
+    "Feedback Loops": "Processes that allow AI systems to learn from their outputs and improve over time. Like a musician who practices and adjusts based on audience reactions, feedback loops refine performance.",
+    "KPIs (Key Performance Indicators)": "Metrics used to measure the success of an AI project. Think of them like report cards that show how well a student is doing in school.",
+    "Confidence Thresholds": "Predefined levels of certainty that must be met before an AI decision is trusted. Like a pilot needing a certain altitude before landing, these thresholds ensure safety.",
+    "Human Review Gates": "Checks in an AI workflow where human judgment is applied before proceeding. This is like a final inspection before a product is shipped; it ensures quality control.",
+    "Override Sliders": "Controls that allow users to manually adjust AI decisions when necessary. Imagine a dimmer switch for lights; it gives you the power to adjust brightness according to your needs."
+  },
+  "topics": [
+    "AI Project Success",
+    "Hybrid Architectures",
+    "Learning Systems",
+    "Trust in AI",
+    "Shadow AI"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/beat-the-95-ai-fail-rate-a-builders?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/beat-the-95-ai-fail-rate-a-builders?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T17:49:24.266294+00:00"
+}

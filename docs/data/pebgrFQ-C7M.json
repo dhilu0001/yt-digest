@@ -1,0 +1,67 @@
+{
+  "video_id": "pebgrFQ-C7M",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "How I Rehearsed a $200K Salary Battle with One AI Prompt (No Coding)",
+  "published_at": "2025-07-23T13:01:43Z",
+  "thumbnail": "https://i.ytimg.com/vi/pebgrFQ-C7M/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=pebgrFQ-C7M",
+  "duration": "26m 41s",
+  "view_count": "7771",
+  "like_count": "307",
+  "has_transcript": false,
+  "executive_summary": "Nate B Jones demonstrates how to use a Digital-Twin Super Prompt to rehearse high-stakes negotiations without any coding. By employing a nine-question intake script and an explicit output contract, he turns ChatGPT into a deterministic state machine, allowing for realistic simulations of scenarios like salary negotiations. The results show stark differences in negotiation styles between models o3 and 4o, with o3 being tougher and 4o more accommodating, which can lead to significant financial differences.",
+  "bullets": [
+    "The Digital-Twin Super Prompt collects scenario details and launches a multi-stakeholder simulation without any coding. This means you can simulate complex negotiations like salary talks just by entering a prompt, like setting up a virtual boardroom where everyone has a role.",
+    "A deterministic state machine uses a fixed nine-question intake script to gather information, ensuring that the model collects exactly what it needs, one answer at a time. This is like a detective asking specific questions to solve a case, making sure no crucial detail is overlooked.",
+    "An explicit output contract outlines the purpose, mode, effort, references, and includes a 'BEGIN ROUND 1' delimiter to maintain the identities of the participants throughout the simulation. Think of it like a referee in a sports game, ensuring everyone plays by the rules and stays in their designated roles.",
+    "In tests, the ChatGPT model o3 acted as a hard-nosed negotiator, while model 4o was friendlier and conceded an extra $6,000. This highlights how different models can impact outcomes, similar to how different salespeople can either push for a hard sell or build rapport to close a deal.",
+    "The framework can be applied to various scenarios, including salary negotiations, product approvals, sales pitches, and board debates. It’s like having a Swiss Army knife for negotiations, where each tool is designed for a specific situation.",
+    "Automatic scorecards, concession ledgers, and post-round analysis are built into the system, creating a learning loop for improving strategies. This is like having a coach review game footage to identify strengths and weaknesses after each match.",
+    "Nate states, 'We’re literally measuring in dollars the dumbness of the model,' emphasizing the importance of evaluating AI performance in financial terms. If you don’t measure outcomes, it’s like playing a game without keeping score—you won’t know if you’re winning or losing.",
+    "Humans struggle to simulate an entire boardroom effectively, but this prompt allows ChatGPT to do it for us. It’s like having a virtual actor who can play multiple roles in a play, making the rehearsal process more efficient.",
+    "The process of creating a deterministic state machine involves asking questions, confirming answers, embedding information, and running the simulation. This is akin to a factory assembly line, where each step is crucial to producing a final product.",
+    "The Digital-Twin Negotiation Builder prompt allows for rehearsing high-stakes conversations without any coding knowledge. This is like learning to drive a car with an automatic transmission—it's user-friendly and accessible to beginners.",
+    "The nine-question intake script ensures that the model gathers necessary information systematically. Think of it like a chef following a recipe step-by-step to ensure the dish turns out perfectly.",
+    "The explicit output contract locks the identities of the participants, preventing drift during the simulation. This is similar to a game where each player has a specific role, ensuring that everyone knows their responsibilities."
+  ],
+  "key_takeaways": [
+    "Implement a Digital-Twin Super Prompt for rehearsing negotiations to enhance your preparation. This method allows you to simulate complex discussions without coding, making you more competitive in high-stakes situations. If you skip this, you risk being unprepared against seasoned negotiators.",
+    "Use the nine-question intake script to gather precise information before a negotiation. This structured approach ensures you don’t miss critical details, much like a detective wouldn’t overlook evidence. Without it, you might enter negotiations blind, leading to poor outcomes.",
+    "Establish an explicit output contract for every simulation to maintain clarity and focus. This keeps the negotiation on track and prevents confusion, similar to having a game plan in sports. If you don’t do this, you may find the conversation drifting off-topic and losing effectiveness.",
+    "Regularly analyze the outcomes of your simulations using automatic scorecards and concession ledgers. This will help you refine your strategies over time, much like a sports team reviewing game footage. If you neglect this analysis, you’ll miss opportunities to improve your negotiation skills."
+  ],
+  "technical_terms": {
+    "Digital-Twin Super Prompt": "A single prompt that collects scenario details and launches a multi-stakeholder simulation without coding. Think of it like a master key that opens multiple doors to different negotiation scenarios.",
+    "Deterministic State Machine": "A system that follows a fixed set of rules to gather information and run simulations. Like a train on a track, it follows a predetermined path to reach its destination without deviation.",
+    "Explicit Output Contract": "A clear agreement that defines the purpose and structure of the output from a simulation. Think of it like a contract for a movie, outlining the roles and responsibilities of each actor.",
+    "Concession Ledger": "A record of concessions made during negotiations, tracking what each party gives up. It’s like a scoreboard that shows who has given more in a negotiation, helping to evaluate fairness.",
+    "Multi-Stakeholder Dialogue": "A conversation involving multiple parties with different interests or stakes in the outcome. Like a town hall meeting where various community members voice their opinions on a new policy.",
+    "Scorecard": "A tool used to evaluate performance in negotiations, often detailing successes and areas for improvement. Think of it like a report card that shows how well you did in a negotiation.",
+    "Intake Script": "A set of predetermined questions designed to gather necessary information before a negotiation. It’s like a checklist for a pilot before takeoff, ensuring everything is in order.",
+    "Simulation": "A practice scenario that mimics real-life situations to prepare for actual events. Like a flight simulator that helps pilots train without leaving the ground.",
+    "Negotiation Builder": "A framework for creating structured negotiations using AI. Think of it like a blueprint for a building, guiding the construction process step by step.",
+    "ChatGPT": "An AI language model that can simulate conversations and provide responses based on prompts. Like a virtual assistant that can help you draft emails or prepare for meetings."
+  },
+  "topics": [
+    "AI",
+    "Negotiation",
+    "Prompt Engineering",
+    "Simulation",
+    "Career Development"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-10T12:32:35.322418+00:00"
+}

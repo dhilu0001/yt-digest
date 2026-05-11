@@ -1,0 +1,71 @@
+{
+  "video_id": "fyHnGHxGuhI",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Why Andrej Karpathy Feels \"Behind\" (And What It Means for Your Career)",
+  "published_at": "2026-01-04T19:00:43Z",
+  "thumbnail": "https://i.ytimg.com/vi/fyHnGHxGuhI/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=fyHnGHxGuhI",
+  "duration": "25m 9s",
+  "view_count": "62476",
+  "like_count": "2254",
+  "has_transcript": false,
+  "executive_summary": "Andrej Karpathy, a prominent figure in AI, expressed feeling 'behind' in the rapidly evolving landscape of technical skills, where the focus has shifted from writing code to orchestrating complex systems. This change signifies a major transition in how technical leverage operates, impacting everyone in the field. Understanding the new skill tree and its implications is crucial for anyone looking to thrive in AI careers by 2026.",
+  "bullets": [
+    "Andrej Karpathy stated he feels 'behind' in the current AI landscape, highlighting a shift in how technical skills are perceived. This feeling reflects a broader trend where even top experts are struggling to keep pace with rapid advancements. It's like a marathon runner suddenly finding themselves in a race where the rules have changed overnight.",
+    "The transition from authorship to orchestration means that effort no longer directly correlates with output. In the past, writing code was the primary measure of productivity, but now it’s about managing and directing complex systems. Think of it like a conductor leading an orchestra instead of a musician playing a single instrument.",
+    "This moment in AI feels like an earthquake because it disrupts long-held beliefs about technical work. The ground is shifting beneath our feet, and those who don't adapt may find themselves left behind. It's similar to how a sudden storm can uproot trees that seemed firmly planted.",
+    "Four key aspects of technical work have fundamentally changed: conditioning, authority, workflows, and compounding. Each of these areas now requires new skills and understanding to navigate effectively. Imagine trying to build a house without knowing the new blueprints; you’ll end up with a structure that can’t stand.",
+    "Level 1 of the new skill tree is conditioning, which involves understanding intent, context, and constraints. This means knowing not just what you want to achieve but also the environment and limitations you're working within. Think of it like a chef knowing the ingredients and kitchen layout before starting to cook.",
+    "Level 2 focuses on authority, which includes verification, provenance, and permissions. In this context, authority is about ensuring that the outputs of AI systems are trustworthy and come from reliable sources. It's like a librarian verifying the authenticity of a rare book before allowing it to be checked out.",
+    "Level 3 is about workflows, which encompass pipelines, failure modes, and observability. This level emphasizes the importance of understanding how tasks flow through a system and where potential failures might occur. Picture a factory assembly line where each step must be monitored to ensure the final product is of high quality.",
+    "Level 4 is compounding, which involves evaluations, feedback loops, and governance. This level highlights how learning and improvement build upon previous experiences, creating a cycle of continuous enhancement. Think of it like a snowball rolling down a hill, growing larger as it collects more snow along the way.",
+    "The analogy of Factorio illustrates the new technical landscape, where players build complex systems by managing resources efficiently. Just as in the game, success in AI now depends on orchestrating various components rather than just creating them. It's like being a city planner who must coordinate roads, utilities, and services to create a thriving community.",
+    "The concept of separating generation from decisioning is crucial, especially when you are accountable for the outputs of large language models (LLMs). This means understanding that just because an AI generates text, it doesn't absolve you of responsibility for its content. It's like a director overseeing a film; they can't blame the actors for the script's flaws.",
+    "In 2026, organizations that develop skill trees focused on separating generation from decisioning will achieve 10X speedups. Those that cling to outdated technical hierarchies will struggle to keep up with the competition. It's akin to a company that refuses to adopt new technology while others race ahead with innovation.",
+    "The old technical boundaries are becoming irrelevant as the abstraction stack has inverted. This means that traditional roles and responsibilities in tech are shifting, requiring everyone to adapt. Imagine a game where the rules change mid-play; players must quickly learn the new dynamics to stay in the game."
+  ],
+  "key_takeaways": [
+    "Develop a skill tree that separates generation from decisioning to stay competitive in the evolving AI landscape. This approach will enable your organization to realize significant speed improvements. If you ignore this shift, you risk falling behind as others adapt and thrive.",
+    "By the end of 2026, ensure that at least 50% of your evaluations focus on code hygiene, including naming conventions and structure, rather than just functionality. This balance is crucial for maintaining quality in your projects. If you neglect this, you may end up with messy, unmanageable code that hinders progress.",
+    "Prioritize understanding the four levels of the new skill tree: conditioning, authority, workflows, and compounding. Each level builds on the previous one, and mastering them is essential for effective AI work. Without this knowledge, you may struggle to navigate the complexities of modern AI systems."
+  ],
+  "technical_terms": {
+    "Conditioning": "The process of understanding intent, context, and constraints in a system. Think of it like a chef knowing the ingredients and kitchen layout before starting to cook.",
+    "Authority": "The ability to verify, trace the origin of, and grant permissions for outputs in AI systems. It's like a librarian verifying the authenticity of a rare book before allowing it to be checked out.",
+    "Workflows": "The structured processes that guide how tasks flow through a system, including potential points of failure. Picture a factory assembly line where each step must be monitored to ensure the final product is of high quality.",
+    "Compounding": "The process of building on previous evaluations and feedback to create a cycle of continuous improvement. Think of it like a snowball rolling down a hill, growing larger as it collects more snow along the way.",
+    "Separation of Generation and Decisioning": "The distinction between creating outputs and making decisions based on those outputs in AI systems. It's like a director overseeing a film; they can't blame the actors for the script's flaws.",
+    "Abstraction Stack": "The layers of complexity in a system that can be simplified or made more complex. Imagine a game where the rules change mid-play; players must quickly learn the new dynamics to stay in the game.",
+    "Feedback Loops": "The cycles of information that allow systems to learn and improve over time. Think of it like a musician practicing; each performance provides insights for better future shows.",
+    "Evals": "Evaluations designed to assess the performance and quality of AI outputs. It's like a teacher grading students; the feedback helps them improve.",
+    "Governance": "The frameworks and policies that guide how AI systems are managed and regulated. Think of it like the rules of a game that ensure fair play.",
+    "Pipelines": "The series of processes that data goes through from input to output in a system. Picture a water treatment plant where water must pass through several stages before it’s clean and drinkable."
+  },
+  "topics": [
+    "AI Skills",
+    "Technical Leverage",
+    "Career Development",
+    "AI Governance",
+    "Skill Trees"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:48:35.648834+00:00"
+}

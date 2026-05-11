@@ -1,0 +1,76 @@
+{
+  "video_id": "3FbqaD1MCUA",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Perplexity Computer Is Incredible. It Won't Matter. Here's Why.",
+  "published_at": "2026-03-19T14:50:29Z",
+  "thumbnail": "https://i.ytimg.com/vi/3FbqaD1MCUA/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=3FbqaD1MCUA",
+  "duration": "30m 5s",
+  "view_count": "63223",
+  "like_count": "1676",
+  "has_transcript": false,
+  "executive_summary": "Perplexity recently launched a new product that some consider the best agentic product of the month, but its core reasoning engine relies on a competitor's model. This situation raises questions about the sustainability of their competitive edge, especially as major players in AI are also developing similar products. The video discusses the implications of this competitive landscape and what positions can survive in the evolving market by February 2026.",
+  "bullets": [
+    "Perplexity has shipped what is described as the best agentic product of the month, but its core reasoning engine operates on a model from a direct competitor. This raises concerns about the long-term viability of their product, akin to a restaurant relying on another chef's secret sauce — it may taste good, but it’s not truly theirs.",
+    "February 2026 is highlighted as a pivotal moment that reshaped the demand signal in the AI landscape. This is like a major earthquake that shifts the tectonic plates of competition, revealing who can adapt and thrive in the new environment.",
+    "The middleware squeeze is occurring from both below and above, meaning that model providers are competing directly with those who provide context platforms. Imagine being stuck in a sandwich where both the bread and filling are trying to outdo each other — it’s a tough spot for anyone in the middle.",
+    "Hyperscalers, or large tech companies, are increasingly targeting the tokens used in AI applications. This is like a giant hungry bear coming into a small campsite looking for food; smaller players need to be cautious about their resources.",
+    "Perplexity's search API, rather than its Computer product, is identified as their real strategic advantage. Think of it as having a reliable GPS in a city full of confusing streets; it helps navigate the competition more effectively.",
+    "To survive in this competitive landscape, builders must ensure their position aligns with the incentives of hyperscalers. It’s like being in a dance where you must move in sync with your partner to avoid stepping on each other’s toes.",
+    "Position one for survival is to know which context to platform. This is like being a skilled chef who knows which ingredients work best together — it’s about creating the right mix for success.",
+    "Position two involves being the infrastructure that agents call upon. Imagine being the foundation of a skyscraper; without a solid base, the entire structure is at risk of collapsing.",
+    "Position three is about owning the customer workflow deeply. This is akin to being the conductor of an orchestra, ensuring every musician plays their part harmoniously to create beautiful music.",
+    "Position four is to own the trust and verification layer. Think of it like being the trusted referee in a game; without trust, the whole match loses its integrity.",
+    "Three blind alleys in middleware are identified, warning against common pitfalls that can trap developers. It’s like wandering into a maze without a map; you can easily get lost and waste valuable time.",
+    "A durable position in the market by 2026 will require a clear understanding of these dynamics and strategic positioning. It’s like preparing for a marathon; without a solid training plan, you risk being left behind."
+  ],
+  "key_takeaways": [
+    "Evaluate your product's core dependencies and ensure they are not reliant on competitors. This matters because a lack of independence can jeopardize your market position. If you don’t, you risk being outpaced by competitors who control their own technology.",
+    "By February 2026, reassess your business model to align with the evolving landscape of AI. This is crucial because the market will have shifted significantly, and failing to adapt could leave you obsolete. Without this foresight, you may find yourself out of touch with industry demands.",
+    "Establish a strategy to own at least one of the four key positions discussed: context platform, infrastructure, customer workflow, or trust layer. This is essential for long-term survival in a competitive market. Neglecting this could lead to being squeezed out by larger players."
+  ],
+  "technical_terms": {
+    "Agentic Product": "A product that acts autonomously or with a degree of independence in decision-making. Think of it like a self-driving car that navigates without human intervention.",
+    "Middleware": "Software that connects different applications or services, allowing them to communicate and work together. Like a translator at a conference, it helps different languages (or systems) understand each other.",
+    "Hyperscalers": "Large technology companies that can scale their services rapidly and efficiently, often dominating the market. Think of them as giant factories that can produce massive quantities of goods at lightning speed.",
+    "Search API": "An application programming interface that allows developers to integrate search functionality into their applications. Like a library catalog system, it helps users find the information they need quickly.",
+    "Trust and Verification Layer": "A system that ensures the authenticity and reliability of data and transactions. Imagine a notary public who verifies signatures to ensure documents are legitimate."
+  },
+  "topics": [
+    "AI Strategy",
+    "Market Dynamics",
+    "Product Development",
+    "Middleware",
+    "Competitive Analysis"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/perplexity-shipped-its-best-product?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/perplexity-shipped-its-best-product?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com",
+      "title": "https://natesnewsletter.substack.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "title": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "title": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:40:26.579677+00:00"
+}

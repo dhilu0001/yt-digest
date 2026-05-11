@@ -1,0 +1,83 @@
+{
+  "video_id": "8lwnJZy4cO0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.",
+  "published_at": "2026-03-16T14:00:11Z",
+  "thumbnail": "https://i.ytimg.com/vi/8lwnJZy4cO0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=8lwnJZy4cO0",
+  "duration": "21m 30s",
+  "view_count": "108543",
+  "like_count": "3223",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the critical management skills needed for AI agents, emphasizing that version control is essential to prevent data loss. He highlights that treating AI agents like unsupervised contractors can lead to significant risks, including the loss of production work. The video outlines five key skills that every 'vibe coder' must master to navigate the challenges of AI development effectively.",
+  "bullets": [
+    "Version control is now the most critical safety habit for AI developers, as it helps prevent catastrophic data loss. Without it, you risk losing up to 2.5 years of data, similar to a chef losing their entire recipe book after years of perfecting dishes.",
+    "AI agents introduce a supervision problem, not just a prompting issue, meaning that simply improving prompts won't solve all challenges. It's like trying to fix a leaky faucet by painting over it — the underlying problem remains.",
+    "The first skill every vibe coder needs is to establish save points and version control. This means creating checkpoints in your work, like a video game where you save your progress before attempting a difficult level.",
+    "Context window limits can silently destroy long agent runs, as they restrict how much information the AI can process at once. Imagine trying to read a novel while only being allowed to see one page at a time — you’d lose the plot entirely.",
+    "Standing orders and rules files are crucial because they provide consistent guidelines that repeated prompting cannot achieve. Think of it like having a set of traffic rules that everyone follows, rather than just reminding drivers to stop at red lights each time.",
+    "Small bets are more effective than sweeping changes, as they allow for testing ideas without risking everything. It's like trying out a new recipe with a small batch before committing to a full dinner party.",
+    "Vibe coders must recognize that AI agents are like powerful contractors who need clear instructions and supervision. If you don't set boundaries, you could end up with a project that spirals out of control, much like a contractor who builds a house without a blueprint.",
+    "The video emphasizes that builders who neglect save points are one bad session away from losing real production work. This is akin to a writer who doesn't back up their manuscript and loses it all after a computer crash.",
+    "Nate notes that there are specific questions your agent will never ask, which can lead to oversight in critical areas. It's like a student who never asks for clarification on an assignment and ends up failing because they misunderstood the requirements.",
+    "The wall vibe coders are hitting in 2026 is primarily a management problem, not a code problem. This is similar to a sports team losing games not because of skill, but due to poor coaching and strategy.",
+    "When to start fresh with an AI project is a key skill, especially when previous attempts have failed. It’s like knowing when to restart a computer instead of trying to fix a frozen program.",
+    "Nate suggests that bringing in a real engineer can be crucial when the situation becomes too complex for vibe coders. This is like calling in a specialist when a general practitioner can't solve a medical issue."
+  ],
+  "key_takeaways": [
+    "Establish version control for all AI projects immediately. This is crucial to prevent catastrophic data loss, as neglecting this could result in losing years of work. Without it, you risk starting from scratch after a single mistake.",
+    "Implement save points in your AI development process to safeguard against data loss. This practice will save you from losing progress on complex projects, much like saving your video game progress before a tough boss battle.",
+    "Create standing orders and rules files to ensure consistency in your AI projects. If you don’t, you may find your agents making unpredictable decisions, akin to a team playing without a coach or game plan.",
+    "Adopt a strategy of making small bets instead of sweeping changes in your AI development. This approach allows for manageable risks and adjustments, preventing you from losing everything if a major change fails.",
+    "Recognize when to bring in a real engineer to assist with complex AI challenges. Ignoring this could lead to a project spiraling out of control, similar to a car breaking down because the driver refuses to ask for directions."
+  ],
+  "technical_terms": {
+    "Version Control": "A system that records changes to files over time, allowing you to revert to previous versions if needed. Think of it like a time machine for your documents, letting you go back to earlier drafts.",
+    "Context Window": "The amount of text or data an AI can process at one time. Like a window that only shows a small part of a larger picture, limiting your view can lead to misunderstandings.",
+    "Standing Orders": "Predefined rules or guidelines that dictate how an AI should behave in certain situations. Think of it like a traffic signal that directs drivers when to stop or go, ensuring safety and order.",
+    "Save Points": "Checkpoints in your work that allow you to save progress and return to that point later. Like saving your game in a video game, it prevents loss of progress during difficult challenges.",
+    "Small Bets": "A strategy of making minor changes or experiments rather than large-scale overhauls. Like testing a new dish in a small portion before serving it at a big dinner, it minimizes risk.",
+    "Agent": "An AI program designed to perform tasks autonomously. Think of it like a robot assistant that can handle specific jobs without constant human oversight.",
+    "Supervision Problem": "The challenge of managing AI agents effectively to ensure they perform as intended. Like a teacher overseeing students during a test to prevent cheating and ensure understanding.",
+    "Rules Files": "Documents that outline the specific behaviors and protocols for AI agents. Think of it like a recipe book that gives step-by-step instructions for cooking a dish.",
+    "Vibe Coding": "A style of coding that emphasizes creativity and intuition over strict rules and structure. Like painting a picture where you focus on expression rather than following a precise blueprint.",
+    "Blast Radius": "The potential impact of a change or decision within a project. Like the area affected by an explosion, understanding this helps manage risks in development."
+  },
+  "topics": [
+    "AI Development",
+    "Management Skills",
+    "Version Control",
+    "AI Agents",
+    "Vibe Coding"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/your-ai-agent-just-mass-deleted-a?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/your-ai-agent-just-mass-deleted-a?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "title": "https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "title": "https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:41:47.282642+00:00"
+}

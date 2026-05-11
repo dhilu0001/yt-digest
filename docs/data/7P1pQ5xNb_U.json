@@ -1,0 +1,71 @@
+{
+  "video_id": "7P1pQ5xNb_U",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Stop executing, start delegating to LLMs! #ai #futureofwork #llm",
+  "published_at": "2026-03-23T03:00:15Z",
+  "thumbnail": "https://i.ytimg.com/vi/7P1pQ5xNb_U/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=7P1pQ5xNb_U",
+  "duration": "1m 35s",
+  "view_count": "8320",
+  "like_count": "343",
+  "has_transcript": false,
+  "executive_summary": "In the evolving landscape of AI, the shift from coding to orchestrating probabilistic systems is crucial, as even experts like Andrej Karpathy feel the pressure. Organizations that adapt to this new skill tree, focusing on separating generation from decision-making, can achieve significant speed improvements by 2026. Those that cling to outdated technical hierarchies risk falling behind rapidly.",
+  "bullets": [
+    "The shift from authorship to orchestration means that effort no longer directly correlates with output. This change is significant because it requires a new way of thinking about productivity. Think of it like a conductor in an orchestra; the conductor doesn't play the instruments but ensures that all musicians work together harmoniously.",
+    "Andrej Karpathy, a prominent figure in AI, admits he feels behind in this new landscape. This highlights that even top experts are struggling to keep pace with rapid changes, emphasizing the need for continuous learning and adaptation. Imagine a seasoned chef suddenly needing to learn molecular gastronomy; the culinary world is evolving, and so must the chefs.",
+    "The four-level skill tree includes conditioning intent and context, which is essential for effective AI deployment. This means understanding what you want from AI and the context in which it operates. It's like setting the right temperature before baking; if you don’t preheat the oven, your cake won't rise properly.",
+    "Compounding through evaluations, feedback loops, and governance is a critical part of the new skill set. This process ensures that AI systems improve over time based on user interactions and oversight. Think of it like training a puppy; consistent feedback helps the puppy learn commands and behave better.",
+    "Separating generation from decision-making is key in accountability for AI outputs. When you delegate tasks to an AI, you must still be responsible for the results it produces. Imagine hiring a contractor to build your house; you still need to ensure the work meets your standards, even if someone else is doing the building.",
+    "Authority in the AI landscape comes from understanding the new abstraction stack, which has changed traditional technical boundaries. This means that roles and responsibilities are shifting, and those who adapt will lead. Think of it like a game of chess; the pieces may move differently, but the goal remains the same.",
+    "Organizations that build skill trees around separating generation from decision-making can achieve 10X speedups. This is crucial for staying competitive in the fast-paced AI environment. It's like upgrading from a bicycle to a motorcycle; the speed and efficiency gains are substantial.",
+    "By 2026, companies that cling to outdated technical versus non-technical hierarchies will likely fall behind. This is a warning that adaptation is not optional; it's essential for survival. Think of it like a business that refuses to go online; they risk losing customers to more tech-savvy competitors.",
+    "The common belief that engineers need to code faster is misleading; the focus should be on orchestration instead. This shift in mindset is vital for future success in AI. Imagine a race car driver; it's not just about how fast they can go, but how well they can navigate the track.",
+    "The concept of 'effort mapping to output' is no longer valid in the AI age. This means that simply working harder does not guarantee better results. Think of it like trying to fill a bucket with a hole in it; no matter how hard you try, the water will keep leaking out unless you fix the hole.",
+    "Technical skills are evolving, and the new skill tree applies to everyone, not just engineers. This democratization of skills means that understanding AI is essential for all roles. It's like learning basic math; everyone needs it, even if you're not a mathematician.",
+    "The video emphasizes the importance of adapting to the new landscape of AI to remain relevant. This is a call to action for all professionals to embrace change and learn new skills. Think of it like a gardener needing to adapt to climate change; those who don’t will see their plants wither."
+  ],
+  "key_takeaways": [
+    "Start building a skill tree that separates generation from decision-making immediately. This will prepare your team for the future and improve efficiency. If you delay, you risk falling behind competitors who are already adapting.",
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, not just functionality. This ensures that your code is maintainable and robust. If you ignore this, your team may end up with messy code that is hard to fix later.",
+    "By the end of this year, prioritize training sessions on orchestration skills for all team members. This will help everyone understand their roles in the new AI landscape. If you skip this, you may find your team unprepared for the changes ahead."
+  ],
+  "technical_terms": {
+    "Orchestration": "The process of managing and coordinating different components of a system to work together effectively. Think of it like a conductor leading an orchestra to ensure all musicians play in harmony.",
+    "Probabilistic systems": "Systems that use probabilities to make predictions or decisions rather than deterministic rules. Like weather forecasting, where predictions are based on likelihood rather than certainties.",
+    "Skill tree": "A structured framework that outlines the skills needed for a particular role or task. Think of it like a video game character development system, where you unlock new abilities as you progress.",
+    "Feedback loops": "Processes where the output of a system is used as input for future operations, allowing for continuous improvement. Like a teacher grading papers and adjusting lessons based on student performance.",
+    "Governance": "The framework of rules and practices that ensure responsible management of a system. Think of it like the rules of a board game that keep players in check and ensure fair play.",
+    "Abstraction stack": "A layered structure that simplifies complex systems by hiding details at lower levels. Like a multi-layer cake, where each layer represents a different level of complexity.",
+    "Code hygiene": "The practice of maintaining clean, readable, and efficient code. Think of it like keeping your kitchen clean while cooking; a tidy workspace makes cooking easier and more enjoyable.",
+    "Evaluation tests": "Tests designed to assess the performance and quality of a system or code. Like a driving test that checks if a driver can safely operate a vehicle.",
+    "Conditioning intent": "The process of defining what you want to achieve with a system before using it. Think of it like setting a destination before starting a road trip; knowing where you're going helps you plan the route.",
+    "Decision-making": "The process of making choices based on information and analysis. Like a captain deciding the best course for a ship based on weather conditions and navigational charts."
+  },
+  "topics": [
+    "AI",
+    "Future of Work",
+    "Skill Development",
+    "Orchestration",
+    "Technical Skills"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:36:28.932613+00:00"
+}

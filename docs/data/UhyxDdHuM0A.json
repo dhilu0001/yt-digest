@@ -1,0 +1,70 @@
+{
+  "video_id": "UhyxDdHuM0A",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Prompting Playbook 2025: 4 Beginner Moves, 12 Pro Patterns",
+  "published_at": "2025-09-09T13:00:55Z",
+  "thumbnail": "https://i.ytimg.com/vi/UhyxDdHuM0A/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=UhyxDdHuM0A",
+  "duration": "30m 14s",
+  "view_count": "10063",
+  "like_count": "447",
+  "has_transcript": false,
+  "executive_summary": "In the video 'Prompting Playbook 2025,' Nate B Jones outlines essential strategies for beginners in AI prompting, emphasizing four foundational moves and twelve advanced insights. Key concepts include defining output shape, treating prompts as contracts, and understanding the role of entropy in design. This comprehensive guide aims to equip newcomers with the skills to compete effectively in the AI landscape.",
+  "bullets": [
+    "Effective prompting boils down to four beginner moves: define the shape of the output, give minimal but sufficient context, suggest a silent plan, and add a quick self-check. These moves drastically improve reliability, making your prompts more effective. Think of it like building a house: you need a solid blueprint, the right materials, a plan for construction, and a final inspection to ensure everything is in order.",
+    "The true unit of design in AI prompting isn’t the individual prompt but the pipeline. This means that prompts should fit into a broader architecture that includes retrieval, memory, and evaluation. Imagine a factory assembly line where each part must fit perfectly into the next; if one piece is out of sync, the whole process can break down.",
+    "Treat prompts like contracts with the AI, where clear output specifications matter more than the prose used. This clarity ensures that the AI understands exactly what is expected, leading to better results. It's like a legal contract: if the terms are vague, disputes arise; if they are clear, everyone knows their responsibilities.",
+    "Scaffolding techniques often outperform raw horsepower in efficiency and quality. This means that having a good structure in place can lead to better outcomes than simply relying on the AI's processing power. Think of it like building a skyscraper: a strong scaffold allows for a stable and safe construction process, while sheer force alone won't hold it up.",
+    "Understanding entropy as a design variable is crucial because all prompting tools—like temperature, constraints, examples, and schemas—shape the probability distribution of outputs. This means that how you set these parameters can significantly influence the results you get. It's like adjusting the dials on a washing machine; the settings you choose determine how clean your clothes come out.",
+    "Governance is more important than heroics in AI prompting. As distribution shifts can break your best prompts, sustainable success requires versioning, monitoring, and automated enforcement. Think of it like maintaining a garden: regular care and monitoring prevent weeds from taking over, while relying on a one-time effort will lead to chaos.",
+    "Token budgets, latency, and fallback logic are first-class design constraints that need to be considered in AI prompting. Simplicity and efficiency should guide your architectural choices, rather than just the power of the model. Imagine packing for a trip: you need to balance what you want to bring with the weight limit of your luggage; otherwise, you’ll be stuck with a heavy bag that’s hard to carry.",
+    "Different models excel at different tasks, which is why advanced practitioners use multiple models in production environments. This approach helps balance cost, efficiency, and quality, ensuring the best outcomes for various tasks. Think of it like a toolbox: having a variety of tools allows you to tackle different jobs more effectively than relying on just one.",
+    "The concept of 'entropy' in AI prompting refers to the uncertainty or randomness in the output generation process. Understanding how to manipulate entropy can give you leverage in controlling the AI's responses. It's like adjusting the temperature in a recipe; too much heat can burn the dish, while too little can leave it undercooked.",
+    "The importance of context in prompting is likened to a supply chain, where each piece of information feeds into the next. Providing minimal yet sufficient context ensures that the AI has what it needs to generate relevant outputs. Think of it like a relay race: each runner needs to know when to start and what direction to go; otherwise, the team will falter.",
+    "The phrase 'scaffolding beats horsepower' emphasizes that good structure is more important than brute force in AI prompting. This means that having a well-thought-out prompt structure can yield better results than simply relying on a powerful AI model. Imagine trying to lift a heavy object: having a proper lifting technique is more effective than just using sheer strength.",
+    "The quote 'Governance beats heroics' highlights the need for sustainable practices in AI prompting. This means that relying on clever one-off prompts is not a long-term strategy; instead, you should focus on creating a system that can adapt and thrive over time. It's like a sports team: relying on a single star player can lead to short-term wins, but a well-coached team with solid strategies will achieve lasting success."
+  ],
+  "key_takeaways": [
+    "Implement the four beginner moves in your prompting strategy: define output shape, provide minimal context, suggest a silent plan, and add self-checks. These foundational steps will enhance the reliability of your prompts, making them more effective in generating desired outcomes. Skipping these steps could lead to inconsistent and unreliable AI responses.",
+    "Establish a governance framework for your AI prompts, focusing on versioning, monitoring, and automated enforcement. This will help maintain the effectiveness of your prompts over time, especially as distribution shifts occur. Without governance, you risk relying on outdated or broken prompts that can lead to poor performance.",
+    "By the end of the year, aim to integrate multiple models into your production environment to balance cost, efficiency, and quality. This will prepare you for a competitive landscape where different tasks require different approaches. Failing to diversify your models could leave you at a disadvantage against more adaptable practitioners."
+  ],
+  "technical_terms": {
+    "prompt engineering": "The process of designing and refining prompts to effectively communicate with AI models. Think of it like crafting a message in a bottle that needs to be clear enough for the recipient to understand.",
+    "pipeline": "A structured sequence of processes that AI prompts fit into, including retrieval, memory, and evaluation. Like an assembly line in a factory, each stage must work together to produce the final product.",
+    "entropy": "A measure of uncertainty or randomness in the output generation process of AI. Think of it like the unpredictability of a dice roll; adjusting the parameters can influence the outcome.",
+    "scaffolding": "Techniques used to provide structure and support in prompt design, often leading to better results than relying solely on AI power. Like the framework used in construction, it helps maintain stability and order.",
+    "governance": "The practices and policies that ensure the effective management and oversight of AI prompts. Think of it like the rules of a game that keep everything fair and organized.",
+    "token budget": "The limit on the number of tokens (words or characters) that can be used in a prompt or response. Like a budget for groceries, it requires careful planning to ensure you get what you need without overspending.",
+    "model pluralism": "The practice of using multiple AI models to handle different tasks based on their strengths. Like having a diverse team with various skills, it allows for more effective problem-solving.",
+    "fallback logic": "A strategy for handling situations where the primary prompt fails, ensuring that there is a backup plan in place. Think of it like a safety net in a circus act; if the performer slips, the net catches them.",
+    "output shape": "The specific format or structure that the desired output from an AI prompt should take. Like a mold for shaping clay, it determines the final form of the result.",
+    "context supply chain": "The flow of information that provides the necessary background for AI prompts, ensuring they are relevant and effective. Like the supply chain for a restaurant, where ingredients must arrive fresh and on time for the meal to be successful."
+  },
+  "topics": [
+    "AI prompting",
+    "prompt engineering",
+    "machine learning",
+    "AI governance"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/the-only-prompt-engineering-guide?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/the-only-prompt-engineering-guide?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T17:50:52.038133+00:00"
+}

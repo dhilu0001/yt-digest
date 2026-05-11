@@ -1,0 +1,71 @@
+{
+  "video_id": "KwQpPbLEBMA",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Here's How to Solve the 6 Top Prompt Issues (Based on 29,000 OpenAI Comments)",
+  "published_at": "2025-11-06T15:00:39Z",
+  "thumbnail": "https://i.ytimg.com/vi/KwQpPbLEBMA/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=KwQpPbLEBMA",
+  "duration": "11m 24s",
+  "view_count": "8139",
+  "like_count": "388",
+  "has_transcript": false,
+  "executive_summary": "In the video by Nate B Jones, he identifies six common failure patterns in AI workflows, emphasizing that most errors stem from design issues rather than model failures. He highlights the importance of 'schema-first prompting' and offers solutions to problems like infinite regeneration loops and context overload. The insights are based on 29,000 comments from OpenAI users, providing a comprehensive look at how to improve AI interactions.",
+  "bullets": [
+    "The first major issue is that 'schema-first prompting' can fix most misunderstood outputs. This means that by structuring prompts with clear expectations, AI can better understand what you want. Think of it like giving a chef a detailed recipe instead of just saying 'make something good.'",
+    "Infinite regeneration loops in ChatGPT can be stopped by using specific constraints in your prompts. When prompts are too vague, the AI keeps trying to generate an answer but never settles on one. It's like a dog chasing its tail — it just keeps going in circles without getting anywhere.",
+    "Planning and confidence illusions in large language models can cause them to appear more certain than they actually are. This happens when the AI presents information confidently, even if it's incorrect. Imagine a student who speaks loudly in class; just because they sound sure doesn’t mean they have the right answer.",
+    "Context overload can quietly destroy consistency in AI outputs. When too much information is provided at once, the AI struggles to maintain focus and coherence. It's like trying to read a book while someone is blasting music in the background — you can't concentrate on the story.",
+    "Drift in context refers to how AI can lose track of the original topic over time. This happens when responses start to veer off from the initial prompt. Think of it like a road trip where you take a wrong turn; soon, you're far from your intended destination.",
+    "Most AI errors are not due to model failures but rather design errors in how we prompt and plan. This means that improving our approach can lead to better results. It's like fixing a leaky faucet; if you address the source of the leak, the problem goes away.",
+    "Nate emphasizes that a good human engineer wrote the prompts, which is crucial for effective AI interactions. This highlights the importance of human oversight in AI processes. Think of it like having a skilled conductor lead an orchestra; without them, the music can quickly become chaotic.",
+    "The video suggests that many users misunderstand the capabilities of AI, leading to unrealistic expectations. This misunderstanding can result in frustration and ineffective use of the technology. It's like expecting a toddler to run a marathon; they simply aren't ready for that level of complexity.",
+    "Nate notes that AI models can appear to reason but often lack true understanding. This can lead to outputs that seem logical but are fundamentally flawed. Imagine a parrot repeating phrases; it sounds smart, but it doesn't grasp the meaning behind the words.",
+    "The importance of specificity in prompts cannot be overstated. Vague prompts lead to vague answers, which can derail the entire interaction. It's like asking a painter to create art without specifying a theme; the result may not align with your vision.",
+    "By the end of the year, users should implement structured prompting techniques to enhance AI performance. This proactive approach can significantly reduce errors and improve outcomes. If you wait too long to adopt these strategies, you risk falling behind in the rapidly evolving AI landscape.",
+    "Nate's insights are based on feedback from 29,000 OpenAI comments, providing a rich dataset for understanding user experiences. This large sample size lends credibility to his findings. It's like conducting a survey with thousands of participants; the results are more reliable than a small group."
+  ],
+  "key_takeaways": [
+    "Implement 'schema-first prompting' in your AI interactions. This structured approach will lead to clearer and more accurate outputs. Skipping this step may result in misunderstandings and wasted time.",
+    "Set a rule that at least 50% of your evaluation tests must check for context consistency. This ensures that your AI remains focused and relevant in its responses. If you neglect this, you risk getting inconsistent and confusing outputs.",
+    "By the end of the year, prioritize adopting structured prompting techniques to enhance AI performance. This will help you stay competitive in the field. Delaying this implementation could leave you behind as others improve their AI strategies."
+  ],
+  "technical_terms": {
+    "schema-first prompting": "A method of structuring prompts with clear expectations to improve AI understanding. Think of it like giving a chef a detailed recipe instead of just saying 'make something good.'",
+    "infinite regeneration loop": "A situation where the AI continuously generates responses without settling on a final answer due to vague prompts. It's like a dog chasing its tail — it just keeps going in circles without getting anywhere.",
+    "context overload": "When too much information is provided at once, causing the AI to struggle with focus and coherence. It's like trying to read a book while someone is blasting music in the background — you can't concentrate on the story.",
+    "drift in context": "The phenomenon where AI loses track of the original topic over time, leading to irrelevant responses. Think of it like a road trip where you take a wrong turn; soon, you're far from your intended destination.",
+    "confidence illusion": "When AI presents information with high certainty, even if it is incorrect. Imagine a student who speaks loudly in class; just because they sound sure doesn’t mean they have the right answer.",
+    "human oversight": "The involvement of skilled individuals in the AI process to ensure effective interactions. Think of it like having a skilled conductor lead an orchestra; without them, the music can quickly become chaotic.",
+    "vague prompts": "Unclear or ambiguous requests made to the AI, leading to unsatisfactory responses. It's like asking a painter to create art without specifying a theme; the result may not align with your vision.",
+    "user feedback": "Comments and suggestions from users that provide insights into their experiences with AI. It's like conducting a survey with thousands of participants; the results are more reliable than a small group.",
+    "large language models": "Advanced AI systems designed to understand and generate human-like text based on input. Think of them like a very smart parrot that can mimic human speech but doesn't truly understand the meaning.",
+    "evaluation tests": "Assessments used to measure the performance and accuracy of AI systems. It's like a teacher grading students to see how well they understand the material."
+  },
+  "topics": [
+    "AI workflows",
+    "prompt engineering",
+    "user feedback",
+    "AI errors",
+    "large language models"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/the-prompt-doctor-is-in-fixes-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/the-prompt-doctor-is-in-fixes-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T16:51:56.844626+00:00"
+}

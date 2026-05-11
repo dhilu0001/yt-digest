@@ -1,0 +1,71 @@
+{
+  "video_id": "T74uZgfu6mU",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)",
+  "published_at": "2026-01-02T15:00:50Z",
+  "thumbnail": "https://i.ytimg.com/vi/T74uZgfu6mU/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=T74uZgfu6mU",
+  "duration": "18m 45s",
+  "view_count": "18369",
+  "like_count": "759",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones discusses the complexities of AI agents, emphasizing that the real issue is not just hallucinations or lack of context, but a hidden gap in understanding intent. He argues that while large language models (LLMs) are trained to produce plausible text, they often fail to grasp the user's true priorities, which can lead to unreliable outcomes. To succeed in building effective AI agents by 2026, developers must learn to clearly communicate intent throughout the process.",
+  "bullets": [
+    "AI agents struggle with reliable execution because 'LLMs are trained for plausible text, not understanding your priorities.' This means they can generate text that sounds good but may not align with what you actually need. Think of it like a chef who can make a beautiful dish but doesn't know your dietary restrictions.",
+    "'Intent is not in the text the way context is,' highlighting that while context can be derived from surrounding words, intent often remains hidden. This is like trying to find a hidden treasure in a vast ocean; you need a map (intent) to know where to dive.",
+    "Despite advancements, we are 'still wrestling with intent,' indicating that the problem is persistent and complex. It's like trying to fix a car without understanding the engine; you might make it run better, but without knowing the root cause, the problem will return.",
+    "Working around the intent problem is different from solving it, which means temporary fixes won't lead to long-term success. This is like putting a band-aid on a broken leg; it may cover the wound, but it won't heal the fracture.",
+    "Active task disambiguation and clarification loops are essential for improving AI agents. These loops help clarify what the user means, similar to a translator asking for clarification when a phrase doesn't make sense in context.",
+    "Treating intent as probabilistic allows for a more flexible understanding of user needs. This is akin to predicting the weather; while you can forecast rain, it doesn't guarantee it will rain at the exact moment you step outside.",
+    "Making intent a separate document can help clarify and communicate priorities more effectively. Think of it like having a detailed blueprint before starting construction; it ensures everyone knows the plan and reduces misunderstandings.",
+    "More context won't save us from the intent problem, as context alone can't bridge the gap in understanding priorities. It's like having a detailed recipe without knowing what dish you're trying to make; the ingredients won't help if you don't know the goal.",
+    "We're nearing a breakthrough on intent, which means solutions are on the horizon. This is similar to scientists being on the verge of a major discovery; they can see the light at the end of the tunnel.",
+    "Learning from crypto-style solvers can provide insights into intent-based systems. This is like studying how a successful business operates to improve your own; you can adopt best practices that lead to better outcomes.",
+    "Practical advice includes separating interpretation from execution to reduce errors in AI agents. This is like having a dedicated editor review a manuscript before publishing; it ensures clarity and accuracy.",
+    "Externalizing intent as an updatable artifact allows for ongoing adjustments based on user feedback. Think of it like a living document that evolves over time, ensuring it remains relevant and effective."
+  ],
+  "key_takeaways": [
+    "Establish a clear method for communicating intent in your AI projects. This is crucial because without clarity, you risk developing agents that produce results that seem correct but are fundamentally flawed. Ignoring this could lead to wasted resources and frustrated users.",
+    "Aim to implement active task disambiguation loops in your AI systems within the next 4-5 months. This will help clarify user intent and improve the reliability of outcomes. If you delay, you may find your agents continue to misinterpret user needs.",
+    "Create a separate document for intent that can be updated as projects evolve. This will help keep everyone aligned on priorities and reduce misunderstandings. Without this, your team may work towards different goals, leading to inconsistent results."
+  ],
+  "technical_terms": {
+    "LLMs": "Large Language Models are AI systems designed to generate human-like text based on input. Think of it like a parrot that can mimic human speech but doesn't understand the meaning behind the words.",
+    "Intent": "Intent refers to the underlying goals or priorities that a user has when interacting with an AI system. Like a compass pointing north, it guides the direction of the AI's responses.",
+    "Context": "Context is the surrounding information that helps clarify the meaning of a statement or request. It's like the background scenery in a photo that helps you understand the main subject better.",
+    "Disambiguation Loops": "Disambiguation loops are processes that clarify ambiguous requests by asking for more information. Think of it like a detective asking follow-up questions to get to the bottom of a mystery.",
+    "Probabilistic": "Probabilistic means dealing with uncertainty and making educated guesses based on available data. Like a weather forecast predicting rain based on patterns, it doesn't guarantee outcomes but provides a likelihood.",
+    "Reinforcement Learning": "Reinforcement Learning is a type of machine learning where an AI learns by receiving rewards or penalties based on its actions. It's like training a dog with treats; good behavior gets rewarded, while bad behavior doesn't.",
+    "Crypto-style Solvers": "Crypto-style solvers are algorithms used in decentralized finance that help make decisions based on user intent. Think of it like a smart contract that executes automatically when certain conditions are met.",
+    "Active Task Clarification": "Active task clarification involves engaging users to ensure their requests are understood correctly. It's like a waiter repeating your order back to you to confirm it before placing it.",
+    "Externalizing Intent": "Externalizing intent means documenting user goals separately from the execution process. Like keeping a project journal, it helps track changes and updates over time.",
+    "Artifact": "An artifact is a tangible representation of information or intent that can be referenced or updated. Think of it like a blueprint for a building that can be modified as construction progresses."
+  },
+  "topics": [
+    "AI Agents",
+    "Intent Understanding",
+    "Machine Learning",
+    "Disambiguation",
+    "Reinforcement Learning"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:51:46.596796+00:00"
+}

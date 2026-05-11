@@ -1,0 +1,72 @@
+{
+  "video_id": "gXbTh70m_q0",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "AI Didn't Kill Engineering: It Raised the Bar",
+  "published_at": "2025-08-26T13:01:15Z",
+  "thumbnail": "https://i.ytimg.com/vi/gXbTh70m_q0/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=gXbTh70m_q0",
+  "duration": "20m 6s",
+  "view_count": "21431",
+  "like_count": "1236",
+  "has_transcript": false,
+  "executive_summary": "In the video 'AI Didn't Kill Engineering: It Raised the Bar,' Nate B Jones emphasizes that while AI can generate code, true engineering requires careful design elements like invariants and reliability. He argues that the focus is shifting from who can code to who can engineer, highlighting the importance of human skills and new engineering disciplines in the AI era.",
+  "bullets": [
+    "AI can write code, but it cannot create engineered systems that require invariants, interfaces, and safety cases. This distinction is crucial because engineered systems must be reliable under load, much like a bridge that needs to support heavy traffic without collapsing.",
+    "The divide in the tech world is shifting from 'who can code' to 'who can engineer.' This means that simply knowing how to write code is no longer enough; you must also understand how to design systems that work together, like a conductor leading an orchestra to ensure all instruments play in harmony.",
+    "Engineers are responsible for translating intent into specifications and converting probabilistic behavior into contracts. This is like a chef who must follow a recipe to ensure a dish turns out as expected, even if the ingredients vary slightly.",
+    "New disciplines are emerging in engineering, including semantic, boundary, memory/knowledge, and safety assurance engineering. These fields are essential for managing issues like injection attacks and model drift, similar to how a gardener must understand different plant types and their needs to cultivate a thriving garden.",
+    "Enduring human skills such as system intuition and empathy for messy human use are vital for engineering success. Just as a good teacher understands the unique learning styles of each student, engineers must consider how real users will interact with their systems.",
+    "Judgment under uncertainty is a key skill for engineers, especially when managing complex toolchains. This is akin to a pilot making quick decisions in a storm, where the stakes are high and the outcome is uncertain.",
+    "Demos are not enough; production systems require observability, telemetry, and semantic forensics. This is like a car that looks good on the showroom floor but must also pass rigorous safety tests before it can be driven on the road.",
+    "For a system to be considered engineered, it must have measurable performance in production. If you can't measure it, it's like trying to run a race without a stopwatch—you won't know if you're improving or falling behind.",
+    "If you can't explain a system's failure, you don't truly own it. This is similar to a ship captain who can't account for a leak; without understanding the problem, they can't effectively steer the ship to safety.",
+    "Nate B Jones emphasizes three laws for AI-era engineering: 1) No invariants → not engineered; 2) Not measurable in production → not built; 3) Can't explain failure → you don't own it. These laws serve as a guiding framework for engineers, much like the rules of a game that must be followed to play it correctly.",
+    "Engineered systems must be designed with accountability in mind, as AI amplifies the responsibilities of engineers. This is like a parent who must ensure their child is not only safe but also learning and growing in a supportive environment.",
+    "The implementation costs for engineering practices are expected to decrease significantly, making it easier for teams to adopt best practices. If teams ignore this trend, they risk falling behind as competitors leverage more efficient and effective engineering strategies."
+  ],
+  "key_takeaways": [
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, including naming, structure, and function length. Most teams currently have this split backwards at 80/20, which can lead to messy, unmaintainable code.",
+    "By the end of the year, focus on integrating new engineering disciplines like safety assurance and semantic engineering into your workflow. If you don't adapt, you risk being outpaced by teams that are better equipped to handle the complexities of AI-driven systems.",
+    "Ensure that every system you build has clearly defined invariants and measurable performance metrics. Without these, you won't be able to effectively manage or improve your systems, leaving you vulnerable to failures."
+  ],
+  "technical_terms": {
+    "invariants": "Conditions that must always be true in a system to ensure its correctness. Think of it like the rules of a game that must be followed to keep the game fair and functional.",
+    "interfaces": "Defined points of interaction between different components of a system. Like a plug that fits into a socket, interfaces allow different parts to connect and communicate effectively.",
+    "safety cases": "Documents that outline how a system will remain safe under various conditions. Think of it like an emergency plan that details what to do in case of a fire, ensuring everyone knows how to stay safe.",
+    "observability": "The ability to measure and understand the internal state of a system based on its outputs. Like a doctor using vital signs to assess a patient's health, observability helps engineers diagnose issues.",
+    "telemetry": "The automated process of collecting data from remote or inaccessible sources. Think of it like a weather station that sends real-time updates about temperature and humidity to help people prepare for the day.",
+    "semantic forensics": "The analysis of data to understand its meaning and context. Like a detective piecing together clues from a crime scene, semantic forensics helps engineers uncover the reasons behind system behaviors.",
+    "model drift": "The phenomenon where a machine learning model's performance degrades over time due to changes in the underlying data. Think of it like a plant that needs regular watering; without care, it wilts and fails to thrive.",
+    "probabilistic systems": "Systems that operate based on probabilities rather than certainties. Like rolling dice, the outcomes can vary, and engineers must account for this uncertainty in their designs.",
+    "economic engineering": "The practice of designing systems with cost-effectiveness in mind. Think of it like budgeting for a family vacation; you want to maximize fun while minimizing expenses.",
+    "emergent behavior": "Unexpected behaviors that arise from the interaction of simpler components in a system. Like a flock of birds that moves in unison without a leader, emergent behavior can be difficult to predict.",
+    "human-in-the-loop": "A design approach that incorporates human judgment into automated systems. Like a pilot monitoring an autopilot system, this ensures that human oversight is maintained in critical situations."
+  },
+  "topics": [
+    "AI",
+    "Engineering",
+    "Software Development",
+    "Human Skills",
+    "System Design"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://open.substack.com/pub/natesnewsletter/p/software-engineering-isnt-dead-its?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://open.substack.com/pub/natesnewsletter/p/software-engineering-isnt-dead-its?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T18:00:12.826408+00:00"
+}

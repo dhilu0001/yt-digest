@@ -1,0 +1,61 @@
+{
+  "video_id": "gHfZkXz6hOc",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Prompts won't work well until you know this! #ai #promptengineering #openai #aiforbusiness #chatgpt",
+  "published_at": "2025-10-11T03:00:48Z",
+  "thumbnail": "https://i.ytimg.com/vi/gHfZkXz6hOc/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=gHfZkXz6hOc",
+  "duration": "56s",
+  "view_count": "3762",
+  "like_count": "140",
+  "has_transcript": false,
+  "executive_summary": "OpenAI's prompt pack for teams includes 200 ready-to-use prompts, but their effectiveness is limited without proper understanding and education in prompt engineering. As organizations adopt AI in 2025 and 2026, teams must align their prompt strategies with real-world workflows to avoid being trapped in AI's 'messy middle.' The need for hands-on experience and specific use cases is critical for effective AI implementation.",
+  "bullets": [
+    "OpenAI's prompt pack contains 200 prompts designed for teams, but many users find that these prompts do not work effectively without a deeper understanding of prompt engineering. This is like trying to drive a car without knowing how to steer; you may have the vehicle, but you won't get far without the skills to control it.",
+    "Teams that rely on one-line prompts often find themselves stuck in what is called AI's 'messy middle.' This is similar to trying to bake a cake without following a recipe; you might end up with a mix that doesn't rise properly because you skipped essential steps.",
+    "Grounding prompt engineering in actual workflow pain is essential for teams to succeed with AI. Imagine a doctor diagnosing a patient; without understanding the symptoms, they can't prescribe the right treatment, just as teams need to identify their specific challenges to use AI effectively.",
+    "Hands-on work has revealed differences between GPT-5 and Claude, indicating that practical experience is crucial for understanding AI capabilities. It's like testing two different car models on a racetrack; only through real-world trials can you see which one performs better under pressure.",
+    "Managers should start by identifying specific use cases for AI within their organization. This is akin to a chef deciding on a menu before shopping for ingredients; without a clear plan, you risk buying unnecessary items that won't contribute to the final dish.",
+    "Training that is too shallow can leave teams behind in the rapidly evolving AI landscape. Think of it like learning to swim; if you only practice in shallow water, you won't be prepared for the deep end where the real challenges lie.",
+    "By 2025 and 2026, organizations will need to adapt their AI strategies to keep pace with advancements in large language models (LLMs). This is like upgrading your phone; if you don't keep up with the latest technology, you'll miss out on features that could make your life easier.",
+    "Effective AI implementation requires teams to view LLMs as workflow engines rather than mere search tools. This is like using a blender to make a smoothie; if you only use it to mix ingredients without understanding how it works, you won't achieve the desired consistency.",
+    "The speaker emphasizes that 'a good human engineer wrote this' is becoming a weaker claim in the context of AI. This is like saying a chef made a dish without explaining how they sourced the ingredients; it raises questions about quality and authenticity.",
+    "The video suggests that teams should focus on upskilling their members to handle AI tools effectively. Imagine a gardener learning to use new tools; without proper training, they might harm their plants instead of helping them grow.",
+    "The speaker highlights that many teams currently have an evaluation test split of 80% functionality and only 20% hygiene. This is like a car mechanic only checking if the engine runs, neglecting to ensure the brakes work; both aspects are crucial for safety and performance.",
+    "To avoid being trapped in AI's messy middle, teams must continuously educate themselves on prompt engineering. Think of it like a musician practicing daily; without consistent effort, their skills will stagnate and they won't be able to perform at their best."
+  ],
+  "key_takeaways": [
+    "Identify specific use cases for AI in your organization. This matters because it provides a clear direction for your AI strategy. If you skip this step, you risk wasting resources on irrelevant tools and prompts.",
+    "Ensure that at least 50% of your evaluation tests focus on code hygiene, not just functionality. This is crucial because neglecting code quality can lead to long-term maintenance issues. If you don't address this, your codebase may become unmanageable over time.",
+    "By the end of 2025, organizations must adapt their AI strategies to keep pace with advancements in LLMs. This is essential to remain competitive in the market. Failing to do so could result in falling behind more innovative competitors."
+  ],
+  "technical_terms": {
+    "prompt engineering": "The process of designing and refining prompts to effectively communicate with AI models. Think of it like crafting a well-written letter to a friend; the clearer and more specific your message, the better the response you'll receive.",
+    "large language models (LLMs)": "Advanced AI systems designed to understand and generate human-like text based on vast amounts of data. Like a library filled with books, the more information the model has, the better it can respond to questions and prompts.",
+    "workflow engines": "Tools or systems that automate and streamline business processes. Think of it like a conveyor belt in a factory; it moves items efficiently from one stage of production to another without manual intervention.",
+    "hands-on work": "Practical experience gained through direct involvement in tasks or projects. Like learning to ride a bike, you can read all the instructions, but you won't truly master it until you get on and practice.",
+    "upskilling": "The process of teaching employees new skills to enhance their capabilities. This is like a chef learning new cooking techniques to improve their dishes; without continuous learning, they may fall behind in culinary trends.",
+    "evaluation tests": "Assessments designed to measure the quality and performance of code or systems. Think of it like a fitness test; if you only check how fast someone can run without assessing their overall health, you miss important indicators.",
+    "code hygiene": "The practice of maintaining clean, organized, and efficient code. Like keeping a kitchen tidy; if you don't clean as you go, it becomes chaotic and harder to work in.",
+    "messy middle": "A state where teams struggle to effectively implement AI due to a lack of understanding and proper strategies. This is like being lost in a maze; without a clear path, you can easily become disoriented and frustrated.",
+    "AI strategy": "A plan for how an organization will integrate and utilize AI technologies. Think of it like a roadmap for a road trip; without it, you might end up lost or taking longer routes.",
+    "Claude": "An AI model that is compared to OpenAI's GPT-5 in terms of capabilities. Like comparing two different brands of smartphones; each has unique features that may appeal to different users."
+  },
+  "topics": [
+    "AI strategy",
+    "prompt engineering",
+    "team training",
+    "large language models",
+    "workflow automation"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T17:20:49.216913+00:00"
+}

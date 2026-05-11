@@ -1,0 +1,71 @@
+{
+  "video_id": "aZsJy0Jm8lU",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Change Your Quality Definition, Change Your AI #ai #aiarchitecture  #promptengineering  #agenticai",
+  "published_at": "2026-01-30T04:00:02Z",
+  "thumbnail": "https://i.ytimg.com/vi/aZsJy0Jm8lU/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=aZsJy0Jm8lU",
+  "duration": "1m 23s",
+  "view_count": "3625",
+  "like_count": "172",
+  "has_transcript": false,
+  "executive_summary": "In the video by Nate B Jones, he emphasizes that AI projects often fail not because the models are inadequate, but because the definition of 'correctness' is unclear. He argues that establishing a clear standard for correctness is crucial for effective AI architecture and project success, as vague definitions lead to unreliable outcomes and stalled adoption, particularly in tools like Microsoft Copilot.",
+  "bullets": [
+    "Correctness is the foundation of every AI architecture decision, according to Nate B Jones. Without a clear definition of what 'correct' means, every choice made later in the project becomes meaningless. Think of it like building a house without a blueprint; you might end up with walls in the wrong places.",
+    "Undefined quality in AI systems leads to confusion and failure, as highlighted in the video. When teams don't have a concrete understanding of quality, they struggle to make effective decisions, much like trying to navigate a city without a map — you might end up lost.",
+    "Humans often change definitions midstream, which creates blame for the system's unreliability. This is like a soccer game where the referee suddenly changes the rules halfway through; players become frustrated and confused about what is expected.",
+    "Nate B Jones distinguishes between normal software and probabilistic AI systems, noting that AI systems operate on probabilities rather than certainties. This is akin to weather forecasting, where predictions are based on likelihoods rather than guarantees.",
+    "The first-order decision in AI projects is defining what 'correct' means, as stated in the video. If this foundational aspect is overlooked, the entire project can falter, similar to a recipe that fails because the main ingredient is not specified.",
+    "When structured and unstructured data collide, challenges arise in defining correctness. This situation is like mixing oil and water; without proper integration, neither can function effectively.",
+    "A hidden failure mode in AI projects is that humans often move goalposts, which complicates achieving correctness. Imagine a race where the finish line keeps moving; it becomes impossible for runners to know when they have truly succeeded.",
+    "Sales pipeline probability estimates serve as a practical example of how vague definitions can lead to inaccuracies. If a sales team estimates a deal's likelihood without a clear metric, it's like guessing the weight of a package without using a scale — the results can be wildly off.",
+    "Hallucinations in AI are identified as a correctness problem rather than a model problem. This is like a person who misremembers events; the issue lies in their perception, not in the actual events.",
+    "Goodhart's Law states that when a measure becomes a target, it ceases to be a good measure. This is like a student who studies only for exams; they might pass but miss out on truly learning the material.",
+    "Models often struggle with multi-turn conversations due to unclear definitions of correctness. It's similar to a game of telephone where the message gets distorted with each pass; clarity is lost over time.",
+    "Reward hacking in AI reveals insights about emotional relationships with AI systems. If users manipulate the system for their gain, it's like a child who learns to cheat on a test instead of studying; the true purpose of learning is undermined."
+  ],
+  "key_takeaways": [
+    "Define what 'correct' means for your AI project right now. Without this clarity, your team will struggle to make effective decisions, leading to project failures and stalled adoption.",
+    "Set a rule that at least 50% of your evaluation tests must check for code hygiene, such as naming and structure, rather than just functionality. If you don't, your team may focus too much on whether the code works and neglect important quality aspects.",
+    "By the end of the year, ensure that your AI models can handle multi-turn conversations effectively. If you skip this, you risk creating systems that frustrate users and fail to meet their expectations."
+  ],
+  "technical_terms": {
+    "Correctness": "The standard by which the success of an AI system is measured, encompassing claims, evidence, and penalties for failure. Think of it like a scoreboard in a game that clearly shows who is winning and by how much.",
+    "Probabilistic AI Systems": "AI systems that operate based on probabilities rather than certainties, meaning they provide likelihoods of outcomes instead of guaranteed results. Like predicting the weather, where forecasts are based on chances rather than certainties.",
+    "Goodhart's Law": "A principle stating that when a measure becomes a target, it loses its effectiveness as a measure. Think of it like a student who only studies for tests; they might pass but miss out on truly learning the material.",
+    "Reward Hacking": "Manipulating an AI system to achieve desired outcomes in ways that may not align with the system's intended purpose. Like a child who learns to cheat on a test instead of actually studying.",
+    "Sales Pipeline Probability Estimates": "Estimates that indicate the likelihood of closing sales deals, which can be inaccurate if not based on clear metrics. It's like guessing the weight of a package without using a scale — the results can be wildly off.",
+    "Hallucinations": "Instances where AI systems produce incorrect or nonsensical outputs, often due to unclear definitions of correctness. Like a person misremembering events; the issue lies in their perception, not in the actual events.",
+    "Multi-Turn Conversations": "Interactions where the AI engages in a dialogue that requires understanding context over multiple exchanges. It's similar to a game of telephone where the message gets distorted with each pass.",
+    "Structured Data": "Data that is organized in a defined format, making it easy to analyze, like a neatly arranged filing cabinet. Think of it like a library where books are sorted by genre and author.",
+    "Unstructured Data": "Data that does not have a predefined format, making it more challenging to analyze, like a messy room full of random items. Like trying to find a specific book in a chaotic library where everything is out of order.",
+    "Goalposts": "Metaphorical markers that define success or correctness in a project, which can shift unexpectedly. Imagine a soccer game where the goal keeps moving; players become frustrated and confused about what is expected."
+  },
+  "topics": [
+    "AI architecture",
+    "correctness",
+    "probabilistic systems",
+    "project management",
+    "AI adoption"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/ive-reviewed-20-enterprise-ai-builds?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/ive-reviewed-20-enterprise-ai-builds?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T15:18:43.241467+00:00"
+}

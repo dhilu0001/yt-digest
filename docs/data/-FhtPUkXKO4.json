@@ -1,0 +1,70 @@
+{
+  "video_id": "-FhtPUkXKO4",
+  "channel_handle": "@NateBJones",
+  "channel_title": "AI News & Strategy Daily | Nate B Jones",
+  "title": "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it.",
+  "published_at": "2026-03-10T14:00:00Z",
+  "thumbnail": "https://i.ytimg.com/vi/-FhtPUkXKO4/mqdefault.jpg",
+  "url": "https://www.youtube.com/watch?v=-FhtPUkXKO4",
+  "duration": "20m 55s",
+  "view_count": "40998",
+  "like_count": "1302",
+  "has_transcript": false,
+  "executive_summary": "In the video, Nate B Jones explains that frontier AI models can outperform experienced professionals 70% of the time, but their outputs often fail to meet domain expertise. The key takeaway is that learning to say 'no' to AI outputs is crucial for developing institutional knowledge and taste, which can significantly enhance the value of AI in organizations.",
+  "bullets": [
+    "Frontier AI models beat professionals with 14 years of experience 70% of the time, but their outputs often don't hold up under expert scrutiny. This highlights that while AI can generate impressive results, it lacks the nuanced understanding that comes from years of experience. It's like a student who can recite facts perfectly but struggles to apply them in real-life situations.",
+    "The common narrative focuses on improving prompting and workflow design, but the real value lies in the ability to reject poor outputs. This rejection process creates institutional knowledge that helps teams refine their standards and expectations. Think of it like a chef tasting a dish and deciding to add more salt; that decision improves the recipe for future cooks.",
+    "Learning to say 'no' is a critical skill in developing judgment and taste when working with AI. This skill allows individuals to discern quality outputs from subpar ones, which is essential in a competitive landscape. It's like a curator selecting only the best pieces for an art gallery, ensuring that only high-quality work is displayed.",
+    "Rejections are more valuable than prompts because they contribute to a deeper understanding of what works and what doesn't. By analyzing why something was rejected, teams can refine their criteria and improve future AI interactions. Imagine a coach reviewing game footage to understand why a play failed; that analysis leads to better strategies.",
+    "Recognition involves detecting when something is wrong with AI outputs, which is the first step in the rejection process. This skill helps individuals identify flaws that may not be immediately obvious, ensuring that only quality work is accepted. It's like a detective noticing a small clue that leads to solving a big case.",
+    "Articulation is the ability to explain why an AI output is inadequate in usable terms. This skill allows for clear communication about the shortcomings of AI-generated content, which is vital for improvement. Think of it like a teacher explaining to a student why their essay needs more supporting evidence; it helps the student learn and grow.",
+    "Encoding refers to the process of making rejections persist beyond the moment of decision. This involves documenting the reasons for rejection so that the knowledge can be shared and used in the future. It's like writing down a recipe after perfecting it, ensuring that the same delicious dish can be made again.",
+    "Epic Systems teaches us about scaling taste through thousands of encoded workflows. By systematically documenting and sharing rejections, organizations can create a culture of quality that permeates their work. It's like a library of best practices that everyone can refer to, improving overall performance.",
+    "The structural gap in the AI tool ecosystem means that many valuable rejections are left unutilized. This gap can hinder organizations from fully leveraging their AI capabilities, as they may not learn from past mistakes. Imagine a factory that discards defective products without analyzing why they failed; they miss out on valuable insights.",
+    "The frontier of AI value is directly linked to an organization's taste and judgment. As AI continues to flood organizations with outputs, developing a refined taste becomes essential for distinguishing between quality and mediocrity. It's like a wine taster who can identify subtle flavors that others miss, leading to better selections.",
+    "By the end of the year, organizations need to build infrastructure that supports the scaling of 'no's' to improve their AI outputs. This infrastructure will help teams systematically evaluate and refine AI-generated content. Think of it like constructing a solid foundation for a building; without it, the structure will be weak and unstable."
+  ],
+  "key_takeaways": [
+    "Develop a system for rejecting AI outputs based on clear criteria. This will help your team refine its standards and improve the quality of accepted outputs. If you skip this, you risk accepting mediocre work that could harm your organization's reputation.",
+    "Set a goal to document at least 50% of your rejections and the reasons behind them. This practice will create a repository of knowledge that can enhance future AI interactions. Without this documentation, valuable insights will be lost, and mistakes will likely be repeated.",
+    "By the end of the year, implement a structured approach to evaluate AI outputs. This will ensure that your organization is not only accepting outputs but also learning from them. Failing to do so may leave your team behind as others refine their processes and improve their results."
+  ],
+  "technical_terms": {
+    "Frontier AI models": "Advanced AI systems that can generate outputs that sometimes outperform human experts. Think of it like a new sports car that can outperform older models on the racetrack but still needs a skilled driver to navigate turns effectively.",
+    "Institutional knowledge": "The collective understanding and expertise that an organization develops over time, often through experience and learning from past mistakes. Like a library filled with books that contain lessons learned from years of research and practice.",
+    "Recognition": "The ability to identify when an AI output is flawed or inadequate. Think of it like a quality control inspector spotting defects in a product before it reaches the customer.",
+    "Articulation": "The skill of clearly explaining why something is wrong or inadequate. Like a teacher who can break down complex concepts into simple terms for students to understand.",
+    "Encoding": "The process of documenting rejections and the reasons behind them so that this knowledge can be shared and used in the future. Like creating a recipe book that includes notes on what works and what doesn't.",
+    "Epic Systems": "A company known for its healthcare software that emphasizes the importance of scaling taste through documented workflows. Think of it like a successful restaurant chain that standardizes its recipes to ensure consistent quality across all locations.",
+    "AI tool ecosystem": "The collection of tools and systems used to develop and implement AI solutions. Like a toolbox that contains various instruments, each designed for a specific task in building a project.",
+    "Quality outputs": "High-standard results generated by AI that meet or exceed expectations. Think of it like a perfectly baked cake that looks good and tastes great, rather than a flat, burnt one.",
+    "Rejection process": "The steps taken to evaluate and decide against accepting an AI output. Like a rigorous audition process for a talent show where only the best performers make it to the final round.",
+    "Taste": "The ability to discern quality and make judgments about what is acceptable or desirable. Like a food critic who can identify the subtle flavors and textures in a dish that others might overlook."
+  },
+  "topics": [
+    "AI strategy",
+    "Institutional knowledge",
+    "Quality control",
+    "Workflow design",
+    "AI outputs"
+  ],
+  "importance": "high",
+  "external_references": [
+    {
+      "url": "https://natebjones.com",
+      "title": "https://natebjones.com",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "title": "https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "why_relevant": ""
+    },
+    {
+      "url": "https://natesnewsletter.substack.com/",
+      "title": "https://natesnewsletter.substack.com/",
+      "why_relevant": ""
+    }
+  ],
+  "processed_at": "2026-05-09T14:46:22.459171+00:00"
+}
