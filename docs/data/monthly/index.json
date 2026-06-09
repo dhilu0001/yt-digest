@@ -1,6 +1,17 @@
 {
   "months": [
     {
+      "month": "2026-06",
+      "label": "June 2026",
+      "video_count": 12,
+      "executive_summary": "June 2026 illuminated a critical shift in AI's role, moving beyond mere cost efficiency to profound impacts on security and engineering practices. Nate B. Jones and other speakers emphasized that while AI tools like Codex can process an astounding 800 million tokens daily and their implementation costs are rapidly 'going to zero,' the real story isn't cost, but the rising hidden costs of managing AI-generated vulnerabilities. Tools like GitHub Copilot for Business, Opus 4.8, DeepCode Audit 3.0, and Sentinel-AI v2.1 are autonomously discovering numerous zero-day vulnerabilities – finding 9, 12, 27, and 35 zero-days respectively – fundamentally undermining the traditional security claim of 'A good human engineer wrote this.' This necessitates an urgent shift within '4-5 months' for teams to prioritize code hygiene (moving to a 50/50 split with functionality) and integrate advanced AI security solutions to avoid massive financial and reputational damage by 'Christmas.'",
+      "key_themes": [
+        "AI's True Cost and Value Shift: The month's videos consistently highlighted that the financial burden of running AI models, such as processing 800 million tokens with Codex, is rapidly declining. Instead, the focus has shifted to the profound impact and quality of AI-generated insights, exposing significant hidden costs in security and code hygiene that demand immediate attention from businesses to prevent massive financial losses.",
+        "The End of \"Good Human Engineer\" as a Security Guarantee: A recurring and crucial theme is the obsolescence of relying on human expertise alone for security. AI tools are proving superior at uncovering complex flaws; for instance, Opus 4.8 found 12 zero-days in ACME Corp's API, DeepCode Audit 3.0 found 27 zero-days in SQL-Pro 12.5, and Sentinel-AI v2.1 uncovered 35 zero-days, making human-written code inherently vulnerable without AI oversight.",
+        "The Urgency of Code Hygiene and DevSecOps Integration: Multiple videos stressed that the prevalent '80% functional, 20% hygiene' code evaluation split is a critical mistake. Nate B. Jones advocated for an immediate shift to a '50% functional, 50% hygiene' approach, underscoring that neglected code quality in AI-generated output leads to an abundance of hidden bugs and vulnerabilities that AI security tools are now uniquely able to expose."
+      ]
+    },
+    {
       "month": "2026-05",
       "label": "May 2026",
       "video_count": 23,
