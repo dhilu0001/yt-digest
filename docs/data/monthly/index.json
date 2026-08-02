@@ -1,6 +1,17 @@
 {
   "months": [
     {
+      "month": "2026-08",
+      "label": "August 2026",
+      "video_count": 2,
+      "executive_summary": "August 2026 brought critical discussions on the evolving understanding and deployment of AI models. Nate B Jones from AI News & Strategy Daily challenged perceptions, noting that ChatGPT 5.6 Soul, despite a provocative 'dumber' claim, performs strongly 'on the hard benchmarks,' highlighting the nuance in AI model evaluation. More significantly, Jones revealed a crucial security and transparency issue: ChatGPT, Claude, and Codex already ship with powerful, built-in 'agent skills' that most users are unaware of. This lack of transparency means the traditional security assurance of 'a good human engineer wrote this' is weakening, urging students to deeply understand default AI functionalities over simply adding new features.",
+      "key_themes": [
+        "AI Model Nuance and Evaluation: August highlighted that 'smarter' isn't always a straightforward concept for AI models. The discussion around ChatGPT 5.6 Soul demonstrated that perceived limitations or 'dumbness' can, paradoxically, be beneficial in specific contexts, especially when evaluated 'on the hard benchmarks.'",
+        "Hidden AI Agent Capabilities: A major theme was the revelation that prominent AI models like ChatGPT, Claude, and Codex come pre-equipped with advanced 'agent skills' that operate without most users' knowledge. This underscores a significant blind spot in how these powerful tools are currently understood and managed.",
+        "AI Transparency and Security Risks: The month emphasized the growing operational risk associated with opaque default AI functionalities. The claim 'a good human engineer wrote this' is increasingly insufficient as a security assurance when complex, autonomous agent skills are built-in and their actions are not transparent to users or even potentially fully predictable by creators."
+      ]
+    },
+    {
       "month": "2026-07",
       "label": "July 2026",
       "video_count": 1,
