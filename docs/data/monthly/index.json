@@ -1,6 +1,17 @@
 {
   "months": [
     {
+      "month": "2026-09",
+      "label": "September 2026",
+      "video_count": 1,
+      "executive_summary": "September 2026 brought a crucial discussion on the cognitive impact of AI, particularly highlighted by Nate B Jones in his 'Friction maxing' video. He addressed the concern that AI, exemplified by tools like Claude, contributes to 'AI brainrot' by performing 'friction removal,' thus atrophying human critical thinking skills. Jones proposed 'Friction maxing' as a deliberate strategy to reintroduce cognitive challenges and counteract this effect. This month underscored the importance of active engagement with AI rather than passive reliance to maintain cognitive agility, urging students to adopt a personal and actionable framework for AI use.",
+      "key_themes": [
+        "AI's Cognitive Impact and 'Brainrot': This month's key discussion centered on the concern, voiced by Nate B Jones, that AI is making people dumber through 'AI brainrot.' This worry, deemed 'fair,' highlights the potential for cognitive decline as AI tools increasingly simplify tasks and reduce mental effort.",
+        "The Problem of 'Friction Removal': A core mechanism identified for AI's detrimental cognitive effect is 'friction removal.' AI tools, such as Claude, are designed to streamline tasks and remove obstacles, inadvertently diminishing the need for human critical thinking and problem-solving skills.",
+        "Counteracting Cognitive Decline with 'Friction Maxing': The video introduced 'Friction maxing' as a deliberate strategy to combat the effects of AI brainrot. This approach advocates for actively reintroducing cognitive challenges and mental effort into workflows to prevent skill atrophy."
+      ]
+    },
+    {
       "month": "2026-08",
       "label": "August 2026",
       "video_count": 2,
