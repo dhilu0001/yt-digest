@@ -1,6 +1,17 @@
 {
   "months": [
     {
+      "month": "2026-10",
+      "label": "October 2026",
+      "video_count": 5,
+      "executive_summary": "October 2026 unveiled a fiercely competitive AI landscape marked by significant product launches and unprecedented investments. OpenAI's DevDay 2026 introduced premium products like 'Dots' ($100/month) and GPT-6.1 Sol, challenging Meta's free 'Muse' agent. Anthropic made a colossal $500 billion bet on data center infrastructure, highlighted by a leaked IPO prospectus, underscoring the massive investment required for AI. Microsoft dramatically shifted its stance on autonomous AI, integrating the previously 'virus'-compared OpenClaw technology into Copilot Autopilot for enterprise applications like Outlook and Teams, promising zero implementation costs. Meanwhile, Claude's Opus 5.5 showcased impressive multi-modal capabilities by virtually assembling a 500-piece Lego set, creating a video with sound and a 63-page manual, while Meta's Muse demonstrated practical financial automation for consumers. This month showcased rapid advancements in AI agents, fierce market competition, and unprecedented infrastructure commitments, alongside emerging discussions on AI security and cost-efficiency.",
+      "key_themes": [
+        "Intensifying AI Competition and Pricing Models: OpenAI launched premium products like 'Dots' at $100/month at its DevDay 2026, directly competing with Meta's 'Muse', which offers a free version. This forces users to weigh value against cost in the rapidly expanding AI product market.",
+        "Massive Investment in AI Infrastructure: Anthropic revealed an unprecedented $500 billion bet on data center infrastructure through a leaked IPO prospectus. This emphasizes the colossal financial commitment and computational power required to scale advanced AI capabilities.",
+        "The Rise of Autonomous AI Agents in Enterprise and Personal Use: Microsoft integrated OpenClaw-based AI agents, rebranded as Copilot Autopilot, into core business applications. Simultaneously, Meta's Muse demonstrated practical personal financial automation by helping users recover money from forgotten subscriptions."
+      ]
+    },
+    {
       "month": "2026-09",
       "label": "September 2026",
       "video_count": 1,
