@@ -1,6 +1,17 @@
 {
   "months": [
     {
+      "month": "2026-11",
+      "label": "November 2026",
+      "video_count": 1,
+      "executive_summary": "November 2026 unveiled a fiercely competitive landscape as Microsoft, Salesforce, Oracle, and OpenAI intensified their \"trillion-dollar fight\" to dominate the foundational platform for enterprise AI agents. This monumental rivalry signals a future where AI agent platforms are central to business operations, fundamentally altering how companies deploy intelligence. A critical shift is underway, with AI implementation costs rapidly \"going to zero,\" making sophisticated AI accessible to nearly all organizations. However, this accessibility demands immediate attention to AI-generated code quality and security, as traditional trust in human authorship wanes. The industry faces an urgent need to reverse current code evaluation processes to prioritize hygiene over mere functionality within \"4-5 months\" and certainly \"by end of year.\"",
+      "key_themes": [
+        "AI Agent Platform Rivalry: Microsoft, Salesforce, Oracle, and OpenAI are locked in a \"trillion-dollar fight\" to become the definitive platform for running business AI agents, marking a significant pivot where these tech giants are direct competitors for fundamental enterprise infrastructure.",
+        "AI-Generated Code Quality & Security: The inherent trust in human authorship for code quality and security is rapidly diminishing as AI-generated code becomes prevalent, highlighting an urgent need to re-evaluate security claims and testing methodologies.",
+        "Decreasing AI Implementation Costs: The financial barriers to adopting sophisticated AI solutions are dramatically \"going to zero,\" making advanced AI agents accessible to virtually any organization, fundamentally altering the landscape for business adoption."
+      ]
+    },
+    {
       "month": "2026-10",
       "label": "October 2026",
       "video_count": 5,
